@@ -1,0 +1,722 @@
+{
+  "Circle2D": [
+    {"ID": "g3", "CenterPoint": {"X": -7.62, "Y": 2.54}, "Radius": 0.381} // 编号 - 圆心 - 半径
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g1", // 编号
+      "Height": 7.62, // 高
+      "Position": {"X": -8.89, "Y": 3.81}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 17.78 // 宽
+    }
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g5", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g8", // 编号
+      "Align": "BottomRight", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g32", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Width": 0, // 宽
+      "Weight": 0.00983234 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g6", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -7.950200000000001, "Y": -0.23240492000000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD" // 文本
+    },
+    {
+      "ID": "g9", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -9.017, "Y": 1.03759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "1" // 文本
+    },
+    {
+      "ID": "g12", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -7.950200000000001, "Y": -2.77240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "GND" // 文本
+    },
+    {
+      "ID": "g14", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -9.017, "Y": -1.50240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "2" // 文本
+    },
+    {
+      "ID": "g17", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 7.950200000000001, "Y": -2.77240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "GND" // 文本
+    },
+    {
+      "ID": "g19", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 9.017, "Y": -1.50240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "3" // 文本
+    },
+    {
+      "ID": "g22", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 7.950200000000001, "Y": -0.23240492000000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VM" // 文本
+    },
+    {
+      "ID": "g24", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 9.017, "Y": 1.03759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "4" // 文本
+    },
+    {
+      "ID": "g27", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0.762, "Y": 2.81559508}, // 原点
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Text": "EP" // 文本
+    },
+    {
+      "ID": "g29", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -0.254, "Y": 3.32359508}, // 原点
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Text": "5" // 文本
+    },
+    {
+      "ID": "g33", // 编号
+      "FontDefinition": "g32",
+      "FontSize": 0.43548, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Symbol": [
+    {
+      "ID": "g65", // 编号
+      "IsHomogeneous": false,
+      "Name": "AP6683", // 名称
+      "Purpose": "Component", // 用途 - 元件
+      "SubPart": [ // 子件
+        {
+          "Name": "AP6683.1", // 名称
+          "Shapes": [
+            "g2",
+            "g4",
+            "g11",
+            "g16",
+            "g21",
+            "g26",
+            "g31",
+            "g34",
+            "g35",
+            "g36",
+            "g37",
+            "g38",
+            "g39",
+            "g40",
+            "g41",
+            "g42",
+            "g43",
+            "g44",
+            "g45",
+            "g46",
+            "g47",
+            "g48",
+            "g49",
+            "g50",
+            "g51",
+            "g52",
+            "g53",
+            "g54",
+            "g55",
+            "g56",
+            "g57",
+            "g58",
+            "g59",
+            "g60",
+            "g61",
+            "g62",
+            "g63",
+            "g64"
+          ]
+        }
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "SymbolAttribute": [
+    {
+      "ID": "g7", // 编号
+      "Depth": 4, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g6", // 文本
+      "Value": "VDD", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g10", // 编号
+      "Depth": 5, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g13", // 编号
+      "Depth": 7, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "GND", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g15", // 编号
+      "Depth": 8, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g14", // 文本
+      "Value": "2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g18", // 编号
+      "Depth": 10, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g17", // 文本
+      "Value": "GND", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g20", // 编号
+      "Depth": 11, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g19", // 文本
+      "Value": "3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g23", // 编号
+      "Depth": 13, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g22", // 文本
+      "Value": "VM", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g25", // 编号
+      "Depth": 14, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g24", // 文本
+      "Value": "4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g28", // 编号
+      "Depth": 16, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g27", // 文本
+      "Value": "EP", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g30", // 编号
+      "Depth": 17, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g29", // 文本
+      "Value": "5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g34", // 编号
+      "Depth": 18, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "单节锂离子和锂聚合物电池保护集成电路", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g35", // 编号
+      "Depth": 19, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "C2849565", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g36", // 编号
+      "Depth": 20, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "ALLPOWER(铨力)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g37", // 编号
+      "Depth": 21, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "AP6683", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g38", // 编号
+      "Depth": 22, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "DFN-4-EP(1x1)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g39", // 编号
+      "Depth": 23, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "Extended Part", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g40", // 编号
+      "Depth": 24, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "https://item.szlcsc.com/datasheet/AP6683/3049182.html", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g41", // 编号
+      "Depth": 25, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g42", // 编号
+      "Depth": 26, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g43", // 编号
+      "Depth": 27, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g44", // 编号
+      "Depth": 28, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "AP6683", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g45", // 编号
+      "Depth": 29, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g46", // 编号
+      "Depth": 30, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "DFN-4_L1.0-W1.0-P0.65-BL-EP", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g47", // 编号
+      "Depth": 31, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "bb5c60478e114cecafb4cacfcccae5cc|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g48", // 编号
+      "Depth": 32, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "DFN-4_L1.0-W1.0-H0.5-P0.65-BL-EP", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g49", // 编号
+      "Depth": 33, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "40.1574,40.1574,0,0,0,0,0.18,0.02,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g50", // 编号
+      "Depth": 34, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "The Chip Type", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "保护芯片", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g51", // 编号
+      "Depth": 35, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Voltage - Supply", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g52", // 编号
+      "Depth": 36, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Charge Current - Max", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g53", // 编号
+      "Depth": 37, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Charging Saturation Voltage", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g54", // 编号
+      "Depth": 38, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "End-Off Voltage", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "2.8V", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g55", // 编号
+      "Depth": 39, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Type of Battery", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "锂电池", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g56", // 编号
+      "Depth": 40, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Number of Cells", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "1", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g57", // 编号
+      "Depth": 41, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Operating Temperature", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-40℃~+85℃", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g58", // 编号
+      "Depth": 42, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Battery Temperature Detection", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "不支持", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g59", // 编号
+      "Depth": 43, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "0V Battery Charge", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "支持", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g60", // 编号
+      "Depth": 44, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supply Current (Iq)", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "100nA", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g61", // 编号
+      "Depth": 45, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Balance Current", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g62", // 编号
+      "Depth": 46, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Interface", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g63", // 编号
+      "Depth": 47, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "={ManufacturerPart}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g64", // 编号
+      "Depth": 48, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "工作电压:-;最大充电电流:-;电池类型:锂电池;电池节数:1;", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "SymbolShape": [
+    {
+      "ID": "g2", // 编号
+      "Depth": 1, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g1" // 几何形状
+    },
+    {
+      "ID": "g4", // 编号
+      "Depth": 2, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g3" // 几何形状
+    }
+  ],
+  "Pin": [ // 引脚
+    {
+      "ID": "g11", // 编号
+      "Depth": 3, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -11.43, "Y": 1.27}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g7",
+      "PinNumber": "g10",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g16", // 编号
+      "Depth": 6, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -11.43, "Y": -1.27}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g13",
+      "PinNumber": "g15",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 9, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 11.43, "Y": -1.27}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g18",
+      "PinNumber": "g20",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g26", // 编号
+      "Depth": 12, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 11.43, "Y": 1.27}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g23",
+      "PinNumber": "g25",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g31", // 编号
+      "Depth": 15, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 0, "Y": 6.35}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g28",
+      "PinNumber": "g30",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 4.71238898038469 // 旋转弧度
+    }
+  ]
+}

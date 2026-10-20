@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g46</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.2149796</X>
+      <Y>-1.0157205999999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.3129981999999996</X>
+      <Y>-1.0157205999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g49</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.2149796</X>
+      <Y>1.0162794</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.3129981999999996</X>
+      <Y>1.0162794</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g52</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.3129981999999996</X>
+      <Y>-0.6999477999999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.3129981999999996</X>
+      <Y>-1.0157205999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g55</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.3129981999999996</X>
+      <Y>1.0162794</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.3129981999999996</X>
+      <Y>0.700278</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g58</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.313049</X>
+      <Y>1.0160254</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.2151827999999996</X>
+      <Y>1.0160254</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g61</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.313049</X>
+      <Y>0.700278</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.313049</X>
+      <Y>1.0160254</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g64</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.313049</X>
+      <Y>-1.0159746</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.313049</X>
+      <Y>-0.6999732</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g67</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.2151827999999996</X>
+      <Y>-1.0159746</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.313049</X>
+      <Y>-1.0159746</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g47</ID> <!-- 编号 -->
+    <Curve>g46</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g50</ID> <!-- 编号 -->
+    <Curve>g49</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g53</ID> <!-- 编号 -->
+    <Curve>g52</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g56</ID> <!-- 编号 -->
+    <Curve>g55</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g59</ID> <!-- 编号 -->
+    <Curve>g58</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g62</ID> <!-- 编号 -->
+    <Curve>g61</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g65</ID> <!-- 编号 -->
+    <Curve>g64</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g68</ID> <!-- 编号 -->
+    <Curve>g67</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Circle2D>
+    <ID>g70</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.919986</X>
+      <Y>-1.2500102</Y>
+    </CenterPoint>
+    <Radius>0.053848</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g1</ID> <!-- 编号 -->
+    <Height>1.040003</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.10750549999999999</X>
+      <Y>0.5200015</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.21501099999999998</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g3</ID> <!-- 编号 -->
+    <Height>1.06500295</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.12000547499999999</X>
+      <Y>0.532501475</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.24001094999999997</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g7</ID> <!-- 编号 -->
+    <Height>0.2350008</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.3750056</X>
+      <Y>0.1175004</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.7500112</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g9</ID> <!-- 编号 -->
+    <Height>0.26000075</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.387505575</X>
+      <Y>0.130000375</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.77501115</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g16</ID> <!-- 编号 -->
+    <Height>0.324993</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.0750062</X>
+      <Y>0.1624965</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.1500124</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g18</ID> <!-- 编号 -->
+    <Height>0.34999294999999997</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.08750617499999999</X>
+      <Y>0.17499647499999998</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.17501234999999998</Width> <!-- 宽 -->
+  </Rectangle>
+  <FontDefinition>
+    <ID>g72</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.1524</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g78</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.00387</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g73</ID> <!-- 编号 -->
+    <FontDefinition>g72</FontDefinition>
+    <FontSize>1.7145</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g79</ID> <!-- 编号 -->
+    <FontDefinition>g78</FontDefinition>
+    <FontSize>0.04355</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Footprint>
+    <ID>g94</ID> <!-- 编号 -->
+    <Name>CONN-SMD_24P-P0.35_HC-PBB13C-24DS-0.35V-0.6-05</Name> <!-- 名称 -->
+    <Pad>g6</Pad> <!-- 焊盘 -->
+    <Pad>g12</Pad> <!-- 焊盘 -->
+    <Pad>g13</Pad> <!-- 焊盘 -->
+    <Pad>g14</Pad> <!-- 焊盘 -->
+    <Pad>g15</Pad> <!-- 焊盘 -->
+    <Pad>g21</Pad> <!-- 焊盘 -->
+    <Pad>g22</Pad> <!-- 焊盘 -->
+    <Pad>g23</Pad> <!-- 焊盘 -->
+    <Pad>g24</Pad> <!-- 焊盘 -->
+    <Pad>g25</Pad> <!-- 焊盘 -->
+    <Pad>g26</Pad> <!-- 焊盘 -->
+    <Pad>g27</Pad> <!-- 焊盘 -->
+    <Pad>g28</Pad> <!-- 焊盘 -->
+    <Pad>g29</Pad> <!-- 焊盘 -->
+    <Pad>g30</Pad> <!-- 焊盘 -->
+    <Pad>g31</Pad> <!-- 焊盘 -->
+    <Pad>g32</Pad> <!-- 焊盘 -->
+    <Pad>g33</Pad> <!-- 焊盘 -->
+    <Pad>g34</Pad> <!-- 焊盘 -->
+    <Pad>g35</Pad> <!-- 焊盘 -->
+    <Pad>g36</Pad> <!-- 焊盘 -->
+    <Pad>g37</Pad> <!-- 焊盘 -->
+    <Pad>g38</Pad> <!-- 焊盘 -->
+    <Pad>g39</Pad> <!-- 焊盘 -->
+    <Pad>g40</Pad> <!-- 焊盘 -->
+    <Pad>g41</Pad> <!-- 焊盘 -->
+    <Pad>g42</Pad> <!-- 焊盘 -->
+    <Pad>g43</Pad> <!-- 焊盘 -->
+    <Pad>g44</Pad> <!-- 焊盘 -->
+    <Pad>g45</Pad> <!-- 焊盘 -->
+    <Purpose>Component</Purpose> <!-- 用途 -->
+    <Shapes>g48</Shapes>
+    <Shapes>g51</Shapes>
+    <Shapes>g54</Shapes>
+    <Shapes>g57</Shapes>
+    <Shapes>g60</Shapes>
+    <Shapes>g63</Shapes>
+    <Shapes>g66</Shapes>
+    <Shapes>g69</Shapes>
+    <Shapes>g71</Shapes>
+    <Shapes>g74</Shapes>
+    <Shapes>g75</Shapes>
+    <Shapes>g76</Shapes>
+    <Shapes>g77</Shapes>
+    <Shapes>g80</Shapes>
+    <Shapes>g81</Shapes>
+    <Shapes>g82</Shapes>
+    <Shapes>g83</Shapes>
+    <Shapes>g84</Shapes>
+    <Shapes>g85</Shapes>
+    <Shapes>g86</Shapes>
+    <Shapes>g87</Shapes>
+    <Shapes>g88</Shapes>
+    <Shapes>g89</Shapes>
+    <Shapes>g90</Shapes>
+    <Shapes>g91</Shapes>
+    <Shapes>g92</Shapes>
+    <Shapes>g93</Shapes>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Footprint>
+  <FootprintAttribute>
+    <ID>g74</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g73</Text> <!-- 文本 -->
+    <Value>CONN-SMD_24P-P0.35_HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g75</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g73</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g76</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g73</Text> <!-- 文本 -->
+    <Value>CONN-SMD_24P-P0.35_HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g77</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g73</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g80</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>LCSC Part Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g81</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SupplierPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>C49242780</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g82</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Manufacturer</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>HCTL(华灿天禄)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g83</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ManufacturerPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g84</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>SMD,P=0.35mm</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g85</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>JLCPCB Part Class</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>Extended Part</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g86</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Datasheet</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>https://item.szlcsc.com/datasheet/HC-PBB13C-24DS-0.35V-0.6-05/51670497.html</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g87</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>LCSC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g88</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>AddInBom</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g89</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ConvertToPcb</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g90</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g91</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>FootprintName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>CONN-SMD_24P-P0.35_HC-PBB13C-24DS-0.35V-0.6-05</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g92</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>={ManufacturerPart}</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g93</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g79</Text> <!-- 文本 -->
+    <Value>特性：电压:30V AC/DC。电流:0.3A/信号触点,7A/电源触点。工作温度:-40°C 至 85°C。接触电阻:90mΩ/信号触点,30mΩ/电源触点。绝缘电阻:最小初始值 50MΩ。介电耐压:100V AC 持续一分钟。红外回流周期:最多 2 个周期。耐久性:30 个周期</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintLine>
+    <ID>g48</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g47</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g51</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g50</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g54</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g53</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g56</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g60</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g59</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g63</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g62</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g66</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g65</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g69</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g68</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g71</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.1519936</LineWidth> <!-- 线宽 -->
+    <Shape>g70</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <Pad> <!-- 焊盘 -->
+    <ID>g6</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.2399732</X>
+      <Y>0.000254</Y>
+    </Location>
+    <PadNumber>27</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g5</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g12</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.6599641999999997</X>
+      <Y>-0.9329419999999999</Y>
+    </Location>
+    <PadNumber>26</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g11</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g13</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.6599641999999997</X>
+      <Y>0.9329419999999999</Y>
+    </Location>
+    <PadNumber>25</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g11</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g14</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.6601166</X>
+      <Y>0.9329419999999999</Y>
+    </Location>
+    <PadNumber>28</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g11</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g15</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.6601166</X>
+      <Y>-0.9329419999999999</Y>
+    </Location>
+    <PadNumber>29</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g11</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g21</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.9250406</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g22</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.5750286</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g23</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.2250166</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g24</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.8750045999999999</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g25</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.5249926</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g26</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.1749806</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g27</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.1750314</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g28</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.5250433999999999</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>15</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g29</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.8750553999999999</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>17</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g30</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.2250674</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>19</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g31</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.5750794</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>21</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g32</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.9248374000000001</X>
+      <Y>-0.887984</Y>
+    </Location>
+    <PadNumber>23</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g33</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.9250406</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g34</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.5750286</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g35</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.2250166</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g36</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.8750045999999999</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g37</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.5249926</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g38</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.1749806</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g39</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.1750314</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g40</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.5250433999999999</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>16</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g41</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.8750553999999999</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>18</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g42</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.2250674</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>20</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g43</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.5750794</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>22</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g44</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.9248374000000001</X>
+      <Y>0.887984</Y>
+    </Location>
+    <PadNumber>24</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g20</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g45</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.2399986</X>
+      <Y>0.000254</Y>
+    </Location>
+    <PadNumber>30</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g5</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g5</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g2</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g4</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g2</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g11</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g8</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g10</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g8</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g20</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g17</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g19</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g17</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadShape>
+    <ID>g2</ID> <!-- 编号 -->
+    <Shape>g1</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g4</ID> <!-- 编号 -->
+    <Shape>g3</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g8</ID> <!-- 编号 -->
+    <Shape>g7</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g10</ID> <!-- 编号 -->
+    <Shape>g9</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g17</ID> <!-- 编号 -->
+    <Shape>g16</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g19</ID> <!-- 编号 -->
+    <Shape>g18</Shape> <!-- 几何形状 -->
+  </PadShape>
+</root>

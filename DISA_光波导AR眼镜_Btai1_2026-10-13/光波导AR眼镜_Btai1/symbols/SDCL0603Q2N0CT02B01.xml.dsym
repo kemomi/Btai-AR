@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g13</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.237616620000001</X>
+      <Y>0.43100752</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.2880559400000005</X>
+      <Y>0.01493266</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g14</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.0188642</X>
+      <Y>0.78581758</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.237616620000001</X>
+      <Y>0.43100752</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g15</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.67821972</X>
+      <Y>1.0192766</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.0188642</X>
+      <Y>0.78581758</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g16</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.2761682000000003</X>
+      <Y>1.09992414</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.67821972</X>
+      <Y>1.0192766</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g17</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-2.8741903399999997</X>
+      <Y>1.01887782</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.2761682000000003</X>
+      <Y>1.09992414</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g18</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-2.53377446</X>
+      <Y>0.78507082</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-2.8741903399999997</X>
+      <Y>1.01887782</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g19</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-2.31539288</X>
+      <Y>0.430022</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-2.53377446</X>
+      <Y>0.78507082</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g20</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-2.26540314</X>
+      <Y>0.01389126</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-2.31539288</X>
+      <Y>0.430022</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g23</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-2.08287874</X>
+      <Y>0.43176443999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-2.1333739400000002</X>
+      <Y>0.0156972</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g24</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-1.8640805999999999</X>
+      <Y>0.78654656</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-2.08287874</X>
+      <Y>0.43176443999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g25</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-1.5234081800000001</X>
+      <Y>1.0199598600000002</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-1.8640805999999999</X>
+      <Y>0.78654656</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g26</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-1.1213465</X>
+      <Y>1.1005566000000002</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-1.5234081800000001</X>
+      <Y>1.0199598600000002</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g27</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.7193788</X>
+      <Y>1.0194645599999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-1.1213465</X>
+      <Y>1.1005566000000002</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g28</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.3789934</X>
+      <Y>0.7856118400000001</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.7193788</X>
+      <Y>1.0194645599999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g29</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.16065754000000002</X>
+      <Y>0.43053253999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.3789934</X>
+      <Y>0.7856118400000001</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g30</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.11072367999999999</X>
+      <Y>0.01439672</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.16065754000000002</X>
+      <Y>0.43053253999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g33</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.06773926</X>
+      <Y>0.43176443999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.017244060000000002</X>
+      <Y>0.0156972</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g34</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.28653740000000005</X>
+      <Y>0.78654656</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.06773926</X>
+      <Y>0.43176443999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g35</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.6272098199999999</X>
+      <Y>1.0199598600000002</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.28653740000000005</X>
+      <Y>0.78654656</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g36</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>1.0292715</X>
+      <Y>1.1005566000000002</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.6272098199999999</X>
+      <Y>1.0199598600000002</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g37</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>1.4312392</X>
+      <Y>1.0194645599999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>1.0292715</X>
+      <Y>1.1005566000000002</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g38</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>1.7716246</X>
+      <Y>0.7856118400000001</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>1.4312392</X>
+      <Y>1.0194645599999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g39</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>1.98996046</X>
+      <Y>0.43053253999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>1.7716246</X>
+      <Y>0.7856118400000001</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g40</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.0398943199999997</X>
+      <Y>0.01439672</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>1.98996046</X>
+      <Y>0.43053253999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g43</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.26052126</X>
+      <Y>0.43125643999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>2.2100260599999997</X>
+      <Y>0.0151892</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g44</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.4793194</X>
+      <Y>0.78603856</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>2.26052126</X>
+      <Y>0.43125643999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g45</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.8199918200000003</X>
+      <Y>1.01945186</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>2.4793194</X>
+      <Y>0.78603856</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g46</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.2220535</X>
+      <Y>1.1000486</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>2.8199918200000003</X>
+      <Y>1.01945186</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g47</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.6240212</X>
+      <Y>1.01895656</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.2220535</X>
+      <Y>1.1000486</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g48</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>3.9644066000000002</X>
+      <Y>0.78510384</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.6240212</X>
+      <Y>1.01895656</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g49</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>4.18274246</X>
+      <Y>0.43002453999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>3.9644066000000002</X>
+      <Y>0.78510384</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g50</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>4.2326763199999995</X>
+      <Y>0.01388872</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>4.18274246</X>
+      <Y>0.43002453999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g21</ID> <!-- 编号 -->
+    <Curve>g13</Curve> <!-- 曲线 -->
+    <Curve>g14</Curve> <!-- 曲线 -->
+    <Curve>g15</Curve> <!-- 曲线 -->
+    <Curve>g16</Curve> <!-- 曲线 -->
+    <Curve>g17</Curve> <!-- 曲线 -->
+    <Curve>g18</Curve> <!-- 曲线 -->
+    <Curve>g19</Curve> <!-- 曲线 -->
+    <Curve>g20</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g31</ID> <!-- 编号 -->
+    <Curve>g23</Curve> <!-- 曲线 -->
+    <Curve>g24</Curve> <!-- 曲线 -->
+    <Curve>g25</Curve> <!-- 曲线 -->
+    <Curve>g26</Curve> <!-- 曲线 -->
+    <Curve>g27</Curve> <!-- 曲线 -->
+    <Curve>g28</Curve> <!-- 曲线 -->
+    <Curve>g29</Curve> <!-- 曲线 -->
+    <Curve>g30</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g41</ID> <!-- 编号 -->
+    <Curve>g33</Curve> <!-- 曲线 -->
+    <Curve>g34</Curve> <!-- 曲线 -->
+    <Curve>g35</Curve> <!-- 曲线 -->
+    <Curve>g36</Curve> <!-- 曲线 -->
+    <Curve>g37</Curve> <!-- 曲线 -->
+    <Curve>g38</Curve> <!-- 曲线 -->
+    <Curve>g39</Curve> <!-- 曲线 -->
+    <Curve>g40</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g51</ID> <!-- 编号 -->
+    <Curve>g43</Curve> <!-- 曲线 -->
+    <Curve>g44</Curve> <!-- 曲线 -->
+    <Curve>g45</Curve> <!-- 曲线 -->
+    <Curve>g46</Curve> <!-- 曲线 -->
+    <Curve>g47</Curve> <!-- 曲线 -->
+    <Curve>g48</Curve> <!-- 曲线 -->
+    <Curve>g49</Curve> <!-- 曲线 -->
+    <Curve>g50</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <FontDefinition>
+    <ID>g1</ID> <!-- 编号 -->
+    <Align>BottomRight</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>Arial</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g4</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>Arial</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g53</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0.00983234</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g2</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>3.302</X>
+      <Y>-0.48640491999999996</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g5</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>5.334</X>
+      <Y>0.52959508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g8</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-3.302</X>
+      <Y>-0.48640491999999996</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g10</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-5.334</X>
+      <Y>0.52959508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g54</ID> <!-- 编号 -->
+    <FontDefinition>g53</FontDefinition>
+    <FontSize>0.43548</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Symbol>
+    <ID>g80</ID> <!-- 编号 -->
+    <IsHomogeneous>false</IsHomogeneous>
+    <Name>SDCL0603Q2N0CT02B01</Name> <!-- 名称 -->
+    <Purpose>Component</Purpose> <!-- 用途 -->
+    <SubPart> <!-- 子件 -->
+      <Name>SDCL0603Q2N0CT02B01.1</Name> <!-- 名称 -->
+      <Shapes>g7</Shapes>
+      <Shapes>g12</Shapes>
+      <Shapes>g22</Shapes>
+      <Shapes>g32</Shapes>
+      <Shapes>g42</Shapes>
+      <Shapes>g52</Shapes>
+      <Shapes>g55</Shapes>
+      <Shapes>g56</Shapes>
+      <Shapes>g57</Shapes>
+      <Shapes>g58</Shapes>
+      <Shapes>g59</Shapes>
+      <Shapes>g60</Shapes>
+      <Shapes>g61</Shapes>
+      <Shapes>g62</Shapes>
+      <Shapes>g63</Shapes>
+      <Shapes>g64</Shapes>
+      <Shapes>g65</Shapes>
+      <Shapes>g66</Shapes>
+      <Shapes>g67</Shapes>
+      <Shapes>g68</Shapes>
+      <Shapes>g69</Shapes>
+      <Shapes>g70</Shapes>
+      <Shapes>g71</Shapes>
+      <Shapes>g72</Shapes>
+      <Shapes>g73</Shapes>
+      <Shapes>g74</Shapes>
+      <Shapes>g75</Shapes>
+      <Shapes>g76</Shapes>
+      <Shapes>g77</Shapes>
+      <Shapes>g78</Shapes>
+      <Shapes>g79</Shapes>
+    </SubPart>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Symbol>
+  <SymbolAttribute>
+    <ID>g3</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g2</Text> <!-- 文本 -->
+    <Value>2</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g6</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g5</Text> <!-- 文本 -->
+    <Value>2</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g9</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g8</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g11</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g10</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g55</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>LCSC Part Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>2nH</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g56</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>SupplierPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>C370136</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Manufacturer</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>Sunlord(顺络)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g58</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ManufacturerPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>SDCL0603Q2N0CT02B01</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g59</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Supplier Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>0201</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g60</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>JLCPCB Part Class</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>Extended Part</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g61</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Datasheet</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>https://item.szlcsc.com/datasheet/SDCL0603Q2N0CT02B01/343887.html</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g62</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Supplier</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>LCSC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g63</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>AddInBom</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g64</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ConvertToPcb</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g65</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>SDCL0603Q2N0CT02B01</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g66</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>L?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g67</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>FootprintName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>L0201</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g68</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelId</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>62bef5db133646c7914ab8b9bdc86b60|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g69</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>L0201-RD</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g70</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelTransform</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>23.622,11.811,0,0,0,0,0,0,0</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g71</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Value</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>2nH</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g72</ID> <!-- 编号 -->
+    <Depth>28</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Current Rating</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>300mA</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g73</ID> <!-- 编号 -->
+    <Depth>29</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Current - Saturation (Isat)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g74</ID> <!-- 编号 -->
+    <Depth>30</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>DC Resistance(DCR)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>230mΩ</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g75</ID> <!-- 编号 -->
+    <Depth>31</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Q @ Frequency</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g76</ID> <!-- 编号 -->
+    <Depth>32</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Frequency - Self Resonant</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g77</ID> <!-- 编号 -->
+    <Depth>33</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Ratings</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g78</ID> <!-- 编号 -->
+    <Depth>34</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>={Value}</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g79</ID> <!-- 编号 -->
+    <Depth>35</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g54</Text> <!-- 文本 -->
+    <Value>电感值:2nH;额定电流:300mA;饱和电流(Isat):-;直流电阻(DCR):230mΩ;</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolShape>
+    <ID>g22</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g21</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g32</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g31</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g42</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g41</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g52</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g51</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <Pin> <!-- 引脚 -->
+    <ID>g7</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>5.08</X>
+      <Y>0</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>0.762</PinLength> <!-- 引脚长度 -->
+    <PinName>g3</PinName>
+    <PinNumber>g6</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g12</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>-5.08</X>
+      <Y>0</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>0.762</PinLength> <!-- 引脚长度 -->
+    <PinName>g9</PinName>
+    <PinNumber>g11</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+</root>

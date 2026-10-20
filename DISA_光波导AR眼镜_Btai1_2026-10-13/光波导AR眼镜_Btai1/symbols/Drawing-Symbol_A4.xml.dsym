@@ -1,0 +1,4816 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g6</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g9</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g12</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g15</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g21</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g24</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g27</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g30</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g35</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g38</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g41</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g44</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g49</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g52</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g55</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>48.26</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g58</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>48.26</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g63</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g66</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g69</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g72</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g77</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g80</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g83</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g86</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>43.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g91</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g94</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g97</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g100</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g105</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g108</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g111</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g114</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g119</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g122</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g125</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g128</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>343.812730050075</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>343.812730050075</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g133</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g136</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g139</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g142</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>369.55786742396197</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>369.55786742396197</X>
+      <Y>38.1</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g147</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g150</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g153</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g156</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g159</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g162</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g165</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g168</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g173</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g176</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g179</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>33.02</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g182</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>33.02</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g187</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g190</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g193</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g196</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g199</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g202</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g205</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g208</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>27.94</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g211</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g214</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g217</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g220</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g223</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g226</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g229</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g232</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>22.86</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g235</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g238</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g241</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g244</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g247</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g250</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g253</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g256</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>265.7751373738868</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>265.7751373738868</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g261</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g264</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g267</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g270</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g275</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g278</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g281</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g284</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g289</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g292</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g295</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>17.78</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g298</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>17.78</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g301</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g304</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g307</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g310</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>240.0299999999999</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>240.0299999999999</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g315</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g318</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g321</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g324</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>294.7384169195097</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>294.7384169195097</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g329</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g332</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g335</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g338</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>307.61098560645314</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>307.61098560645314</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g343</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g346</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>2.54</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g349</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>417.83</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g352</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>320.48355429339665</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>320.48355429339665</X>
+      <Y>12.7</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g359</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>70.06166666666667</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>70.06166666666667</X>
+      <Y>0</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g362</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>70.06166666666667</X>
+      <Y>294.64</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>70.06166666666667</X>
+      <Y>297.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g369</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>140.12333333333333</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>140.12333333333333</X>
+      <Y>0</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g372</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>140.12333333333333</X>
+      <Y>294.64</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>140.12333333333333</X>
+      <Y>297.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g379</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>210.185</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>210.185</X>
+      <Y>0</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g382</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>210.185</X>
+      <Y>294.64</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>210.185</X>
+      <Y>297.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g389</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>280.24666666666667</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>280.24666666666667</X>
+      <Y>0</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g392</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>280.24666666666667</X>
+      <Y>294.64</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>280.24666666666667</X>
+      <Y>297.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g399</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>350.3083333333333</X>
+      <Y>2.54</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>350.3083333333333</X>
+      <Y>0</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g402</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>350.3083333333333</X>
+      <Y>294.64</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>350.3083333333333</X>
+      <Y>297.18</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g413</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.54</X>
+      <Y>222.885</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0</X>
+      <Y>222.885</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g416</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>222.885</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>420.37</X>
+      <Y>222.885</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g423</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.54</X>
+      <Y>148.59</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0</X>
+      <Y>148.59</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g426</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>148.59</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>420.37</X>
+      <Y>148.59</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g433</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>2.54</X>
+      <Y>74.295</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0</X>
+      <Y>74.295</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g436</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>417.83</X>
+      <Y>74.295</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>420.37</X>
+      <Y>74.295</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g7</ID> <!-- 编号 -->
+    <Curve>g6</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g10</ID> <!-- 编号 -->
+    <Curve>g9</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g13</ID> <!-- 编号 -->
+    <Curve>g12</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g16</ID> <!-- 编号 -->
+    <Curve>g15</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g22</ID> <!-- 编号 -->
+    <Curve>g21</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g25</ID> <!-- 编号 -->
+    <Curve>g24</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g28</ID> <!-- 编号 -->
+    <Curve>g27</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g31</ID> <!-- 编号 -->
+    <Curve>g30</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g36</ID> <!-- 编号 -->
+    <Curve>g35</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g39</ID> <!-- 编号 -->
+    <Curve>g38</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g42</ID> <!-- 编号 -->
+    <Curve>g41</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g45</ID> <!-- 编号 -->
+    <Curve>g44</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g50</ID> <!-- 编号 -->
+    <Curve>g49</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g53</ID> <!-- 编号 -->
+    <Curve>g52</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g56</ID> <!-- 编号 -->
+    <Curve>g55</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g59</ID> <!-- 编号 -->
+    <Curve>g58</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g64</ID> <!-- 编号 -->
+    <Curve>g63</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g67</ID> <!-- 编号 -->
+    <Curve>g66</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g70</ID> <!-- 编号 -->
+    <Curve>g69</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g73</ID> <!-- 编号 -->
+    <Curve>g72</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g78</ID> <!-- 编号 -->
+    <Curve>g77</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g81</ID> <!-- 编号 -->
+    <Curve>g80</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g84</ID> <!-- 编号 -->
+    <Curve>g83</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g87</ID> <!-- 编号 -->
+    <Curve>g86</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g92</ID> <!-- 编号 -->
+    <Curve>g91</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g95</ID> <!-- 编号 -->
+    <Curve>g94</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g98</ID> <!-- 编号 -->
+    <Curve>g97</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g101</ID> <!-- 编号 -->
+    <Curve>g100</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g106</ID> <!-- 编号 -->
+    <Curve>g105</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g109</ID> <!-- 编号 -->
+    <Curve>g108</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g112</ID> <!-- 编号 -->
+    <Curve>g111</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g115</ID> <!-- 编号 -->
+    <Curve>g114</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g120</ID> <!-- 编号 -->
+    <Curve>g119</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g123</ID> <!-- 编号 -->
+    <Curve>g122</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g126</ID> <!-- 编号 -->
+    <Curve>g125</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g129</ID> <!-- 编号 -->
+    <Curve>g128</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g134</ID> <!-- 编号 -->
+    <Curve>g133</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g137</ID> <!-- 编号 -->
+    <Curve>g136</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g140</ID> <!-- 编号 -->
+    <Curve>g139</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g143</ID> <!-- 编号 -->
+    <Curve>g142</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g148</ID> <!-- 编号 -->
+    <Curve>g147</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g151</ID> <!-- 编号 -->
+    <Curve>g150</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g154</ID> <!-- 编号 -->
+    <Curve>g153</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g157</ID> <!-- 编号 -->
+    <Curve>g156</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g160</ID> <!-- 编号 -->
+    <Curve>g159</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g163</ID> <!-- 编号 -->
+    <Curve>g162</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g166</ID> <!-- 编号 -->
+    <Curve>g165</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g169</ID> <!-- 编号 -->
+    <Curve>g168</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g174</ID> <!-- 编号 -->
+    <Curve>g173</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g177</ID> <!-- 编号 -->
+    <Curve>g176</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g180</ID> <!-- 编号 -->
+    <Curve>g179</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g183</ID> <!-- 编号 -->
+    <Curve>g182</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g188</ID> <!-- 编号 -->
+    <Curve>g187</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g191</ID> <!-- 编号 -->
+    <Curve>g190</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g194</ID> <!-- 编号 -->
+    <Curve>g193</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g197</ID> <!-- 编号 -->
+    <Curve>g196</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g200</ID> <!-- 编号 -->
+    <Curve>g199</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g203</ID> <!-- 编号 -->
+    <Curve>g202</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g206</ID> <!-- 编号 -->
+    <Curve>g205</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g209</ID> <!-- 编号 -->
+    <Curve>g208</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g212</ID> <!-- 编号 -->
+    <Curve>g211</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g215</ID> <!-- 编号 -->
+    <Curve>g214</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g218</ID> <!-- 编号 -->
+    <Curve>g217</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g221</ID> <!-- 编号 -->
+    <Curve>g220</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g224</ID> <!-- 编号 -->
+    <Curve>g223</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g227</ID> <!-- 编号 -->
+    <Curve>g226</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g230</ID> <!-- 编号 -->
+    <Curve>g229</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g233</ID> <!-- 编号 -->
+    <Curve>g232</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g236</ID> <!-- 编号 -->
+    <Curve>g235</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g239</ID> <!-- 编号 -->
+    <Curve>g238</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g242</ID> <!-- 编号 -->
+    <Curve>g241</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g245</ID> <!-- 编号 -->
+    <Curve>g244</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g248</ID> <!-- 编号 -->
+    <Curve>g247</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g251</ID> <!-- 编号 -->
+    <Curve>g250</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g254</ID> <!-- 编号 -->
+    <Curve>g253</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g257</ID> <!-- 编号 -->
+    <Curve>g256</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g262</ID> <!-- 编号 -->
+    <Curve>g261</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g265</ID> <!-- 编号 -->
+    <Curve>g264</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g268</ID> <!-- 编号 -->
+    <Curve>g267</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g271</ID> <!-- 编号 -->
+    <Curve>g270</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g276</ID> <!-- 编号 -->
+    <Curve>g275</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g279</ID> <!-- 编号 -->
+    <Curve>g278</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g282</ID> <!-- 编号 -->
+    <Curve>g281</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g285</ID> <!-- 编号 -->
+    <Curve>g284</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g290</ID> <!-- 编号 -->
+    <Curve>g289</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g293</ID> <!-- 编号 -->
+    <Curve>g292</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g296</ID> <!-- 编号 -->
+    <Curve>g295</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g299</ID> <!-- 编号 -->
+    <Curve>g298</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g302</ID> <!-- 编号 -->
+    <Curve>g301</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g305</ID> <!-- 编号 -->
+    <Curve>g304</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g308</ID> <!-- 编号 -->
+    <Curve>g307</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g311</ID> <!-- 编号 -->
+    <Curve>g310</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g316</ID> <!-- 编号 -->
+    <Curve>g315</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g319</ID> <!-- 编号 -->
+    <Curve>g318</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g322</ID> <!-- 编号 -->
+    <Curve>g321</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g325</ID> <!-- 编号 -->
+    <Curve>g324</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g330</ID> <!-- 编号 -->
+    <Curve>g329</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g333</ID> <!-- 编号 -->
+    <Curve>g332</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g336</ID> <!-- 编号 -->
+    <Curve>g335</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g339</ID> <!-- 编号 -->
+    <Curve>g338</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g344</ID> <!-- 编号 -->
+    <Curve>g343</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g347</ID> <!-- 编号 -->
+    <Curve>g346</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g350</ID> <!-- 编号 -->
+    <Curve>g349</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g353</ID> <!-- 编号 -->
+    <Curve>g352</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g360</ID> <!-- 编号 -->
+    <Curve>g359</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g363</ID> <!-- 编号 -->
+    <Curve>g362</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g370</ID> <!-- 编号 -->
+    <Curve>g369</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g373</ID> <!-- 编号 -->
+    <Curve>g372</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g380</ID> <!-- 编号 -->
+    <Curve>g379</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g383</ID> <!-- 编号 -->
+    <Curve>g382</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g390</ID> <!-- 编号 -->
+    <Curve>g389</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g393</ID> <!-- 编号 -->
+    <Curve>g392</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g400</ID> <!-- 编号 -->
+    <Curve>g399</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g403</ID> <!-- 编号 -->
+    <Curve>g402</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g414</ID> <!-- 编号 -->
+    <Curve>g413</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g417</ID> <!-- 编号 -->
+    <Curve>g416</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g424</ID> <!-- 编号 -->
+    <Curve>g423</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g427</ID> <!-- 编号 -->
+    <Curve>g426</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g434</ID> <!-- 编号 -->
+    <Curve>g433</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g437</ID> <!-- 编号 -->
+    <Curve>g436</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g1</ID> <!-- 编号 -->
+    <Height>11.938</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>246.12600000000003</X>
+      <Y>13.716000000000001</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>41.91</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g355</ID> <!-- 编号 -->
+    <Height>297.18</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>0</X>
+      <Y>297.18</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>420.37</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g357</ID> <!-- 编号 -->
+    <Height>292.09999999999997</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>2.54</X>
+      <Y>294.64</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>415.28999999999996</Width> <!-- 宽 -->
+  </Rectangle>
+  <FontDefinition>
+    <ID>g3</ID> <!-- 编号 -->
+    <Align>CenterLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>宋体</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g18</ID> <!-- 编号 -->
+    <Align>Center</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>宋体</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g447</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0.00983234</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g4</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>241.2999999999999</X>
+      <Y>43.18</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>原理图</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g19</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>5.08</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>304.7939337119809</X>
+      <Y>43.18</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>Schematic2</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g33</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>345.082730050075</X>
+      <Y>45.72</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>创建日期</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g47</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>370.82786742396195</X>
+      <Y>45.72</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>2026-10-10</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g61</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>345.082730050075</X>
+      <Y>40.64</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>更新日期</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g75</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>370.82786742396195</X>
+      <Y>40.64</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>2026-10-10</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g89</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>241.2999999999999</X>
+      <Y>35.56</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>板子</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g103</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>5.08</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>304.7939337119809</X>
+      <Y>35.56</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>左镜腿小板</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g117</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>345.082730050075</X>
+      <Y>35.56</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>图页</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g131</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>370.82786742396195</X>
+      <Y>35.56</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>P1</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g145</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>241.2999999999999</X>
+      <Y>30.48</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>绘制</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g171</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>5.08</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>356.2842084597548</X>
+      <Y>25.4</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>AR眼镜1代</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g185</ID> <!-- 编号 -->
+    <FontDefinition>g3</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>241.2999999999999</X>
+      <Y>25.4</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>审阅</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g259</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>301.1747012629814</X>
+      <Y>15.24</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>版本</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g273</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>314.04726994992495</X>
+      <Y>15.24</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>尺寸</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g287</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>369.15677714669835</X>
+      <Y>15.24</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>页    0    共    3</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g313</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>301.1747012629814</X>
+      <Y>7.62</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>V1.0</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g327</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>314.04726994992495</X>
+      <Y>7.62</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>A4</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g341</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>3.81</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>369.15677714669835</X>
+      <Y>7.62</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>嘉立创EDA</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g365</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>35.030833333333334</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>1</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g367</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>35.030833333333334</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>1</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g375</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>105.0925</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>2</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g377</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>105.0925</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>2</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g385</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>175.15416666666667</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>3</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g387</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>175.15416666666667</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>3</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g395</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>245.21583333333334</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>4</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g397</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>245.21583333333334</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>4</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g405</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>315.2775</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>5</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g407</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>315.2775</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>5</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g409</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>385.3391666666666</X>
+      <Y>1.27</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>6</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g411</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>385.3391666666666</X>
+      <Y>295.91</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>6</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g419</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>1.27</X>
+      <Y>260.0325</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>A</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g421</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>419.1</X>
+      <Y>260.0325</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>A</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g429</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>1.27</X>
+      <Y>185.7375</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>B</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g431</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>419.1</X>
+      <Y>185.7375</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>B</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g439</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>1.27</X>
+      <Y>111.4425</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>C</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g441</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>419.1</X>
+      <Y>111.4425</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>C</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g443</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>1.27</X>
+      <Y>37.1475</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>D</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g445</ID> <!-- 编号 -->
+    <FontDefinition>g18</FontDefinition>
+    <FontSize>2.54</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>419.1</X>
+      <Y>37.1475</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>D</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g448</ID> <!-- 编号 -->
+    <FontDefinition>g447</FontDefinition>
+    <FontSize>0.43548</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Symbol>
+    <ID>g480</ID> <!-- 编号 -->
+    <IsHomogeneous>false</IsHomogeneous>
+    <Name>Drawing-Symbol_A4</Name> <!-- 名称 -->
+    <Purpose>Drawing</Purpose> <!-- 用途 -->
+    <SubPart> <!-- 子件 -->
+      <Name>0b951e442c6b0653</Name> <!-- 名称 -->
+      <Shapes>g2</Shapes>
+      <Shapes>g5</Shapes>
+      <Shapes>g8</Shapes>
+      <Shapes>g11</Shapes>
+      <Shapes>g14</Shapes>
+      <Shapes>g17</Shapes>
+      <Shapes>g20</Shapes>
+      <Shapes>g23</Shapes>
+      <Shapes>g26</Shapes>
+      <Shapes>g29</Shapes>
+      <Shapes>g32</Shapes>
+      <Shapes>g34</Shapes>
+      <Shapes>g37</Shapes>
+      <Shapes>g40</Shapes>
+      <Shapes>g43</Shapes>
+      <Shapes>g46</Shapes>
+      <Shapes>g48</Shapes>
+      <Shapes>g51</Shapes>
+      <Shapes>g54</Shapes>
+      <Shapes>g57</Shapes>
+      <Shapes>g60</Shapes>
+      <Shapes>g62</Shapes>
+      <Shapes>g65</Shapes>
+      <Shapes>g68</Shapes>
+      <Shapes>g71</Shapes>
+      <Shapes>g74</Shapes>
+      <Shapes>g76</Shapes>
+      <Shapes>g79</Shapes>
+      <Shapes>g82</Shapes>
+      <Shapes>g85</Shapes>
+      <Shapes>g88</Shapes>
+      <Shapes>g90</Shapes>
+      <Shapes>g93</Shapes>
+      <Shapes>g96</Shapes>
+      <Shapes>g99</Shapes>
+      <Shapes>g102</Shapes>
+      <Shapes>g104</Shapes>
+      <Shapes>g107</Shapes>
+      <Shapes>g110</Shapes>
+      <Shapes>g113</Shapes>
+      <Shapes>g116</Shapes>
+      <Shapes>g118</Shapes>
+      <Shapes>g121</Shapes>
+      <Shapes>g124</Shapes>
+      <Shapes>g127</Shapes>
+      <Shapes>g130</Shapes>
+      <Shapes>g132</Shapes>
+      <Shapes>g135</Shapes>
+      <Shapes>g138</Shapes>
+      <Shapes>g141</Shapes>
+      <Shapes>g144</Shapes>
+      <Shapes>g146</Shapes>
+      <Shapes>g149</Shapes>
+      <Shapes>g152</Shapes>
+      <Shapes>g155</Shapes>
+      <Shapes>g158</Shapes>
+      <Shapes>g161</Shapes>
+      <Shapes>g164</Shapes>
+      <Shapes>g167</Shapes>
+      <Shapes>g170</Shapes>
+      <Shapes>g172</Shapes>
+      <Shapes>g175</Shapes>
+      <Shapes>g178</Shapes>
+      <Shapes>g181</Shapes>
+      <Shapes>g184</Shapes>
+      <Shapes>g186</Shapes>
+      <Shapes>g189</Shapes>
+      <Shapes>g192</Shapes>
+      <Shapes>g195</Shapes>
+      <Shapes>g198</Shapes>
+      <Shapes>g201</Shapes>
+      <Shapes>g204</Shapes>
+      <Shapes>g207</Shapes>
+      <Shapes>g210</Shapes>
+      <Shapes>g213</Shapes>
+      <Shapes>g216</Shapes>
+      <Shapes>g219</Shapes>
+      <Shapes>g222</Shapes>
+      <Shapes>g225</Shapes>
+      <Shapes>g228</Shapes>
+      <Shapes>g231</Shapes>
+      <Shapes>g234</Shapes>
+      <Shapes>g237</Shapes>
+      <Shapes>g240</Shapes>
+      <Shapes>g243</Shapes>
+      <Shapes>g246</Shapes>
+      <Shapes>g249</Shapes>
+      <Shapes>g252</Shapes>
+      <Shapes>g255</Shapes>
+      <Shapes>g258</Shapes>
+      <Shapes>g260</Shapes>
+      <Shapes>g263</Shapes>
+      <Shapes>g266</Shapes>
+      <Shapes>g269</Shapes>
+      <Shapes>g272</Shapes>
+      <Shapes>g274</Shapes>
+      <Shapes>g277</Shapes>
+      <Shapes>g280</Shapes>
+      <Shapes>g283</Shapes>
+      <Shapes>g286</Shapes>
+      <Shapes>g288</Shapes>
+      <Shapes>g291</Shapes>
+      <Shapes>g294</Shapes>
+      <Shapes>g297</Shapes>
+      <Shapes>g300</Shapes>
+      <Shapes>g303</Shapes>
+      <Shapes>g306</Shapes>
+      <Shapes>g309</Shapes>
+      <Shapes>g312</Shapes>
+      <Shapes>g314</Shapes>
+      <Shapes>g317</Shapes>
+      <Shapes>g320</Shapes>
+      <Shapes>g323</Shapes>
+      <Shapes>g326</Shapes>
+      <Shapes>g328</Shapes>
+      <Shapes>g331</Shapes>
+      <Shapes>g334</Shapes>
+      <Shapes>g337</Shapes>
+      <Shapes>g340</Shapes>
+      <Shapes>g342</Shapes>
+      <Shapes>g345</Shapes>
+      <Shapes>g348</Shapes>
+      <Shapes>g351</Shapes>
+      <Shapes>g354</Shapes>
+      <Shapes>g356</Shapes>
+      <Shapes>g358</Shapes>
+      <Shapes>g361</Shapes>
+      <Shapes>g364</Shapes>
+      <Shapes>g366</Shapes>
+      <Shapes>g368</Shapes>
+      <Shapes>g371</Shapes>
+      <Shapes>g374</Shapes>
+      <Shapes>g376</Shapes>
+      <Shapes>g378</Shapes>
+      <Shapes>g381</Shapes>
+      <Shapes>g384</Shapes>
+      <Shapes>g386</Shapes>
+      <Shapes>g388</Shapes>
+      <Shapes>g391</Shapes>
+      <Shapes>g394</Shapes>
+      <Shapes>g396</Shapes>
+      <Shapes>g398</Shapes>
+      <Shapes>g401</Shapes>
+      <Shapes>g404</Shapes>
+      <Shapes>g406</Shapes>
+      <Shapes>g408</Shapes>
+      <Shapes>g410</Shapes>
+      <Shapes>g412</Shapes>
+      <Shapes>g415</Shapes>
+      <Shapes>g418</Shapes>
+      <Shapes>g420</Shapes>
+      <Shapes>g422</Shapes>
+      <Shapes>g425</Shapes>
+      <Shapes>g428</Shapes>
+      <Shapes>g430</Shapes>
+      <Shapes>g432</Shapes>
+      <Shapes>g435</Shapes>
+      <Shapes>g438</Shapes>
+      <Shapes>g440</Shapes>
+      <Shapes>g442</Shapes>
+      <Shapes>g444</Shapes>
+      <Shapes>g446</Shapes>
+      <Shapes>g449</Shapes>
+      <Shapes>g450</Shapes>
+      <Shapes>g451</Shapes>
+      <Shapes>g452</Shapes>
+      <Shapes>g453</Shapes>
+      <Shapes>g454</Shapes>
+      <Shapes>g455</Shapes>
+      <Shapes>g456</Shapes>
+      <Shapes>g457</Shapes>
+      <Shapes>g458</Shapes>
+      <Shapes>g459</Shapes>
+      <Shapes>g460</Shapes>
+      <Shapes>g461</Shapes>
+      <Shapes>g462</Shapes>
+      <Shapes>g463</Shapes>
+      <Shapes>g464</Shapes>
+      <Shapes>g465</Shapes>
+      <Shapes>g466</Shapes>
+      <Shapes>g467</Shapes>
+      <Shapes>g468</Shapes>
+      <Shapes>g469</Shapes>
+      <Shapes>g470</Shapes>
+      <Shapes>g471</Shapes>
+      <Shapes>g472</Shapes>
+      <Shapes>g473</Shapes>
+      <Shapes>g474</Shapes>
+      <Shapes>g475</Shapes>
+      <Shapes>g476</Shapes>
+      <Shapes>g477</Shapes>
+      <Shapes>g478</Shapes>
+      <Shapes>g479</Shapes>
+    </SubPart>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Symbol>
+  <SymbolText>
+    <ID>g5</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g4</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g20</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g19</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g34</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g33</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g48</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g47</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g62</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g61</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g76</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g75</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g90</ID> <!-- 编号 -->
+    <Depth>32</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g89</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g104</ID> <!-- 编号 -->
+    <Depth>37</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g103</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g118</ID> <!-- 编号 -->
+    <Depth>42</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g117</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g132</ID> <!-- 编号 -->
+    <Depth>47</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g131</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g146</ID> <!-- 编号 -->
+    <Depth>52</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g145</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g172</ID> <!-- 编号 -->
+    <Depth>61</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g171</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g186</ID> <!-- 编号 -->
+    <Depth>66</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g185</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g260</ID> <!-- 编号 -->
+    <Depth>91</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g259</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g274</ID> <!-- 编号 -->
+    <Depth>96</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g273</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g288</ID> <!-- 编号 -->
+    <Depth>101</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g287</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g314</ID> <!-- 编号 -->
+    <Depth>110</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g313</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g328</ID> <!-- 编号 -->
+    <Depth>115</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g327</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g342</ID> <!-- 编号 -->
+    <Depth>120</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g341</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g366</ID> <!-- 编号 -->
+    <Depth>129</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g365</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g368</ID> <!-- 编号 -->
+    <Depth>130</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g367</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g376</ID> <!-- 编号 -->
+    <Depth>133</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g375</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g378</ID> <!-- 编号 -->
+    <Depth>134</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g377</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g386</ID> <!-- 编号 -->
+    <Depth>137</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g385</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g388</ID> <!-- 编号 -->
+    <Depth>138</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g387</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g396</ID> <!-- 编号 -->
+    <Depth>141</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g395</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g398</ID> <!-- 编号 -->
+    <Depth>142</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g397</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g406</ID> <!-- 编号 -->
+    <Depth>145</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g405</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g408</ID> <!-- 编号 -->
+    <Depth>146</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g407</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g410</ID> <!-- 编号 -->
+    <Depth>147</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g409</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g412</ID> <!-- 编号 -->
+    <Depth>148</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g411</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g420</ID> <!-- 编号 -->
+    <Depth>151</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g419</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g422</ID> <!-- 编号 -->
+    <Depth>152</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g421</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g430</ID> <!-- 编号 -->
+    <Depth>155</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g429</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g432</ID> <!-- 编号 -->
+    <Depth>156</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g431</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g440</ID> <!-- 编号 -->
+    <Depth>159</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g439</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g442</ID> <!-- 编号 -->
+    <Depth>160</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g441</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g444</ID> <!-- 编号 -->
+    <Depth>161</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g443</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolText>
+    <ID>g446</ID> <!-- 编号 -->
+    <Depth>162</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Text>g445</Text> <!-- 文本 -->
+  </SymbolText>
+  <SymbolAttribute>
+    <ID>g449</ID> <!-- 编号 -->
+    <Depth>163</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Board Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g450</ID> <!-- 编号 -->
+    <Depth>164</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Page Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g451</ID> <!-- 编号 -->
+    <Depth>165</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Create Date</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g452</ID> <!-- 编号 -->
+    <Depth>166</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Create Time</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g453</ID> <!-- 编号 -->
+    <Depth>167</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Page Count</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g454</ID> <!-- 编号 -->
+    <Depth>168</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Page No</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g455</ID> <!-- 编号 -->
+    <Depth>169</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Project Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g456</ID> <!-- 编号 -->
+    <Depth>170</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Schematic Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g457</ID> <!-- 编号 -->
+    <Depth>171</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Update Date</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g458</ID> <!-- 编号 -->
+    <Depth>172</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Update Time</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g459</ID> <!-- 编号 -->
+    <Depth>173</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>@Assembly Variant</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g460</ID> <!-- 编号 -->
+    <Depth>174</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Company</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>嘉立创EDA</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g461</ID> <!-- 编号 -->
+    <Depth>175</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Drawed</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g462</ID> <!-- 编号 -->
+    <Depth>176</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Page Size</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>A4</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g463</ID> <!-- 编号 -->
+    <Depth>177</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Reviewed</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g464</ID> <!-- 编号 -->
+    <Depth>178</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>Drawing-Symbol_A4</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g465</ID> <!-- 编号 -->
+    <Depth>179</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Version</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>V1.0</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g466</ID> <!-- 编号 -->
+    <Depth>180</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ShowBorder</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g467</ID> <!-- 编号 -->
+    <Depth>181</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>TitleBlockPosition</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>3</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g468</ID> <!-- 编号 -->
+    <Depth>182</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Size</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>A4</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g469</ID> <!-- 编号 -->
+    <Depth>183</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Width</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>1170</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g470</ID> <!-- 编号 -->
+    <Depth>184</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Height</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>825</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g471</ID> <!-- 编号 -->
+    <Depth>185</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>RegionStart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g472</ID> <!-- 编号 -->
+    <Depth>186</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>XRegionCount</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>6</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g473</ID> <!-- 编号 -->
+    <Depth>187</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>YRegionCount</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>4</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g474</ID> <!-- 编号 -->
+    <Depth>188</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>BladeWidth</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>10</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g475</ID> <!-- 编号 -->
+    <Depth>189</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Color</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g476</ID> <!-- 编号 -->
+    <Depth>190</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>TitleBlock</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g477</ID> <!-- 编号 -->
+    <Depth>191</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Part Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g478</ID> <!-- 编号 -->
+    <Depth>192</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g479</ID> <!-- 编号 -->
+    <Depth>193</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g448</Text> <!-- 文本 -->
+    <Value/>
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttachment>
+    <ID>g2</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <Board>g1</Board> <!-- 图框形状 -->
+    <KeepRatio>false</KeepRatio> <!-- 保持比例 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Source>blob:56eab000776c877d1322f55b5cf782d47e0f458623dfd2bbcc2fb4c34ddd8233</Source> <!-- 图片原始形状 -->
+  </SymbolAttachment>
+  <SymbolShape>
+    <ID>g8</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g7</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g11</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g10</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g14</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g13</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g17</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g16</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g23</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g22</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g26</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g25</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g29</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g28</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g32</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g31</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g37</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g36</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g40</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g39</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g43</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g42</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g46</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g45</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g51</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g50</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g54</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g53</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g56</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g60</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g59</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g65</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g64</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g68</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g67</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g71</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g70</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g74</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g73</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g79</ID> <!-- 编号 -->
+    <Depth>28</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g78</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g82</ID> <!-- 编号 -->
+    <Depth>29</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g81</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g85</ID> <!-- 编号 -->
+    <Depth>30</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g84</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g88</ID> <!-- 编号 -->
+    <Depth>31</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g87</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g93</ID> <!-- 编号 -->
+    <Depth>33</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g92</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g96</ID> <!-- 编号 -->
+    <Depth>34</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g95</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g99</ID> <!-- 编号 -->
+    <Depth>35</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g98</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g102</ID> <!-- 编号 -->
+    <Depth>36</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g101</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g107</ID> <!-- 编号 -->
+    <Depth>38</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g106</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g110</ID> <!-- 编号 -->
+    <Depth>39</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g109</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g113</ID> <!-- 编号 -->
+    <Depth>40</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g112</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g116</ID> <!-- 编号 -->
+    <Depth>41</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g115</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g121</ID> <!-- 编号 -->
+    <Depth>43</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g120</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g124</ID> <!-- 编号 -->
+    <Depth>44</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g123</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g127</ID> <!-- 编号 -->
+    <Depth>45</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g126</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g130</ID> <!-- 编号 -->
+    <Depth>46</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g129</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g135</ID> <!-- 编号 -->
+    <Depth>48</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g134</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g138</ID> <!-- 编号 -->
+    <Depth>49</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g137</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g141</ID> <!-- 编号 -->
+    <Depth>50</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g140</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g144</ID> <!-- 编号 -->
+    <Depth>51</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g143</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g149</ID> <!-- 编号 -->
+    <Depth>53</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g148</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g152</ID> <!-- 编号 -->
+    <Depth>54</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g151</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g155</ID> <!-- 编号 -->
+    <Depth>55</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g154</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g158</ID> <!-- 编号 -->
+    <Depth>56</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g157</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g161</ID> <!-- 编号 -->
+    <Depth>57</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g160</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g164</ID> <!-- 编号 -->
+    <Depth>58</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g163</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g167</ID> <!-- 编号 -->
+    <Depth>59</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g166</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g170</ID> <!-- 编号 -->
+    <Depth>60</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g169</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g175</ID> <!-- 编号 -->
+    <Depth>62</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g174</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g178</ID> <!-- 编号 -->
+    <Depth>63</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g177</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g181</ID> <!-- 编号 -->
+    <Depth>64</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g180</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g184</ID> <!-- 编号 -->
+    <Depth>65</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g183</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g189</ID> <!-- 编号 -->
+    <Depth>67</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g188</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g192</ID> <!-- 编号 -->
+    <Depth>68</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g191</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g195</ID> <!-- 编号 -->
+    <Depth>69</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g194</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g198</ID> <!-- 编号 -->
+    <Depth>70</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g197</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g201</ID> <!-- 编号 -->
+    <Depth>71</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g200</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g204</ID> <!-- 编号 -->
+    <Depth>72</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g203</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g207</ID> <!-- 编号 -->
+    <Depth>73</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g206</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g210</ID> <!-- 编号 -->
+    <Depth>74</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g209</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g213</ID> <!-- 编号 -->
+    <Depth>75</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g212</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g216</ID> <!-- 编号 -->
+    <Depth>76</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g215</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g219</ID> <!-- 编号 -->
+    <Depth>77</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g218</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g222</ID> <!-- 编号 -->
+    <Depth>78</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g221</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g225</ID> <!-- 编号 -->
+    <Depth>79</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g224</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g228</ID> <!-- 编号 -->
+    <Depth>80</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g227</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g231</ID> <!-- 编号 -->
+    <Depth>81</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g230</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g234</ID> <!-- 编号 -->
+    <Depth>82</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g233</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g237</ID> <!-- 编号 -->
+    <Depth>83</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g236</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g240</ID> <!-- 编号 -->
+    <Depth>84</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g239</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g243</ID> <!-- 编号 -->
+    <Depth>85</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g242</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g246</ID> <!-- 编号 -->
+    <Depth>86</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g245</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g249</ID> <!-- 编号 -->
+    <Depth>87</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g248</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g252</ID> <!-- 编号 -->
+    <Depth>88</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g251</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g255</ID> <!-- 编号 -->
+    <Depth>89</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g254</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g258</ID> <!-- 编号 -->
+    <Depth>90</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g257</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g263</ID> <!-- 编号 -->
+    <Depth>92</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g262</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g266</ID> <!-- 编号 -->
+    <Depth>93</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g265</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g269</ID> <!-- 编号 -->
+    <Depth>94</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g268</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g272</ID> <!-- 编号 -->
+    <Depth>95</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g271</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g277</ID> <!-- 编号 -->
+    <Depth>97</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g276</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g280</ID> <!-- 编号 -->
+    <Depth>98</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g279</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g283</ID> <!-- 编号 -->
+    <Depth>99</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g282</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g286</ID> <!-- 编号 -->
+    <Depth>100</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g285</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g291</ID> <!-- 编号 -->
+    <Depth>102</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g290</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g294</ID> <!-- 编号 -->
+    <Depth>103</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g293</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g297</ID> <!-- 编号 -->
+    <Depth>104</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g296</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g300</ID> <!-- 编号 -->
+    <Depth>105</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g299</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g303</ID> <!-- 编号 -->
+    <Depth>106</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g302</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g306</ID> <!-- 编号 -->
+    <Depth>107</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g305</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g309</ID> <!-- 编号 -->
+    <Depth>108</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g308</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g312</ID> <!-- 编号 -->
+    <Depth>109</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g311</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g317</ID> <!-- 编号 -->
+    <Depth>111</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g316</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g320</ID> <!-- 编号 -->
+    <Depth>112</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g319</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g323</ID> <!-- 编号 -->
+    <Depth>113</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g322</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g326</ID> <!-- 编号 -->
+    <Depth>114</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g325</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g331</ID> <!-- 编号 -->
+    <Depth>116</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g330</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g334</ID> <!-- 编号 -->
+    <Depth>117</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g333</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g337</ID> <!-- 编号 -->
+    <Depth>118</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g336</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g340</ID> <!-- 编号 -->
+    <Depth>119</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g339</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g345</ID> <!-- 编号 -->
+    <Depth>121</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g344</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g348</ID> <!-- 编号 -->
+    <Depth>122</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g347</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g351</ID> <!-- 编号 -->
+    <Depth>123</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g350</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g354</ID> <!-- 编号 -->
+    <Depth>124</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g353</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g356</ID> <!-- 编号 -->
+    <Depth>125</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g355</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g358</ID> <!-- 编号 -->
+    <Depth>126</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g357</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g361</ID> <!-- 编号 -->
+    <Depth>127</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g360</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g364</ID> <!-- 编号 -->
+    <Depth>128</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g363</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g371</ID> <!-- 编号 -->
+    <Depth>131</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g370</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g374</ID> <!-- 编号 -->
+    <Depth>132</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g373</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g381</ID> <!-- 编号 -->
+    <Depth>135</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g380</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g384</ID> <!-- 编号 -->
+    <Depth>136</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g383</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g391</ID> <!-- 编号 -->
+    <Depth>139</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g390</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g394</ID> <!-- 编号 -->
+    <Depth>140</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g393</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g401</ID> <!-- 编号 -->
+    <Depth>143</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g400</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g404</ID> <!-- 编号 -->
+    <Depth>144</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g403</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g415</ID> <!-- 编号 -->
+    <Depth>149</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g414</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g418</ID> <!-- 编号 -->
+    <Depth>150</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g417</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g425</ID> <!-- 编号 -->
+    <Depth>153</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g424</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g428</ID> <!-- 编号 -->
+    <Depth>154</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g427</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g435</ID> <!-- 编号 -->
+    <Depth>157</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g434</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g438</ID> <!-- 编号 -->
+    <Depth>158</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>None</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g437</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+</root>

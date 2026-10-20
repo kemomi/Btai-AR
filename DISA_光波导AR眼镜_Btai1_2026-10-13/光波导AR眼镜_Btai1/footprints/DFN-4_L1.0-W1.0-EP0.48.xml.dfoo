@@ -1,0 +1,2028 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g4</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5000243999999999</X>
+      <Y>0.1697228</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5000243999999999</X>
+      <Y>0.3997198</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g5</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4300982</X>
+      <Y>0.1697228</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5000243999999999</X>
+      <Y>0.1697228</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g6</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4300727999999999</X>
+      <Y>0.1697228</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4300982</X>
+      <Y>0.1697228</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g7</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2500884</X>
+      <Y>0.3496818</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4300727999999999</X>
+      <Y>0.1697228</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g8</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.25003759999999997</X>
+      <Y>0.39959279999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2500884</X>
+      <Y>0.3496818</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g9</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2500884</X>
+      <Y>0.3997198</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.25003759999999997</X>
+      <Y>0.39959279999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g10</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4998212</X>
+      <Y>0.3996944</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2500884</X>
+      <Y>0.3997198</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g11</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.49992279999999994</X>
+      <Y>0.399923</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4998212</X>
+      <Y>0.3996944</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g12</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5000243999999999</X>
+      <Y>0.3997198</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.49992279999999994</X>
+      <Y>0.399923</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g16</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5000243999999999</X>
+      <Y>-0.16990059999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5000243999999999</X>
+      <Y>-0.3998722</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g17</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4301236</X>
+      <Y>-0.1699514</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5000243999999999</X>
+      <Y>-0.16990059999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g18</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.42999659999999995</X>
+      <Y>-0.16987519999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4301236</X>
+      <Y>-0.1699514</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g19</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2501392</X>
+      <Y>-0.34993579999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.42999659999999995</X>
+      <Y>-0.16987519999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g20</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2500884</X>
+      <Y>-0.399796</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2501392</X>
+      <Y>-0.34993579999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g21</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.25001219999999996</X>
+      <Y>-0.3998722</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2500884</X>
+      <Y>-0.399796</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g22</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4998465999999999</X>
+      <Y>-0.3999484</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.25001219999999996</X>
+      <Y>-0.3998722</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g23</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4999736</X>
+      <Y>-0.4001008</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4998465999999999</X>
+      <Y>-0.3999484</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g24</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5000243999999999</X>
+      <Y>-0.3998722</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4999736</X>
+      <Y>-0.4001008</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g28</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5000243999999999</X>
+      <Y>-0.16990059999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5000243999999999</X>
+      <Y>-0.39989759999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g29</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.429895</X>
+      <Y>-0.16990059999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5000243999999999</X>
+      <Y>-0.16990059999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g30</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499106</X>
+      <Y>-0.34985959999999994</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.429895</X>
+      <Y>-0.16990059999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g31</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499106</X>
+      <Y>-0.39974519999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499106</X>
+      <Y>-0.34985959999999994</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g32</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499106</X>
+      <Y>-0.39989759999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499106</X>
+      <Y>-0.39974519999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g33</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.499618</X>
+      <Y>-0.39989759999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499106</X>
+      <Y>-0.39989759999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g34</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49979579999999996</X>
+      <Y>-0.40004999999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.499618</X>
+      <Y>-0.39989759999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g35</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5000243999999999</X>
+      <Y>-0.39989759999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49979579999999996</X>
+      <Y>-0.40004999999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g39</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.16979899999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.399796</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g40</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.43002199999999996</X>
+      <Y>0.16979899999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.16979899999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g41</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.42999659999999995</X>
+      <Y>0.16979899999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.43002199999999996</X>
+      <Y>0.16979899999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g42</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.3497834</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.42999659999999995</X>
+      <Y>0.16979899999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g43</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.3996944</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.3497834</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g44</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.399796</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.3996944</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g45</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.4997196</X>
+      <Y>0.3997706</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.25001219999999996</X>
+      <Y>0.399796</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g46</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.4998974</X>
+      <Y>0.3999484</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.4997196</X>
+      <Y>0.3997706</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g47</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.399796</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.4998974</X>
+      <Y>0.3999484</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g51</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0</X>
+      <Y>0.3419602</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.33942019999999995</X>
+      <Y>0.00254</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g52</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.33942019999999995</X>
+      <Y>0.00254</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0</X>
+      <Y>0.3419602</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g53</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0</X>
+      <Y>-0.33688019999999996</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.33942019999999995</X>
+      <Y>0.00254</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g54</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.33942019999999995</X>
+      <Y>0.00254</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0</X>
+      <Y>-0.33688019999999996</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g60</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.49992279999999994</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49999899999999997</X>
+      <Y>-0.5000751999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g61</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.49999899999999997</X>
+      <Y>0.49992279999999994</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.49992279999999994</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g62</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.49999899999999997</X>
+      <Y>-0.5000751999999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.49999899999999997</X>
+      <Y>0.49992279999999994</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g63</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49999899999999997</X>
+      <Y>-0.5000751999999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.49999899999999997</X>
+      <Y>-0.5000751999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g66</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5100066</X>
+      <Y>-0.0899922</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5100066</X>
+      <Y>0.09999979999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g69</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.49999899999999997</X>
+      <Y>-0.09999979999999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.49999899999999997</X>
+      <Y>0.09999979999999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g72</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.189992</X>
+      <Y>-0.49999899999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.0958596</X>
+      <Y>-0.49999899999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g75</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.189992</X>
+      <Y>0.49999899999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.189992</X>
+      <Y>0.49999899999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g86</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>0.35252659999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>0.49253139999999995</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g87</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>0.3425444</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>0.35252659999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g88</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.42999659999999995</X>
+      <Y>0.1625346</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>0.3425444</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g89</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5700014</X>
+      <Y>0.1625346</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.42999659999999995</X>
+      <Y>0.1625346</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g90</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5700014</X>
+      <Y>0.49253139999999995</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5700014</X>
+      <Y>0.1625346</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g91</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>0.49253139999999995</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5700014</X>
+      <Y>0.49253139999999995</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g94</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.3544205500615763</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.50503455</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g95</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.34368192488454435</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.3544205500615763</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g96</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.4315596177990316</X>
+      <Y>0.15003144999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.34368192488454435</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g97</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5825045499999999</X>
+      <Y>0.15003144999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.4315596177990316</X>
+      <Y>0.15003144999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g98</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5825045499999999</X>
+      <Y>0.50503455</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5825045499999999</X>
+      <Y>0.15003144999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g99</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>0.50503455</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5825045499999999</X>
+      <Y>0.50503455</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g104</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>-0.3575558</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>-0.497459</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g105</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>-0.3474466</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>-0.3575558</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g106</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.42999659999999995</X>
+      <Y>-0.167513</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.2499868</X>
+      <Y>-0.3474466</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g107</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5700014</X>
+      <Y>-0.167513</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.42999659999999995</X>
+      <Y>-0.167513</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g108</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5700014</X>
+      <Y>-0.497459</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5700014</X>
+      <Y>-0.167513</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g109</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.2499868</X>
+      <Y>-0.497459</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5700014</X>
+      <Y>-0.497459</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g112</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.35945581678983834</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.50996215</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g113</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.3485804499384142</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.35945581678983834</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g114</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.4315596177990316</X>
+      <Y>-0.15500985</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.3485804499384142</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g115</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5825045499999999</X>
+      <Y>-0.15500985</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.4315596177990316</X>
+      <Y>-0.15500985</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g116</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.5825045499999999</X>
+      <Y>-0.50996215</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5825045499999999</X>
+      <Y>-0.15500985</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g117</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-0.23748365000000005</X>
+      <Y>-0.50996215</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-0.5825045499999999</X>
+      <Y>-0.50996215</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g122</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2499868</X>
+      <Y>-0.3625342</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2499868</X>
+      <Y>-0.5024628</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g123</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2499868</X>
+      <Y>-0.3524758</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2499868</X>
+      <Y>-0.3625342</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g124</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4299712</X>
+      <Y>-0.1724914</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.2499868</X>
+      <Y>-0.3524758</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g125</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.569976</X>
+      <Y>-0.1725422</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4299712</X>
+      <Y>-0.1724914</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g126</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5700014</X>
+      <Y>-0.5024628</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.569976</X>
+      <Y>-0.1725422</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g127</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.2499868</X>
+      <Y>-0.5024628</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5700014</X>
+      <Y>-0.5024628</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g130</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.3644331080863674</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.5149659499999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g131</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.35361244999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.3644331080863674</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g132</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.431532233014525</X>
+      <Y>-0.15998824999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.35361244999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g133</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5824771652154934</X>
+      <Y>-0.16004289978831499</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.431532233014525</X>
+      <Y>-0.15998824999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g134</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5825045499999999</X>
+      <Y>-0.5149659499999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5824771652154934</X>
+      <Y>-0.16004289978831499</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g135</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23748365000000005</X>
+      <Y>-0.5149659499999999</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5825045499999999</X>
+      <Y>-0.5149659499999999</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g140</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.36263579999999995</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.502539</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g141</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.35252659999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.36263579999999995</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g142</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4299203999999999</X>
+      <Y>0.172593</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.35252659999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g143</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.569976</X>
+      <Y>0.1726438</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4299203999999999</X>
+      <Y>0.172593</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g144</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5700268</X>
+      <Y>0.502539</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.569976</X>
+      <Y>0.1726438</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g145</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.25001219999999996</X>
+      <Y>0.502539</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5700268</X>
+      <Y>0.502539</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g148</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23750905</X>
+      <Y>0.36453581678983826</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23750905</X>
+      <Y>0.51504215</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g149</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23750905</X>
+      <Y>0.3536604499384141</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23750905</X>
+      <Y>0.36453581678983826</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g150</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.4314754786610048</X>
+      <Y>0.16008984999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.23750905</X>
+      <Y>0.3536604499384141</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g151</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.5824751804309867</X>
+      <Y>0.16014450008468048</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.4314754786610048</X>
+      <Y>0.16008984999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g152</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.58252995</X>
+      <Y>0.51504215</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.5824751804309867</X>
+      <Y>0.16014450008468048</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g153</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>0.23750905</X>
+      <Y>0.51504215</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>0.58252995</X>
+      <Y>0.51504215</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g13</ID> <!-- 编号 -->
+    <Curve>g4</Curve> <!-- 曲线 -->
+    <Curve>g5</Curve> <!-- 曲线 -->
+    <Curve>g6</Curve> <!-- 曲线 -->
+    <Curve>g7</Curve> <!-- 曲线 -->
+    <Curve>g8</Curve> <!-- 曲线 -->
+    <Curve>g9</Curve> <!-- 曲线 -->
+    <Curve>g10</Curve> <!-- 曲线 -->
+    <Curve>g11</Curve> <!-- 曲线 -->
+    <Curve>g12</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g25</ID> <!-- 编号 -->
+    <Curve>g16</Curve> <!-- 曲线 -->
+    <Curve>g17</Curve> <!-- 曲线 -->
+    <Curve>g18</Curve> <!-- 曲线 -->
+    <Curve>g19</Curve> <!-- 曲线 -->
+    <Curve>g20</Curve> <!-- 曲线 -->
+    <Curve>g21</Curve> <!-- 曲线 -->
+    <Curve>g22</Curve> <!-- 曲线 -->
+    <Curve>g23</Curve> <!-- 曲线 -->
+    <Curve>g24</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g36</ID> <!-- 编号 -->
+    <Curve>g28</Curve> <!-- 曲线 -->
+    <Curve>g29</Curve> <!-- 曲线 -->
+    <Curve>g30</Curve> <!-- 曲线 -->
+    <Curve>g31</Curve> <!-- 曲线 -->
+    <Curve>g32</Curve> <!-- 曲线 -->
+    <Curve>g33</Curve> <!-- 曲线 -->
+    <Curve>g34</Curve> <!-- 曲线 -->
+    <Curve>g35</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g48</ID> <!-- 编号 -->
+    <Curve>g39</Curve> <!-- 曲线 -->
+    <Curve>g40</Curve> <!-- 曲线 -->
+    <Curve>g41</Curve> <!-- 曲线 -->
+    <Curve>g42</Curve> <!-- 曲线 -->
+    <Curve>g43</Curve> <!-- 曲线 -->
+    <Curve>g44</Curve> <!-- 曲线 -->
+    <Curve>g45</Curve> <!-- 曲线 -->
+    <Curve>g46</Curve> <!-- 曲线 -->
+    <Curve>g47</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g55</ID> <!-- 编号 -->
+    <Curve>g51</Curve> <!-- 曲线 -->
+    <Curve>g52</Curve> <!-- 曲线 -->
+    <Curve>g53</Curve> <!-- 曲线 -->
+    <Curve>g54</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g64</ID> <!-- 编号 -->
+    <Curve>g60</Curve> <!-- 曲线 -->
+    <Curve>g61</Curve> <!-- 曲线 -->
+    <Curve>g62</Curve> <!-- 曲线 -->
+    <Curve>g63</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g67</ID> <!-- 编号 -->
+    <Curve>g66</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g70</ID> <!-- 编号 -->
+    <Curve>g69</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g73</ID> <!-- 编号 -->
+    <Curve>g72</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g76</ID> <!-- 编号 -->
+    <Curve>g75</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g92</ID> <!-- 编号 -->
+    <Curve>g86</Curve> <!-- 曲线 -->
+    <Curve>g87</Curve> <!-- 曲线 -->
+    <Curve>g88</Curve> <!-- 曲线 -->
+    <Curve>g89</Curve> <!-- 曲线 -->
+    <Curve>g90</Curve> <!-- 曲线 -->
+    <Curve>g91</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g100</ID> <!-- 编号 -->
+    <Curve>g94</Curve> <!-- 曲线 -->
+    <Curve>g95</Curve> <!-- 曲线 -->
+    <Curve>g96</Curve> <!-- 曲线 -->
+    <Curve>g97</Curve> <!-- 曲线 -->
+    <Curve>g98</Curve> <!-- 曲线 -->
+    <Curve>g99</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g110</ID> <!-- 编号 -->
+    <Curve>g104</Curve> <!-- 曲线 -->
+    <Curve>g105</Curve> <!-- 曲线 -->
+    <Curve>g106</Curve> <!-- 曲线 -->
+    <Curve>g107</Curve> <!-- 曲线 -->
+    <Curve>g108</Curve> <!-- 曲线 -->
+    <Curve>g109</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g118</ID> <!-- 编号 -->
+    <Curve>g112</Curve> <!-- 曲线 -->
+    <Curve>g113</Curve> <!-- 曲线 -->
+    <Curve>g114</Curve> <!-- 曲线 -->
+    <Curve>g115</Curve> <!-- 曲线 -->
+    <Curve>g116</Curve> <!-- 曲线 -->
+    <Curve>g117</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g128</ID> <!-- 编号 -->
+    <Curve>g122</Curve> <!-- 曲线 -->
+    <Curve>g123</Curve> <!-- 曲线 -->
+    <Curve>g124</Curve> <!-- 曲线 -->
+    <Curve>g125</Curve> <!-- 曲线 -->
+    <Curve>g126</Curve> <!-- 曲线 -->
+    <Curve>g127</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g136</ID> <!-- 编号 -->
+    <Curve>g130</Curve> <!-- 曲线 -->
+    <Curve>g131</Curve> <!-- 曲线 -->
+    <Curve>g132</Curve> <!-- 曲线 -->
+    <Curve>g133</Curve> <!-- 曲线 -->
+    <Curve>g134</Curve> <!-- 曲线 -->
+    <Curve>g135</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g146</ID> <!-- 编号 -->
+    <Curve>g140</Curve> <!-- 曲线 -->
+    <Curve>g141</Curve> <!-- 曲线 -->
+    <Curve>g142</Curve> <!-- 曲线 -->
+    <Curve>g143</Curve> <!-- 曲线 -->
+    <Curve>g144</Curve> <!-- 曲线 -->
+    <Curve>g145</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g154</ID> <!-- 编号 -->
+    <Curve>g148</Curve> <!-- 曲线 -->
+    <Curve>g149</Curve> <!-- 曲线 -->
+    <Curve>g150</Curve> <!-- 曲线 -->
+    <Curve>g151</Curve> <!-- 曲线 -->
+    <Curve>g152</Curve> <!-- 曲线 -->
+    <Curve>g153</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Circle2D>
+    <ID>g1</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.5000243999999999</X>
+      <Y>0.49992279999999994</Y>
+    </CenterPoint>
+    <Radius>0.0599948</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g58</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.6898639999999999</X>
+      <Y>0.342646</Y>
+    </CenterPoint>
+    <Radius>0.059944</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g78</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.750062</X>
+      <Y>0.342646</Y>
+    </CenterPoint>
+    <Radius>0.059944</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g80</ID> <!-- 编号 -->
+    <Height>0.45001179999999996</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.22500589999999998</X>
+      <Y>0.22500589999999998</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.45001179999999996</Width> <!-- 宽 -->
+  </Rectangle>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g82</ID> <!-- 编号 -->
+    <Height>0.47501809999999994</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-0.23750904999999997</X>
+      <Y>0.23750904999999997</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>0.47501809999999994</Width> <!-- 宽 -->
+  </Rectangle>
+  <Polygon2D>
+    <ID>g2</ID> <!-- 编号 -->
+    <Outline>g1</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g14</ID> <!-- 编号 -->
+    <Outline>g13</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g26</ID> <!-- 编号 -->
+    <Outline>g25</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g37</ID> <!-- 编号 -->
+    <Outline>g36</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g49</ID> <!-- 编号 -->
+    <Outline>g48</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g56</ID> <!-- 编号 -->
+    <Outline>g55</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <FontDefinition>
+    <ID>g158</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.1524</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g169</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.00387</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g159</ID> <!-- 编号 -->
+    <FontDefinition>g158</FontDefinition>
+    <FontSize>1.7145</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g162</ID> <!-- 编号 -->
+    <FontDefinition>g158</FontDefinition>
+    <FontSize>1.143</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g170</ID> <!-- 编号 -->
+    <FontDefinition>g169</FontDefinition>
+    <FontSize>0.04355</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Footprint>
+    <ID>g200</ID> <!-- 编号 -->
+    <Name>DFN-4_L1.0-W1.0-EP0.48</Name> <!-- 名称 -->
+    <Pad>g85</Pad> <!-- 焊盘 -->
+    <Pad>g103</Pad> <!-- 焊盘 -->
+    <Pad>g121</Pad> <!-- 焊盘 -->
+    <Pad>g139</Pad> <!-- 焊盘 -->
+    <Pad>g157</Pad> <!-- 焊盘 -->
+    <Purpose>Component</Purpose> <!-- 用途 -->
+    <Shapes>g3</Shapes>
+    <Shapes>g15</Shapes>
+    <Shapes>g27</Shapes>
+    <Shapes>g38</Shapes>
+    <Shapes>g50</Shapes>
+    <Shapes>g57</Shapes>
+    <Shapes>g59</Shapes>
+    <Shapes>g65</Shapes>
+    <Shapes>g68</Shapes>
+    <Shapes>g71</Shapes>
+    <Shapes>g74</Shapes>
+    <Shapes>g77</Shapes>
+    <Shapes>g79</Shapes>
+    <Shapes>g160</Shapes>
+    <Shapes>g161</Shapes>
+    <Shapes>g163</Shapes>
+    <Shapes>g164</Shapes>
+    <Shapes>g165</Shapes>
+    <Shapes>g166</Shapes>
+    <Shapes>g167</Shapes>
+    <Shapes>g168</Shapes>
+    <Shapes>g171</Shapes>
+    <Shapes>g172</Shapes>
+    <Shapes>g173</Shapes>
+    <Shapes>g174</Shapes>
+    <Shapes>g175</Shapes>
+    <Shapes>g176</Shapes>
+    <Shapes>g177</Shapes>
+    <Shapes>g178</Shapes>
+    <Shapes>g179</Shapes>
+    <Shapes>g180</Shapes>
+    <Shapes>g181</Shapes>
+    <Shapes>g182</Shapes>
+    <Shapes>g183</Shapes>
+    <Shapes>g184</Shapes>
+    <Shapes>g185</Shapes>
+    <Shapes>g186</Shapes>
+    <Shapes>g187</Shapes>
+    <Shapes>g188</Shapes>
+    <Shapes>g189</Shapes>
+    <Shapes>g190</Shapes>
+    <Shapes>g191</Shapes>
+    <Shapes>g192</Shapes>
+    <Shapes>g193</Shapes>
+    <Shapes>g194</Shapes>
+    <Shapes>g195</Shapes>
+    <Shapes>g196</Shapes>
+    <Shapes>g197</Shapes>
+    <Shapes>g198</Shapes>
+    <Shapes>g199</Shapes>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Footprint>
+  <FootprintRegion>
+    <ID>g3</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <Layer>ComponentBodyLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g2</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g15</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g14</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g27</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g26</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g38</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g37</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g50</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g49</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g56</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintAttribute>
+    <ID>g160</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g159</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g161</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g159</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g163</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model Title</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g162</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g164</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g162</Text> <!-- 文本 -->
+    <Value>6ec0b8c97ac644a1836116329de83799|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g165</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g159</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g166</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g159</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g167</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model Title</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g162</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g168</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g162</Text> <!-- 文本 -->
+    <Value>6ec0b8c97ac644a1836116329de83799|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g171</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>LCSC Part Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>2.5V 300mA 6.5V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g172</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SupplierPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>C7422313</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g173</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Manufacturer</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>XTX(芯天下)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g174</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ManufacturerPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>XTP2021-250AD1CT</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g175</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>DFN1x1-4L</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g176</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>JLCPCB Part Class</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>Extended Part</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g177</ID> <!-- 编号 -->
+    <Depth>28</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Datasheet</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>https://item.szlcsc.com/datasheet/XTP2021-250AD1CT/8404761.html</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g178</ID> <!-- 编号 -->
+    <Depth>29</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>LCSC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g179</ID> <!-- 编号 -->
+    <Depth>30</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>AddInBom</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g180</ID> <!-- 编号 -->
+    <Depth>31</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ConvertToPcb</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g181</ID> <!-- 编号 -->
+    <Depth>32</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>XTP2021-250AD1CT</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g182</ID> <!-- 编号 -->
+    <Depth>33</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>FootprintName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g183</ID> <!-- 编号 -->
+    <Depth>34</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelId</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>6ec0b8c97ac644a1836116329de83799|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g184</ID> <!-- 编号 -->
+    <Depth>35</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>DFN-4_L1.0-W1.0-EP0.48</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g185</ID> <!-- 编号 -->
+    <Depth>36</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelTransform</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>40.1574,39.37,0,0,0,0,0,0,0</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g186</ID> <!-- 编号 -->
+    <Depth>37</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Output Configuration</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>正极</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g187</ID> <!-- 编号 -->
+    <Depth>38</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Voltage - Supply</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>6.5V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g188</ID> <!-- 编号 -->
+    <Depth>39</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Output Voltage</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>2.5V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g189</ID> <!-- 编号 -->
+    <Depth>40</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Output Current</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>300mA</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g190</ID> <!-- 编号 -->
+    <Depth>41</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Power Supply Rejection Ratio (PSRR)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>75dB@(1kHz)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g191</ID> <!-- 编号 -->
+    <Depth>42</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Voltage Dropout</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g192</ID> <!-- 编号 -->
+    <Depth>43</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>standby current</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>1uA</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g193</ID> <!-- 编号 -->
+    <Depth>44</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Noise</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>67uVrms</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g194</ID> <!-- 编号 -->
+    <Depth>45</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Features</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>短路保护；使能控制；过流保护；输出放电；热关断</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g195</ID> <!-- 编号 -->
+    <Depth>46</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Operating Temperature</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>-40℃~+85℃@(Ta)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g196</ID> <!-- 编号 -->
+    <Depth>47</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Output Type</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>固定</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g197</ID> <!-- 编号 -->
+    <Depth>48</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Number of Outputs</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g198</ID> <!-- 编号 -->
+    <Depth>49</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>={ManufacturerPart}</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g199</ID> <!-- 编号 -->
+    <Depth>50</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g170</Text> <!-- 文本 -->
+    <Value>输出极性:正极;工作电压:6.5V;输出电压:2.5V;输出电流:300mA;电源纹波抑制比(PSRR):75dB@(1kHz);输出类型:固定;</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintLine>
+    <ID>g59</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <Layer>DocumentLayer</Layer> <!-- 层 -->
+    <LineWidth>0.1199896</LineWidth> <!-- 线宽 -->
+    <Shape>g58</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g65</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <Layer>ComponentOutlineLayer</Layer> <!-- 层 -->
+    <LineWidth>0.0508</LineWidth> <!-- 线宽 -->
+    <Shape>g64</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g68</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.09999979999999999</LineWidth> <!-- 线宽 -->
+    <Shape>g67</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g71</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.09999979999999999</LineWidth> <!-- 线宽 -->
+    <Shape>g70</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g74</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.09999979999999999</LineWidth> <!-- 线宽 -->
+    <Shape>g73</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g77</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.09999979999999999</LineWidth> <!-- 线宽 -->
+    <Shape>g76</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g79</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.1199896</LineWidth> <!-- 线宽 -->
+    <Shape>g78</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <Pad> <!-- 焊盘 -->
+    <ID>g85</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0</X>
+      <Y>0.00254</Y>
+    </Location>
+    <PadNumber>5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g84</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0.7853981633974482</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g103</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.409956</X>
+      <Y>0.337566</Y>
+    </Location>
+    <PadNumber>1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g102</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g121</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.409956</X>
+      <Y>-0.342392</Y>
+    </Location>
+    <PadNumber>2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g120</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g139</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.409956</X>
+      <Y>-0.347472</Y>
+    </Location>
+    <PadNumber>3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g138</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g157</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.409956</X>
+      <Y>0.347472</Y>
+    </Location>
+    <PadNumber>4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g156</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g84</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g81</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g83</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g81</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g102</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g93</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g101</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g93</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g120</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g111</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g119</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g111</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g138</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g129</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g137</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g129</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g156</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g147</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopSolderMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g155</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <LayerPadShape>
+      <Layer>TopPasteMaskLayer</Layer> <!-- 层 -->
+      <RegularPad>g147</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadShape>
+    <ID>g81</ID> <!-- 编号 -->
+    <Shape>g80</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g83</ID> <!-- 编号 -->
+    <Shape>g82</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g93</ID> <!-- 编号 -->
+    <Shape>g92</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g101</ID> <!-- 编号 -->
+    <Shape>g100</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g111</ID> <!-- 编号 -->
+    <Shape>g110</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g119</ID> <!-- 编号 -->
+    <Shape>g118</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g129</ID> <!-- 编号 -->
+    <Shape>g128</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g137</ID> <!-- 编号 -->
+    <Shape>g136</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g147</ID> <!-- 编号 -->
+    <Shape>g146</Shape> <!-- 几何形状 -->
+  </PadShape>
+  <PadShape>
+    <ID>g155</ID> <!-- 编号 -->
+    <Shape>g154</Shape> <!-- 几何形状 -->
+  </PadShape>
+</root>

@@ -1,0 +1,338 @@
+{
+  "LineSegment2D": [ // 二维线段
+    {
+      "ID": "g8", // 编号
+      "EndPoint": {"X": 0.3048508, "Y": 0.0000254}, // 结束点
+      "StartPoint": {"X": -0.15239999999999998, "Y": -0.8382} // 起始点
+    },
+    {
+      "ID": "g11", // 编号
+      "EndPoint": {"X": -0.15239999999999998, "Y": 0.8128}, // 结束点
+      "StartPoint": {"X": 0.3048508, "Y": 0.0000254} // 起始点
+    },
+    {
+      "ID": "g14", // 编号
+      "EndPoint": {"X": -0.15239999999999998, "Y": 0.8128}, // 结束点
+      "StartPoint": {"X": -0.15239999999999998, "Y": -0.8128} // 起始点
+    }
+  ],
+  "Polycurve2D": [ // 二维折线
+    {"ID": "g9", "Curve": ["g8"]}, // 编号 - 曲线
+    {"ID": "g12", "Curve": ["g11"]}, // 编号 - 曲线
+    {"ID": "g15", "Curve": ["g14"]} // 编号 - 曲线
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g1", // 编号
+      "Height": 1.778, // 高
+      "Position": {"X": -0.455041, "Y": 0.889}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.910082 // 宽
+    },
+    {
+      "ID": "g3", // 编号
+      "Height": 1.8288, // 高
+      "Position": {"X": -0.48044099999999995, "Y": 0.9144}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.9608819999999999 // 宽
+    }
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g17", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.1524, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g25", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.00387, // 宽
+      "Weight": 0 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g18", // 编号
+      "FontDefinition": "g17",
+      "FontSize": 1.7145, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g26", // 编号
+      "FontDefinition": "g25",
+      "FontSize": 0.04355, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Footprint": [
+    {
+      "ID": "g37", // 编号
+      "Name": "RGBLED_0807", // 名称
+      "Pad": ["g6", "g7"], // 焊盘
+      "Purpose": "Component", // 用途 - 元件
+      "Shapes": [
+        "g10",
+        "g13",
+        "g16",
+        "g19",
+        "g20",
+        "g21",
+        "g22",
+        "g23",
+        "g24",
+        "g27",
+        "g28",
+        "g29",
+        "g30",
+        "g31",
+        "g32",
+        "g33",
+        "g34",
+        "g35",
+        "g36"
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "FootprintAttribute": [
+    {
+      "ID": "g19", // 编号
+      "Depth": 4, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "RGBLED_0807", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g20", // 编号
+      "Depth": 5, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 6, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Device", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g22", // 编号
+      "Depth": 7, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "RGBLED_0807", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g23", // 编号
+      "Depth": 8, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g24", // 编号
+      "Depth": 9, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Device", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g18", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g27", // 编号
+      "Depth": 10, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g28", // 编号
+      "Depth": 11, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g29", // 编号
+      "Depth": 12, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g30", // 编号
+      "Depth": 13, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "0805", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g31", // 编号
+      "Depth": 14, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g32", // 编号
+      "Depth": 15, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "LED_G", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g33", // 编号
+      "Depth": 16, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "RGBLED_0807", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g34", // 编号
+      "Depth": 17, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "ad9e52687c9f4267bcf4aaf65e902c71|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g35", // 编号
+      "Depth": 18, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "LED-0805_G", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g36", // 编号
+      "Depth": 19, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g26", // 文本
+      "Value": "63.9,39.8,31.9,0,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "FootprintLine": [
+    {
+      "ID": "g10", // 编号
+      "Depth": 1, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.119888, // 线宽
+      "Shape": "g9" // 几何形状
+    },
+    {
+      "ID": "g13", // 编号
+      "Depth": 2, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.119888, // 线宽
+      "Shape": "g12" // 几何形状
+    },
+    {
+      "ID": "g16", // 编号
+      "Depth": 3, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.119888, // 线宽
+      "Shape": "g15" // 几何形状
+    }
+  ],
+  "Pad": [ // 焊盘
+    {
+      "ID": "g6", // 编号
+      "Location": {"X": -0.9144, "Y": 0}, // 位置
+      "PadNumber": "1", // 焊盘编号
+      "PadStack": "g5", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g7", // 编号
+      "Location": {"X": 0.9398, "Y": 0}, // 位置
+      "PadNumber": "2", // 焊盘编号
+      "PadStack": "g5", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    }
+  ],
+  "PadStack": [ // 焊盘堆栈
+    {
+      "ID": "g5", // 编号
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g2"}, // 层 - 常规焊盘
+        {"Layer": "TopSolderMaskLayer", "RegularPad": "g4"}, // 层 - 常规焊盘
+        {"Layer": "TopPasteMaskLayer", "RegularPad": "g2"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "SMDPad" // 焊盘堆栈类型 - 贴片焊盘
+    }
+  ],
+  "PadShape": [{"ID": "g2", "Shape": ["g1"]}, {"ID": "g4", "Shape": ["g3"]}] // 编号 - 几何形状 - 编号 - 几何形状
+}

@@ -1,0 +1,567 @@
+{
+  "LineSegment2D": [ // 二维线段
+    {
+      "ID": "g1", // 编号
+      "EndPoint": {"X": 6.0309251999999995, "Y": -4.5449998}, // 结束点
+      "StartPoint": {"X": -5.9690508, "Y": -4.5449998} // 起始点
+    },
+    {
+      "ID": "g4", // 编号
+      "EndPoint": {"X": 6.0309251999999995, "Y": -4.5449998}, // 结束点
+      "StartPoint": {"X": 6.0309251999999995, "Y": -3.3467802} // 起始点
+    },
+    {
+      "ID": "g7", // 编号
+      "EndPoint": {"X": -5.9690508, "Y": -4.5449998}, // 结束点
+      "StartPoint": {"X": -5.9690508, "Y": -3.3553146} // 起始点
+    },
+    {
+      "ID": "g10", // 编号
+      "EndPoint": {"X": -4.2561764, "Y": 1.905}, // 结束点
+      "StartPoint": {"X": -5.1689, "Y": 1.905} // 起始点
+    },
+    {
+      "ID": "g13", // 编号
+      "EndPoint": {"X": -5.9690508, "Y": 0.0196596}, // 结束点
+      "StartPoint": {"X": -5.9690508, "Y": -0.5996432} // 起始点
+    },
+    {
+      "ID": "g16", // 编号
+      "EndPoint": {"X": 6.0309251999999995, "Y": 0.0282448}, // 结束点
+      "StartPoint": {"X": 6.0309251999999995, "Y": -0.6082284} // 起始点
+    },
+    {
+      "ID": "g19", // 编号
+      "EndPoint": {"X": 5.1687984, "Y": 1.905}, // 结束点
+      "StartPoint": {"X": 4.2560748, "Y": 1.905} // 起始点
+    },
+    {
+      "ID": "g22", // 编号
+      "EndPoint": {"X": -4.8000158, "Y": 1.397}, // 结束点
+      "StartPoint": {"X": -4.8000158, "Y": 1.522984} // 起始点
+    },
+    {
+      "ID": "g25", // 编号
+      "EndPoint": {"X": -4.826, "Y": -4.444999999999999}, // 结束点
+      "StartPoint": {"X": -5.968999999999999, "Y": -4.444999999999999} // 起始点
+    },
+    {
+      "ID": "g26", // 编号
+      "EndPoint": {"X": -4.826, "Y": 1.524}, // 结束点
+      "StartPoint": {"X": -4.826, "Y": -4.444999999999999} // 起始点
+    },
+    {
+      "ID": "g27", // 编号
+      "EndPoint": {"X": 4.826, "Y": 1.524}, // 结束点
+      "StartPoint": {"X": -4.826, "Y": 1.524} // 起始点
+    },
+    {
+      "ID": "g28", // 编号
+      "EndPoint": {"X": 4.826, "Y": -4.444999999999999}, // 结束点
+      "StartPoint": {"X": 4.826, "Y": 1.524} // 起始点
+    },
+    {
+      "ID": "g29", // 编号
+      "EndPoint": {"X": 5.968999999999999, "Y": -4.444999999999999}, // 结束点
+      "StartPoint": {"X": 4.826, "Y": -4.444999999999999} // 起始点
+    },
+    {
+      "ID": "g65", // 编号
+      "EndPoint": {"X": 4.799964999999999, "Y": 1.522984}, // 结束点
+      "StartPoint": {"X": -4.8000158, "Y": 1.522984} // 起始点
+    },
+    {
+      "ID": "g66", // 编号
+      "EndPoint": {"X": 4.799964999999999, "Y": -4.571990856}, // 结束点
+      "StartPoint": {"X": 4.799964999999999, "Y": 1.522984} // 起始点
+    },
+    {
+      "ID": "g67", // 编号
+      "EndPoint": {"X": -0.0000508, "Y": -4.572}, // 结束点
+      "StartPoint": {"X": 4.799964999999999, "Y": -4.571990856} // 起始点
+    },
+    {
+      "ID": "g68", // 编号
+      "EndPoint": {"X": -4.8260254, "Y": -4.571990856}, // 结束点
+      "StartPoint": {"X": -0.0000508, "Y": -4.572} // 起始点
+    },
+    {
+      "ID": "g69", // 编号
+      "EndPoint": {"X": -4.8260508, "Y": -4.572}, // 结束点
+      "StartPoint": {"X": -4.8260254, "Y": -4.571990856} // 起始点
+    },
+    {
+      "ID": "g70", // 编号
+      "EndPoint": {"X": -4.8260508, "Y": 1.496949}, // 结束点
+      "StartPoint": {"X": -4.8260508, "Y": -4.572} // 起始点
+    },
+    {
+      "ID": "g71", // 编号
+      "EndPoint": {"X": -4.8000158, "Y": 1.522984}, // 结束点
+      "StartPoint": {"X": -4.8260508, "Y": 1.496949} // 起始点
+    }
+  ],
+  "Polycurve2D": [ // 二维折线
+    {"ID": "g2", "Curve": ["g1"]}, // 编号 - 曲线
+    {"ID": "g5", "Curve": ["g4"]}, // 编号 - 曲线
+    {"ID": "g8", "Curve": ["g7"]}, // 编号 - 曲线
+    {"ID": "g11", "Curve": ["g10"]}, // 编号 - 曲线
+    {"ID": "g14", "Curve": ["g13"]}, // 编号 - 曲线
+    {"ID": "g17", "Curve": ["g16"]}, // 编号 - 曲线
+    {"ID": "g20", "Curve": ["g19"]}, // 编号 - 曲线
+    {"ID": "g23", "Curve": ["g22"]}, // 编号 - 曲线
+    {"ID": "g30", "Curve": ["g25", "g26", "g27", "g28", "g29"]}, // 编号 - 曲线
+    {"ID": "g72", "Curve": ["g65", "g66", "g67", "g68", "g69", "g70", "g71"]} // 编号 - 曲线
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g32", // 编号
+      "Height": 0.8500110000000001, // 高
+      "Position": {"X": -0.175006, "Y": 0.42500550000000004}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.350012 // 宽
+    },
+    {
+      "ID": "g51", // 编号
+      "ChamferX": 0.49999899999999997, // 水平倒角尺寸
+      "ChamferY": 0.49999899999999997, // 垂直倒角尺寸
+      "Height": 2.2999954, // 高
+      "Position": {"X": -0.49999899999999997, "Y": 1.1499977}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.9999979999999999 // 宽
+    },
+    {
+      "ID": "g53", // 编号
+      "ChamferX": 0.25001219999999996, // 水平倒角尺寸
+      "ChamferY": 0.25001219999999996, // 垂直倒角尺寸
+      "Height": 0.5000243999999999, // 高
+      "Position": {"X": -0.8999982, "Y": 0.25001219999999996}, // 位置
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Width": 1.7999964 // 宽
+    },
+    {
+      "ID": "g58", // 编号
+      "ChamferX": 0.49999899999999997, // 水平倒角尺寸
+      "ChamferY": 0.49999899999999997, // 垂直倒角尺寸
+      "Height": 2.2500082, // 高
+      "Position": {"X": -0.49999899999999997, "Y": 1.1250041}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.9999979999999999 // 宽
+    },
+    {
+      "ID": "g60", // 编号
+      "ChamferX": 0.25001219999999996, // 水平倒角尺寸
+      "ChamferY": 0.25001219999999996, // 垂直倒角尺寸
+      "Height": 0.5000243999999999, // 高
+      "Position": {"X": -0.8749919, "Y": 0.25001219999999996}, // 位置
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Width": 1.7499838 // 宽
+    }
+  ],
+  "Polygon2D": [{"ID": "g73", "Hole": [], "Outline": "g72"}], // 编号 - 内洞 - 轮廓
+  "FontDefinition": [
+    {
+      "ID": "g75", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.1524, // 宽
+      "Weight": 0 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g76", // 编号
+      "FontDefinition": "g75",
+      "FontSize": 1.7145, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Footprint": [
+    {
+      "ID": "g81", // 编号
+      "Name": "USB-C-SMD_TYPEC-320-ARP16SC20", // 名称
+      "Pad": [ // 焊盘
+        "g35",
+        "g36",
+        "g37",
+        "g38",
+        "g39",
+        "g40",
+        "g41",
+        "g42",
+        "g43",
+        "g44",
+        "g45",
+        "g46",
+        "g47",
+        "g48",
+        "g49",
+        "g50",
+        "g55",
+        "g57",
+        "g62",
+        "g64"
+      ],
+      "Purpose": "Component", // 用途 - 元件
+      "Shapes": [
+        "g3",
+        "g6",
+        "g9",
+        "g12",
+        "g15",
+        "g18",
+        "g21",
+        "g24",
+        "g31",
+        "g74",
+        "g77",
+        "g78",
+        "g79",
+        "g80"
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "FootprintRegion": [
+    {
+      "ID": "g74", // 编号
+      "Depth": 10, // 深度
+      "Layer": "MultipleLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g73" // 几何形状
+    }
+  ],
+  "FootprintAttribute": [
+    {
+      "ID": "g77", // 编号
+      "Depth": 11, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g76", // 文本
+      "Value": "USB-C-SMD_TYPEC-320-ARP16SC20", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g78", // 编号
+      "Depth": 12, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g76", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g79", // 编号
+      "Depth": 13, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g76", // 文本
+      "Value": "USB-C-SMD_TYPEC-320-ARP16SC20", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g80", // 编号
+      "Depth": 14, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g76", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "FootprintLine": [
+    {
+      "ID": "g3", // 编号
+      "Depth": 1, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g2" // 几何形状
+    },
+    {
+      "ID": "g6", // 编号
+      "Depth": 2, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g5" // 几何形状
+    },
+    {
+      "ID": "g9", // 编号
+      "Depth": 3, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g8" // 几何形状
+    },
+    {
+      "ID": "g12", // 编号
+      "Depth": 4, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g11" // 几何形状
+    },
+    {
+      "ID": "g15", // 编号
+      "Depth": 5, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g14" // 几何形状
+    },
+    {
+      "ID": "g18", // 编号
+      "Depth": 6, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g17" // 几何形状
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 7, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g20" // 几何形状
+    },
+    {
+      "ID": "g24", // 编号
+      "Depth": 8, // 深度
+      "Layer": "MultipleLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g23" // 几何形状
+    },
+    {
+      "ID": "g31", // 编号
+      "Depth": 9, // 深度
+      "Layer": "BoardOutlineLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g30" // 几何形状
+    }
+  ],
+  "Pad": [ // 焊盘
+    {
+      "ID": "g35", // 编号
+      "Location": {"X": -3.8501320000000003, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B12", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g36", // 编号
+      "Location": {"X": -3.3500059999999996, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A1", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g37", // 编号
+      "Location": {"X": -2.800096, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B9", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g38", // 编号
+      "Location": {"X": -2.2999699999999996, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A4", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g39", // 编号
+      "Location": {"X": -1.7500600000000002, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B8", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g40", // 编号
+      "Location": {"X": -1.2499339999999999, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A5", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g41", // 编号
+      "Location": {"X": -0.750062, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B7", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g42", // 编号
+      "Location": {"X": -0.249936, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A6", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g43", // 编号
+      "Location": {"X": 0.249936, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B6", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g44", // 编号
+      "Location": {"X": 0.750062, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A7", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g45", // 编号
+      "Location": {"X": 1.2499339999999999, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B5", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g46", // 编号
+      "Location": {"X": 1.7500600000000002, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A8", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g47", // 编号
+      "Location": {"X": 2.2999699999999996, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A9", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g48", // 编号
+      "Location": {"X": 2.799842, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B4", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g49", // 编号
+      "Location": {"X": 3.3500059999999996, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "A12", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g50", // 编号
+      "Location": {"X": 3.8498779999999995, "Y": 1.9773899999999998}, // 位置
+      "PadNumber": "B1", // 焊盘编号
+      "PadStack": "g34", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g55", // 编号
+      "Location": {"X": 5.899912, "Y": -1.9773899999999998}, // 位置
+      "PadNumber": "4", // 焊盘编号
+      "PadStack": "g54", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g57", // 编号
+      "Location": {"X": -5.899912, "Y": -1.9773899999999998}, // 位置
+      "PadNumber": "2", // 焊盘编号
+      "PadStack": "g56", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g62", // 编号
+      "Location": {"X": -5.899912, "Y": 1.3726159999999998}, // 位置
+      "PadNumber": "1", // 焊盘编号
+      "PadStack": "g61", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g64", // 编号
+      "Location": {"X": 5.899912, "Y": 1.3726159999999998}, // 位置
+      "PadNumber": "3", // 焊盘编号
+      "PadStack": "g63", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    }
+  ],
+  "PadStack": [ // 焊盘堆栈
+    {
+      "ID": "g34", // 编号
+      "LayerPadShape": [{"Layer": "TopLayer", "RegularPad": "g33"}], // 层 - 常规焊盘
+      "Name": "", // 名称
+      "PadStackType": "SMDPad" // 焊盘堆栈类型 - 贴片焊盘
+    },
+    {
+      "ID": "g54", // 编号
+      "Drill": {
+        "DrillArray": [{"X": 0.0000762, "Y": 0.0000254}], // 钻孔阵列
+        "HoleShape": "g53", // 孔形状
+        "Plated": true // 电镀
+      },
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g52"}, // 层 - 常规焊盘
+        {"Layer": "BottomLayer", "RegularPad": "g52"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "ThroughPad" // 焊盘堆栈类型 - 通孔
+    },
+    {
+      "ID": "g56", // 编号
+      "Drill": {
+        "DrillArray": [{"X": -0.0000762, "Y": 0.0000254}], // 钻孔阵列
+        "HoleShape": "g53", // 孔形状
+        "Plated": true // 电镀
+      },
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g52"}, // 层 - 常规焊盘
+        {"Layer": "BottomLayer", "RegularPad": "g52"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "ThroughPad" // 焊盘堆栈类型 - 通孔
+    },
+    {
+      "ID": "g61", // 编号
+      "Drill": {
+        "DrillArray": [{"X": -0.0000762, "Y": 0.0000254}], // 钻孔阵列
+        "HoleShape": "g60", // 孔形状
+        "Plated": true // 电镀
+      },
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g59"}, // 层 - 常规焊盘
+        {"Layer": "BottomLayer", "RegularPad": "g59"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "ThroughPad" // 焊盘堆栈类型 - 通孔
+    },
+    {
+      "ID": "g63", // 编号
+      "Drill": {
+        "DrillArray": [{"X": 0.0000762, "Y": 0.0000254}], // 钻孔阵列
+        "HoleShape": "g60", // 孔形状
+        "Plated": true // 电镀
+      },
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g59"}, // 层 - 常规焊盘
+        {"Layer": "BottomLayer", "RegularPad": "g59"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "ThroughPad" // 焊盘堆栈类型 - 通孔
+    }
+  ],
+  "PadShape": [
+    {"ID": "g33", "Shape": ["g32"]}, // 编号 - 几何形状
+    {"ID": "g52", "Shape": ["g51"]}, // 编号 - 几何形状
+    {"ID": "g59", "Shape": ["g58"]} // 编号 - 几何形状
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "LineSegment2D": [ // 二维线段
+    {
+      "ID": "g13", // 编号
+      "EndPoint": {"X": -4.23876978, "Y": 0.43322748}, // 结束点
+      "StartPoint": {"X": -4.287266000000001, "Y": 0.01530096} // 起始点
+    },
+    {
+      "ID": "g14", // 编号
+      "EndPoint": {"X": -4.0203628, "Y": 0.79014828}, // 结束点
+      "StartPoint": {"X": -4.23876978, "Y": 0.43322748} // 起始点
+    },
+    {
+      "ID": "g15", // 编号
+      "EndPoint": {"X": -3.6787836, "Y": 1.0250652599999999}, // 结束点
+      "StartPoint": {"X": -4.0203628, "Y": 0.79014828} // 起始点
+    },
+    {
+      "ID": "g16", // 编号
+      "EndPoint": {"X": -3.2751928400000003, "Y": 1.10603792}, // 结束点
+      "StartPoint": {"X": -3.6787836, "Y": 1.0250652599999999} // 起始点
+    },
+    {
+      "ID": "g17", // 编号
+      "EndPoint": {"X": -2.87179258, "Y": 1.02406958}, // 结束点
+      "StartPoint": {"X": -3.2751928400000003, "Y": 1.10603792} // 起始点
+    },
+    {
+      "ID": "g18", // 编号
+      "EndPoint": {"X": -2.5307925, "Y": 0.78827376}, // 结束点
+      "StartPoint": {"X": -2.87179258, "Y": 1.02406958} // 起始点
+    },
+    {
+      "ID": "g19", // 编号
+      "EndPoint": {"X": -2.31331516, "Y": 0.4307586}, // 结束点
+      "StartPoint": {"X": -2.5307925, "Y": 0.78827376} // 起始点
+    },
+    {
+      "ID": "g20", // 编号
+      "EndPoint": {"X": -2.2659492400000003, "Y": 0.01269746}, // 结束点
+      "StartPoint": {"X": -2.31331516, "Y": 0.4307586} // 起始点
+    },
+    {
+      "ID": "g23", // 编号
+      "EndPoint": {"X": -2.0854085799999997, "Y": 0.43326558}, // 结束点
+      "StartPoint": {"X": -2.13333838, "Y": 0.01527048} // 起始点
+    },
+    {
+      "ID": "g24", // 编号
+      "EndPoint": {"X": -1.86746896, "Y": 0.79048864}, // 结束点
+      "StartPoint": {"X": -2.0854085799999997, "Y": 0.43326558} // 起始点
+    },
+    {
+      "ID": "g25", // 编号
+      "EndPoint": {"X": -1.52617678, "Y": 1.02584504}, // 结束点
+      "StartPoint": {"X": -1.86746896, "Y": 0.79048864} // 起始点
+    },
+    {
+      "ID": "g26", // 编号
+      "EndPoint": {"X": -1.12268, "Y": 1.10731554}, // 结束点
+      "StartPoint": {"X": -1.52617678, "Y": 1.02584504} // 起始点
+    },
+    {
+      "ID": "g27", // 编号
+      "EndPoint": {"X": -0.71918322, "Y": 1.02584504}, // 结束点
+      "StartPoint": {"X": -1.12268, "Y": 1.10731554} // 起始点
+    },
+    {
+      "ID": "g28", // 编号
+      "EndPoint": {"X": -0.37789104, "Y": 0.79048864}, // 结束点
+      "StartPoint": {"X": -0.71918322, "Y": 1.02584504} // 起始点
+    },
+    {
+      "ID": "g29", // 编号
+      "EndPoint": {"X": -0.15995142, "Y": 0.43326558}, // 结束点
+      "StartPoint": {"X": -0.37789104, "Y": 0.79048864} // 起始点
+    },
+    {
+      "ID": "g30", // 编号
+      "EndPoint": {"X": -0.11202162, "Y": 0.01527048}, // 结束点
+      "StartPoint": {"X": -0.15995142, "Y": 0.43326558} // 起始点
+    },
+    {
+      "ID": "g33", // 编号
+      "EndPoint": {"X": 0.06597142, "Y": 0.43326558}, // 结束点
+      "StartPoint": {"X": 0.018041619999999998, "Y": 0.01527048} // 起始点
+    },
+    {
+      "ID": "g34", // 编号
+      "EndPoint": {"X": 0.28391104, "Y": 0.79048864}, // 结束点
+      "StartPoint": {"X": 0.06597142, "Y": 0.43326558} // 起始点
+    },
+    {
+      "ID": "g35", // 编号
+      "EndPoint": {"X": 0.6252032200000001, "Y": 1.02584504}, // 结束点
+      "StartPoint": {"X": 0.28391104, "Y": 0.79048864} // 起始点
+    },
+    {
+      "ID": "g36", // 编号
+      "EndPoint": {"X": 1.0287, "Y": 1.10731554}, // 结束点
+      "StartPoint": {"X": 0.6252032200000001, "Y": 1.02584504} // 起始点
+    },
+    {
+      "ID": "g37", // 编号
+      "EndPoint": {"X": 1.43219678, "Y": 1.02584504}, // 结束点
+      "StartPoint": {"X": 1.0287, "Y": 1.10731554} // 起始点
+    },
+    {
+      "ID": "g38", // 编号
+      "EndPoint": {"X": 1.7734889600000001, "Y": 0.79048864}, // 结束点
+      "StartPoint": {"X": 1.43219678, "Y": 1.02584504} // 起始点
+    },
+    {
+      "ID": "g39", // 编号
+      "EndPoint": {"X": 1.99142858, "Y": 0.43326558}, // 结束点
+      "StartPoint": {"X": 1.7734889600000001, "Y": 0.79048864} // 起始点
+    },
+    {
+      "ID": "g40", // 编号
+      "EndPoint": {"X": 2.03935838, "Y": 0.01527048}, // 结束点
+      "StartPoint": {"X": 1.99142858, "Y": 0.43326558} // 起始点
+    },
+    {
+      "ID": "g43", // 编号
+      "EndPoint": {"X": 2.26319842, "Y": 0.42960798}, // 结束点
+      "StartPoint": {"X": 2.2099905, "Y": 0.015631159999999998} // 起始点
+    },
+    {
+      "ID": "g44", // 编号
+      "EndPoint": {"X": 2.48287794, "Y": 0.78177644}, // 结束点
+      "StartPoint": {"X": 2.26319842, "Y": 0.42960798} // 起始点
+    },
+    {
+      "ID": "g45", // 编号
+      "EndPoint": {"X": 2.82286456, "Y": 1.01312472}, // 结束点
+      "StartPoint": {"X": 2.48287794, "Y": 0.78177644} // 起始点
+    },
+    {
+      "ID": "g46", // 编号
+      "EndPoint": {"X": 3.22337684, "Y": 1.09280706}, // 结束点
+      "StartPoint": {"X": 2.82286456, "Y": 1.01312472} // 起始点
+    },
+    {
+      "ID": "g47", // 编号
+      "EndPoint": {"X": 3.6237037, "Y": 1.01213666}, // 结束点
+      "StartPoint": {"X": 3.22337684, "Y": 1.09280706} // 起始点
+    },
+    {
+      "ID": "g48", // 编号
+      "EndPoint": {"X": 3.9631239000000003, "Y": 0.77991716}, // 结束点
+      "StartPoint": {"X": 3.6237037, "Y": 1.01213666} // 起始点
+    },
+    {
+      "ID": "g49", // 编号
+      "EndPoint": {"X": 4.18188648, "Y": 0.4271518}, // 结束点
+      "StartPoint": {"X": 3.9631239000000003, "Y": 0.77991716} // 起始点
+    },
+    {
+      "ID": "g50", // 编号
+      "EndPoint": {"X": 4.2339768, "Y": 0.01302766}, // 结束点
+      "StartPoint": {"X": 4.18188648, "Y": 0.4271518} // 起始点
+    }
+  ],
+  "Polycurve2D": [ // 二维折线
+    {
+      "ID": "g21", // 编号
+      "Curve": ["g13", "g14", "g15", "g16", "g17", "g18", "g19", "g20"] // 曲线
+    },
+    {
+      "ID": "g31", // 编号
+      "Curve": ["g23", "g24", "g25", "g26", "g27", "g28", "g29", "g30"] // 曲线
+    },
+    {
+      "ID": "g41", // 编号
+      "Curve": ["g33", "g34", "g35", "g36", "g37", "g38", "g39", "g40"] // 曲线
+    },
+    {
+      "ID": "g51", // 编号
+      "Curve": ["g43", "g44", "g45", "g46", "g47", "g48", "g49", "g50"] // 曲线
+    }
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g1", // 编号
+      "Align": "BottomRight", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g4", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g53", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Width": 0, // 宽
+      "Weight": 0.00983234 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g2", // 编号
+      "FontDefinition": "g1",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 3.302, "Y": -0.48640491999999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g5", // 编号
+      "FontDefinition": "g4",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 5.334, "Y": 0.52959508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g8", // 编号
+      "FontDefinition": "g4",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -3.302, "Y": -0.48640491999999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g10", // 编号
+      "FontDefinition": "g1",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -5.334, "Y": 0.52959508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g54", // 编号
+      "FontDefinition": "g53",
+      "FontSize": 0.43548, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Symbol": [
+    {
+      "ID": "g80", // 编号
+      "IsHomogeneous": false,
+      "Name": "WPN201610H100MT", // 名称
+      "Purpose": "Component", // 用途 - 元件
+      "SubPart": [ // 子件
+        {
+          "Name": "WPN201610H100MT.1", // 名称
+          "Shapes": [
+            "g7",
+            "g12",
+            "g22",
+            "g32",
+            "g42",
+            "g52",
+            "g55",
+            "g56",
+            "g57",
+            "g58",
+            "g59",
+            "g60",
+            "g61",
+            "g62",
+            "g63",
+            "g64",
+            "g65",
+            "g66",
+            "g67",
+            "g68",
+            "g69",
+            "g70",
+            "g71",
+            "g72",
+            "g73",
+            "g74",
+            "g75",
+            "g76",
+            "g77",
+            "g78",
+            "g79"
+          ]
+        }
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "SymbolAttribute": [
+    {
+      "ID": "g3", // 编号
+      "Depth": 2, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g2", // 文本
+      "Value": "2", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g6", // 编号
+      "Depth": 3, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g5", // 文本
+      "Value": "2", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g9", // 编号
+      "Depth": 5, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g8", // 文本
+      "Value": "1", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g11", // 编号
+      "Depth": 6, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g10", // 文本
+      "Value": "1", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g55", // 编号
+      "Depth": 11, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "10uH ±20% 800mA", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g56", // 编号
+      "Depth": 12, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "C89132", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g57", // 编号
+      "Depth": 13, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "Sunlord(顺络)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g58", // 编号
+      "Depth": 14, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "WPN201610H100MT", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g59", // 编号
+      "Depth": 15, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "0806", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g60", // 编号
+      "Depth": 16, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "扩展库", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g61", // 编号
+      "Depth": 17, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "https://item.szlcsc.com/datasheet/WPN201610H100MT/90312.html", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g62", // 编号
+      "Depth": 18, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g63", // 编号
+      "Depth": 19, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g64", // 编号
+      "Depth": 20, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g65", // 编号
+      "Depth": 21, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "WPN201610H100MT", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g66", // 编号
+      "Depth": 22, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "L?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g67", // 编号
+      "Depth": 23, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "IND-SMD_L2.0-W1.6", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g68", // 编号
+      "Depth": 24, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "b394e7fcf39b47c8917c782d9e6cbcf8|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g69", // 编号
+      "Depth": 25, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "IND-SMD_L2.0-W1.6-H1.1", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g70", // 编号
+      "Depth": 26, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "62.992,79.527,0,90,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g71", // 编号
+      "Depth": 27, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Value", // 键 - 值
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "10uH", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g72", // 编号
+      "Depth": 28, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Tolerance", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "±20%", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g73", // 编号
+      "Depth": 29, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Current Rating", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "650mA", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g74", // 编号
+      "Depth": 30, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Current - Saturation(Isat)", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "800mA", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g75", // 编号
+      "Depth": 31, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "DC Resistance(DCR)", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "826mΩ", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g76", // 编号
+      "Depth": 32, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Type", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g77", // 编号
+      "Depth": 33, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Ratings", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g78", // 编号
+      "Depth": 34, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "={Value}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g79", // 编号
+      "Depth": 35, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "电感值:10uH;精度:±20%;额定电流:650mA;饱和电流(Isat):800mA;类型:-;", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "SymbolShape": [
+    {
+      "ID": "g22", // 编号
+      "Depth": 7, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g21" // 几何形状
+    },
+    {
+      "ID": "g32", // 编号
+      "Depth": 8, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g31" // 几何形状
+    },
+    {
+      "ID": "g42", // 编号
+      "Depth": 9, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g41" // 几何形状
+    },
+    {
+      "ID": "g52", // 编号
+      "Depth": 10, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g51" // 几何形状
+    }
+  ],
+  "Pin": [ // 引脚
+    {
+      "ID": "g7", // 编号
+      "Depth": 1, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 5.08, "Y": 0}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 0.762, // 引脚长度
+      "PinName": "g3",
+      "PinNumber": "g6",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g12", // 编号
+      "Depth": 4, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -5.08, "Y": 0}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 0.762, // 引脚长度
+      "PinName": "g9",
+      "PinNumber": "g11",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    }
+  ]
+}

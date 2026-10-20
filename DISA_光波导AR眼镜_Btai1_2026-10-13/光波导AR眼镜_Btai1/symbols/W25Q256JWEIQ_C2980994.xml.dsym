@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <Ellipse2D> <!-- 二维椭圆 -->
+    <ID>g48</ID> <!-- 编号 -->
+    <AxisX> <!-- X轴方向 -->
+      <X>1</X>
+      <Y>0</Y>
+    </AxisX>
+    <CenterPoint> <!-- 圆心 -->
+      <X>-22.86</X>
+      <Y>6.35</Y>
+    </CenterPoint>
+    <RadiusX>0.381</RadiusX> <!-- X轴半径 -->
+    <RadiusY>0.381</RadiusY> <!-- Y轴半径 -->
+  </Ellipse2D>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g50</ID> <!-- 编号 -->
+    <Height>12.7</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-24.13</X>
+      <Y>7.62</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>48.26</Width> <!-- 宽 -->
+  </Rectangle>
+  <FontDefinition>
+    <ID>g1</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>Arial</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g4</ID> <!-- 编号 -->
+    <Align>BottomRight</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>Arial</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g52</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Width>0</Width> <!-- 宽 -->
+    <Weight>0.00983234</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g2</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0.762</X>
+      <Y>-5.05840492</Y>
+    </OriginPoint>
+    <Rotation>1.5707963267948966</Rotation> <!-- 旋转弧度 -->
+    <Text>EP</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g5</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-0.254</X>
+      <Y>-5.56640492</Y>
+    </OriginPoint>
+    <Rotation>1.5707963267948966</Rotation> <!-- 旋转弧度 -->
+    <Text>9</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g8</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>23.1902</X>
+      <Y>3.57759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>VCC</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g10</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>24.257</X>
+      <Y>4.8475950800000005</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>8</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g13</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>23.1902</X>
+      <Y>1.03759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>HOLDor#/RESET#(IO3)</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g15</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>24.257</X>
+      <Y>2.30759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>7</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g18</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>23.1902</X>
+      <Y>-1.50240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>CLK</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g20</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>24.257</X>
+      <Y>-0.23240492000000001</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>6</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g23</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>23.1902</X>
+      <Y>-4.04240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>DI(IO0)</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g25</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>24.257</X>
+      <Y>-2.77240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>5</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g28</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-23.1902</X>
+      <Y>-4.04240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>GND</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g30</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-24.257</X>
+      <Y>-2.77240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>4</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g33</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-23.1902</X>
+      <Y>-1.50240492</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>WP#(IO2)</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g35</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-24.257</X>
+      <Y>-0.23240492000000001</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>3</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g38</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-23.1902</X>
+      <Y>1.03759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>DO(IO1)</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g40</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-24.257</X>
+      <Y>2.30759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>2</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g43</ID> <!-- 编号 -->
+    <FontDefinition>g1</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-23.1902</X>
+      <Y>3.57759508</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>CS#</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g45</ID> <!-- 编号 -->
+    <FontDefinition>g4</FontDefinition>
+    <FontSize>2.032</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>-24.257</X>
+      <Y>4.8475950800000005</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text>1</Text> <!-- 文本 -->
+  </Text2D>
+  <Text2D>
+    <ID>g53</ID> <!-- 编号 -->
+    <FontDefinition>g52</FontDefinition>
+    <FontSize>0.43548</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Symbol>
+    <ID>g78</ID> <!-- 编号 -->
+    <IsHomogeneous>false</IsHomogeneous>
+    <Name>W25Q256JWEIQ_C2980994</Name> <!-- 名称 -->
+    <Purpose>Component</Purpose> <!-- 用途 -->
+    <SubPart> <!-- 子件 -->
+      <Name>W25Q256JWEIQ_C2980994.1</Name> <!-- 名称 -->
+      <Shapes>g7</Shapes>
+      <Shapes>g12</Shapes>
+      <Shapes>g17</Shapes>
+      <Shapes>g22</Shapes>
+      <Shapes>g27</Shapes>
+      <Shapes>g32</Shapes>
+      <Shapes>g37</Shapes>
+      <Shapes>g42</Shapes>
+      <Shapes>g47</Shapes>
+      <Shapes>g49</Shapes>
+      <Shapes>g51</Shapes>
+      <Shapes>g54</Shapes>
+      <Shapes>g55</Shapes>
+      <Shapes>g56</Shapes>
+      <Shapes>g57</Shapes>
+      <Shapes>g58</Shapes>
+      <Shapes>g59</Shapes>
+      <Shapes>g60</Shapes>
+      <Shapes>g61</Shapes>
+      <Shapes>g62</Shapes>
+      <Shapes>g63</Shapes>
+      <Shapes>g64</Shapes>
+      <Shapes>g65</Shapes>
+      <Shapes>g66</Shapes>
+      <Shapes>g67</Shapes>
+      <Shapes>g68</Shapes>
+      <Shapes>g69</Shapes>
+      <Shapes>g70</Shapes>
+      <Shapes>g71</Shapes>
+      <Shapes>g72</Shapes>
+      <Shapes>g73</Shapes>
+      <Shapes>g74</Shapes>
+      <Shapes>g75</Shapes>
+      <Shapes>g76</Shapes>
+      <Shapes>g77</Shapes>
+    </SubPart>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Symbol>
+  <SymbolAttribute>
+    <ID>g3</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g2</Text> <!-- 文本 -->
+    <Value>EP</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g6</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g5</Text> <!-- 文本 -->
+    <Value>9</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g9</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g8</Text> <!-- 文本 -->
+    <Value>VCC</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g11</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g10</Text> <!-- 文本 -->
+    <Value>8</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g14</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g13</Text> <!-- 文本 -->
+    <Value>HOLDor#/RESET#(IO3)</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g16</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g15</Text> <!-- 文本 -->
+    <Value>7</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g19</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g18</Text> <!-- 文本 -->
+    <Value>CLK</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g21</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g20</Text> <!-- 文本 -->
+    <Value>6</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g24</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g23</Text> <!-- 文本 -->
+    <Value>DI(IO0)</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g26</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g25</Text> <!-- 文本 -->
+    <Value>5</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g29</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g28</Text> <!-- 文本 -->
+    <Value>GND</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g31</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g30</Text> <!-- 文本 -->
+    <Value>4</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g34</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g33</Text> <!-- 文本 -->
+    <Value>WP#(IO2)</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g36</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g35</Text> <!-- 文本 -->
+    <Value>3</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g39</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g38</Text> <!-- 文本 -->
+    <Value>DO(IO1)</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g41</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g40</Text> <!-- 文本 -->
+    <Value>2</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g44</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g43</Text> <!-- 文本 -->
+    <Value>CS#</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g46</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <FillColor>000000FF</FillColor> <!-- 填充颜色 -->
+    <Key>Pin Number</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g45</Text> <!-- 文本 -->
+    <Value>1</Value> <!-- 值 -->
+    <ValueVisible>true</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g54</ID> <!-- 编号 -->
+    <Depth>30</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>LCSC Part Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>支持双路/四路SPI接口的1.8V、256Mbit 串行闪存</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g55</ID> <!-- 编号 -->
+    <Depth>31</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>SupplierPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>C2980994</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g56</ID> <!-- 编号 -->
+    <Depth>32</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Manufacturer</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>Winbond(华邦)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>33</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ManufacturerPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>W25Q256JWEIQ</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g58</ID> <!-- 编号 -->
+    <Depth>34</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Supplier Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>WSON-8-EP(6x8)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g59</ID> <!-- 编号 -->
+    <Depth>35</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>JLCPCB Part Class</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>Extended Part</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g60</ID> <!-- 编号 -->
+    <Depth>36</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Datasheet</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>https://item.szlcsc.com/datasheet/W25Q256JWEIQ/3405675.html</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g61</ID> <!-- 编号 -->
+    <Depth>37</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Supplier</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>LCSC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g62</ID> <!-- 编号 -->
+    <Depth>38</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>AddInBom</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g63</ID> <!-- 编号 -->
+    <Depth>39</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ConvertToPcb</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g64</ID> <!-- 编号 -->
+    <Depth>40</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>W25Q256JWEIQ_C2980994</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g65</ID> <!-- 编号 -->
+    <Depth>41</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g66</ID> <!-- 编号 -->
+    <Depth>42</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>FootprintName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>WSON-8_L8.0-W6.0-P1.27-TL-EP-1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g67</ID> <!-- 编号 -->
+    <Depth>43</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelId</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>9b0b95cb42c44ddaa75bcc393c15d437|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g68</ID> <!-- 编号 -->
+    <Depth>44</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>WSON-8_L8.0-W6.0-P1.27-TL-EP-1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g69</ID> <!-- 编号 -->
+    <Depth>45</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>ModelTransform</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>314.96,236.22,0,0,0,0,0,0,0</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g70</ID> <!-- 编号 -->
+    <Depth>46</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Interface</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>SPI</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g71</ID> <!-- 编号 -->
+    <Depth>47</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Memory Size</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>256Mbit</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g72</ID> <!-- 编号 -->
+    <Depth>48</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Clock Frequency</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>133MHz</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g73</ID> <!-- 编号 -->
+    <Depth>49</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Voltage - Supply</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>1.7V~1.95V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g74</ID> <!-- 编号 -->
+    <Depth>50</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Program / Erase Cycles</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>100000次</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g75</ID> <!-- 编号 -->
+    <Depth>51</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Data Retention - TDR (Year)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>20年</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g76</ID> <!-- 编号 -->
+    <Depth>52</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>={ManufacturerPart}</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolAttribute>
+    <ID>g77</ID> <!-- 编号 -->
+    <Depth>53</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g53</Text> <!-- 文本 -->
+    <Value>接口类型:SPI;存储容量:256Mbit;时钟频率(fc):133MHz;</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </SymbolAttribute>
+  <SymbolShape>
+    <ID>g49</ID> <!-- 编号 -->
+    <Depth>28</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g48</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <SymbolShape>
+    <ID>g51</ID> <!-- 编号 -->
+    <Depth>29</Depth> <!-- 深度 -->
+    <FillColor>00000000</FillColor> <!-- 填充颜色 -->
+    <FillLineWidth>1</FillLineWidth> <!-- 填充线线宽 -->
+    <FillStyle>Solid</FillStyle> <!-- 填充样式 -->
+    <FillVisible>false</FillVisible> <!-- 是否填充 -->
+    <LineColor>000000FF</LineColor> <!-- 线颜色 -->
+    <LineStyle>Solid</LineStyle> <!-- 线样式 -->
+    <LineVisible>false</LineVisible> <!-- 线显示 -->
+    <LineWidth>0.254</LineWidth> <!-- 线宽 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <Shape>g50</Shape> <!-- 几何形状 -->
+  </SymbolShape>
+  <Pin> <!-- 引脚 -->
+    <ID>g7</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>0</X>
+      <Y>-7.62</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g3</PinName>
+    <PinNumber>g6</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>1.5707963267948966</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g12</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>26.67</X>
+      <Y>5.08</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g9</PinName>
+    <PinNumber>g11</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g17</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>26.67</X>
+      <Y>2.54</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g14</PinName>
+    <PinNumber>g16</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g22</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>26.67</X>
+      <Y>0</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g19</PinName>
+    <PinNumber>g21</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g27</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>26.67</X>
+      <Y>-2.54</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g24</PinName>
+    <PinNumber>g26</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>3.141592653589793</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g32</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>-26.67</X>
+      <Y>-2.54</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g29</PinName>
+    <PinNumber>g31</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g37</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>-26.67</X>
+      <Y>0</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g34</PinName>
+    <PinNumber>g36</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g42</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>-26.67</X>
+      <Y>2.54</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g39</PinName>
+    <PinNumber>g41</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+  <Pin> <!-- 引脚 -->
+    <ID>g47</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <ElectricalType>Undefined</ElectricalType> <!-- 电气类型 -->
+    <Location> <!-- 位置 -->
+      <X>-26.67</X>
+      <Y>5.08</Y>
+    </Location>
+    <PinColor>000000FF</PinColor> <!-- 引脚颜色 -->
+    <PinLength>2.54</PinLength> <!-- 引脚长度 -->
+    <PinName>g44</PinName>
+    <PinNumber>g46</PinNumber>
+    <PinVisible>true</PinVisible> <!-- 引脚可见 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pin>
+</root>

@@ -1,0 +1,4953 @@
+{
+  "Ellipse2D": [ // 二维椭圆
+    {
+      "ID": "g3", // 编号
+      "AxisX": {"X": 1, "Y": 0}, // X轴方向
+      "CenterPoint": {"X": -33.02, "Y": 54.61}, // 圆心
+      "RadiusX": 0.381, // X轴半径
+      "RadiusY": 0.381 // Y轴半径
+    }
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g1", // 编号
+      "Height": 114.30000000000001, // 高
+      "Position": {"X": -34.29, "Y": 55.88}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 68.58 // 宽
+    }
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g5", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g8", // 编号
+      "Align": "BottomRight", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "Arial", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g452", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Width": 0, // 宽
+      "Weight": 0.00983234 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g6", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 51.83759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "DXIN" // 文本
+    },
+    {
+      "ID": "g9", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 53.107595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "1" // 文本
+    },
+    {
+      "ID": "g12", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 49.297595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "DXOUT" // 文本
+    },
+    {
+      "ID": "g14", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 50.56759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "2" // 文本
+    },
+    {
+      "ID": "g17", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 46.757595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PL7" // 文本
+    },
+    {
+      "ID": "g19", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 48.02759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "3" // 文本
+    },
+    {
+      "ID": "g22", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 44.217595079999995}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "TEST/PL6" // 文本
+    },
+    {
+      "ID": "g24", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 45.48759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "4" // 文本
+    },
+    {
+      "ID": "g27", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 41.677595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "X32KOUT/PL5" // 文本
+    },
+    {
+      "ID": "g29", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 42.94759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "5" // 文本
+    },
+    {
+      "ID": "g32", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 39.13759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "X32KIN/PL4" // 文本
+    },
+    {
+      "ID": "g34", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 40.40759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "6" // 文本
+    },
+    {
+      "ID": "g37", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 36.59759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PL3" // 文本
+    },
+    {
+      "ID": "g39", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 37.867595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "7" // 文本
+    },
+    {
+      "ID": "g42", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 34.05759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PMC-EN2/PL2" // 文本
+    },
+    {
+      "ID": "g44", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 35.327595079999995}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "8" // 文本
+    },
+    {
+      "ID": "g47", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 31.51759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PMC-EN1/PL1" // 文本
+    },
+    {
+      "ID": "g49", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 32.787595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "9" // 文本
+    },
+    {
+      "ID": "g52", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 28.97759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PMC-EN0/PL0" // 文本
+    },
+    {
+      "ID": "g54", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 30.24759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "10" // 文本
+    },
+    {
+      "ID": "g57", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 26.43759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC18-RTC" // 文本
+    },
+    {
+      "ID": "g59", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 27.70759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "11" // 文本
+    },
+    {
+      "ID": "g62", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 23.897595080000002}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC18-LDO" // 文本
+    },
+    {
+      "ID": "g64", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 25.16759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "12" // 文本
+    },
+    {
+      "ID": "g67", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 21.35759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VBAT-RTC" // 文本
+    },
+    {
+      "ID": "g69", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 22.62759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "13" // 文本
+    },
+    {
+      "ID": "g72", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 18.81759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC33-PMU&VCC33-PC" // 文本
+    },
+    {
+      "ID": "g74", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 20.08759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "14" // 文本
+    },
+    {
+      "ID": "g77", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 16.27759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD-SYS0" // 文本
+    },
+    {
+      "ID": "g79", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 17.54759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "15" // 文本
+    },
+    {
+      "ID": "g82", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 13.73759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC0" // 文本
+    },
+    {
+      "ID": "g84", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 15.00759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "16" // 文本
+    },
+    {
+      "ID": "g87", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 11.197595080000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC1" // 文本
+    },
+    {
+      "ID": "g89", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 12.46759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "17" // 文本
+    },
+    {
+      "ID": "g92", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 8.65759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC2" // 文本
+    },
+    {
+      "ID": "g94", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 9.92759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "18" // 文本
+    },
+    {
+      "ID": "g97", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 6.11759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC3" // 文本
+    },
+    {
+      "ID": "g99", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 7.3875950800000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "19" // 文本
+    },
+    {
+      "ID": "g102", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 3.57759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC4" // 文本
+    },
+    {
+      "ID": "g104", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 4.8475950800000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "20" // 文本
+    },
+    {
+      "ID": "g107", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": 1.03759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC5" // 文本
+    },
+    {
+      "ID": "g109", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": 2.30759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "21" // 文本
+    },
+    {
+      "ID": "g112", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -1.50240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC6" // 文本
+    },
+    {
+      "ID": "g114", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -0.23240492000000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "22" // 文本
+    },
+    {
+      "ID": "g117", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -4.04240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC7" // 文本
+    },
+    {
+      "ID": "g119", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -2.77240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "23" // 文本
+    },
+    {
+      "ID": "g122", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -6.58240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC8" // 文本
+    },
+    {
+      "ID": "g124", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -5.31240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "24" // 文本
+    },
+    {
+      "ID": "g127", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -9.12240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC9" // 文本
+    },
+    {
+      "ID": "g129", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -7.85240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "25" // 文本
+    },
+    {
+      "ID": "g132", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -11.66240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC10" // 文本
+    },
+    {
+      "ID": "g134", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -10.39240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "26" // 文本
+    },
+    {
+      "ID": "g137", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -14.20240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC11" // 文本
+    },
+    {
+      "ID": "g139", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -12.93240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "27" // 文本
+    },
+    {
+      "ID": "g142", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -16.74240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PC15" // 文本
+    },
+    {
+      "ID": "g144", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -15.47240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "28" // 文本
+    },
+    {
+      "ID": "g147", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -19.28240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "FEL/PC16" // 文本
+    },
+    {
+      "ID": "g149", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -18.01240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "29" // 文本
+    },
+    {
+      "ID": "g152", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -21.82240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD-SYS1" // 文本
+    },
+    {
+      "ID": "g154", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -20.55240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "30" // 文本
+    },
+    {
+      "ID": "g157", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -24.36240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC-DRAM0" // 文本
+    },
+    {
+      "ID": "g159", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -23.09240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "31" // 文本
+    },
+    {
+      "ID": "g162", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -26.90240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC-DRAM1" // 文本
+    },
+    {
+      "ID": "g164", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -25.63240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "32" // 文本
+    },
+    {
+      "ID": "g167", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -29.44240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD-SYS2" // 文本
+    },
+    {
+      "ID": "g169", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -28.17240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "33" // 文本
+    },
+    {
+      "ID": "g172", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -31.98240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC18-MCSI&VCC-PA" // 文本
+    },
+    {
+      "ID": "g174", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -30.71240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "34" // 文本
+    },
+    {
+      "ID": "g177", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -34.52240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "GPADC0-2/PA0" // 文本
+    },
+    {
+      "ID": "g179", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -33.252404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "35" // 文本
+    },
+    {
+      "ID": "g182", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -37.062404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA1" // 文本
+    },
+    {
+      "ID": "g184", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -35.79240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "36" // 文本
+    },
+    {
+      "ID": "g187", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -39.602404920000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA2" // 文本
+    },
+    {
+      "ID": "g189", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -38.33240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "37" // 文本
+    },
+    {
+      "ID": "g192", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -42.142404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "GPADC0-3/PA3" // 文本
+    },
+    {
+      "ID": "g194", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -40.87240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "38" // 文本
+    },
+    {
+      "ID": "g197", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -44.68240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA4" // 文本
+    },
+    {
+      "ID": "g199", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -43.41240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "39" // 文本
+    },
+    {
+      "ID": "g202", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -47.22240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA5" // 文本
+    },
+    {
+      "ID": "g204", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -45.952404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "40" // 文本
+    },
+    {
+      "ID": "g207", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -49.76240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA6" // 文本
+    },
+    {
+      "ID": "g209", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -48.492404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "41" // 文本
+    },
+    {
+      "ID": "g212", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -52.30240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA7" // 文本
+    },
+    {
+      "ID": "g214", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -51.032404920000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "42" // 文本
+    },
+    {
+      "ID": "g217", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -54.84240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA8" // 文本
+    },
+    {
+      "ID": "g219", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -53.572404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "43" // 文本
+    },
+    {
+      "ID": "g222", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -33.3502, "Y": -57.382404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA9" // 文本
+    },
+    {
+      "ID": "g224", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -34.417, "Y": -56.11240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "44" // 文本
+    },
+    {
+      "ID": "g227", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -57.382404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA10" // 文本
+    },
+    {
+      "ID": "g229", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -56.11240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "45" // 文本
+    },
+    {
+      "ID": "g232", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -54.84240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA11" // 文本
+    },
+    {
+      "ID": "g234", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -53.572404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "46" // 文本
+    },
+    {
+      "ID": "g237", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -52.30240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PA12" // 文本
+    },
+    {
+      "ID": "g239", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -51.032404920000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "47" // 文本
+    },
+    {
+      "ID": "g242", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -49.76240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "GPADC0-0" // 文本
+    },
+    {
+      "ID": "g244", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -48.492404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "48" // 文本
+    },
+    {
+      "ID": "g247", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -47.22240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "MICINP" // 文本
+    },
+    {
+      "ID": "g249", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -45.952404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "49" // 文本
+    },
+    {
+      "ID": "g252", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -44.68240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "MICINN" // 文本
+    },
+    {
+      "ID": "g254", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -43.41240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "50" // 文本
+    },
+    {
+      "ID": "g257", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -42.142404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "AGND" // 文本
+    },
+    {
+      "ID": "g259", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -40.87240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "51" // 文本
+    },
+    {
+      "ID": "g262", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -39.602404920000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VRA1" // 文本
+    },
+    {
+      "ID": "g264", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -38.33240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "52" // 文本
+    },
+    {
+      "ID": "g267", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -37.062404920000006}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "LINEOUTP" // 文本
+    },
+    {
+      "ID": "g269", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -35.79240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "53" // 文本
+    },
+    {
+      "ID": "g272", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -34.52240492000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "LINEOUTN" // 文本
+    },
+    {
+      "ID": "g274", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -33.252404920000004}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "54" // 文本
+    },
+    {
+      "ID": "g277", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -31.98240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "AVCC" // 文本
+    },
+    {
+      "ID": "g279", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -30.71240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "55" // 文本
+    },
+    {
+      "ID": "g282", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -29.44240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC28-LDO" // 文本
+    },
+    {
+      "ID": "g284", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -28.17240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "56" // 文本
+    },
+    {
+      "ID": "g287", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -26.90240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC33-USB&VCC33-AUD" // 文本
+    },
+    {
+      "ID": "g289", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -25.63240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "57" // 文本
+    },
+    {
+      "ID": "g292", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -24.36240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "USB0-DM" // 文本
+    },
+    {
+      "ID": "g294", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -23.09240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "58" // 文本
+    },
+    {
+      "ID": "g297", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -21.82240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "USB0-DP" // 文本
+    },
+    {
+      "ID": "g299", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -20.55240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "59" // 文本
+    },
+    {
+      "ID": "g302", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -19.28240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD-SYS3" // 文本
+    },
+    {
+      "ID": "g304", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -18.01240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "60" // 文本
+    },
+    {
+      "ID": "g307", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -16.74240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD1" // 文本
+    },
+    {
+      "ID": "g309", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -15.47240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "61" // 文本
+    },
+    {
+      "ID": "g312", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -14.20240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD2" // 文本
+    },
+    {
+      "ID": "g314", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -12.93240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "62" // 文本
+    },
+    {
+      "ID": "g317", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -11.66240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD3" // 文本
+    },
+    {
+      "ID": "g319", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -10.39240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "63" // 文本
+    },
+    {
+      "ID": "g322", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -9.12240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD4" // 文本
+    },
+    {
+      "ID": "g324", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -7.85240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "64" // 文本
+    },
+    {
+      "ID": "g327", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -6.58240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD5" // 文本
+    },
+    {
+      "ID": "g329", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -5.31240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "65" // 文本
+    },
+    {
+      "ID": "g332", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -4.04240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD6" // 文本
+    },
+    {
+      "ID": "g334", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -2.77240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "66" // 文本
+    },
+    {
+      "ID": "g337", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": -1.50240492}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD7" // 文本
+    },
+    {
+      "ID": "g339", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": -0.23240492000000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "67" // 文本
+    },
+    {
+      "ID": "g342", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 1.03759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD8" // 文本
+    },
+    {
+      "ID": "g344", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 2.30759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "68" // 文本
+    },
+    {
+      "ID": "g347", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 3.57759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD9" // 文本
+    },
+    {
+      "ID": "g349", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 4.8475950800000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "69" // 文本
+    },
+    {
+      "ID": "g352", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 6.11759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD10" // 文本
+    },
+    {
+      "ID": "g354", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 7.3875950800000005}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "70" // 文本
+    },
+    {
+      "ID": "g357", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 8.65759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC33-PD" // 文本
+    },
+    {
+      "ID": "g359", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 9.92759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "71" // 文本
+    },
+    {
+      "ID": "g362", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 11.197595080000001}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD11" // 文本
+    },
+    {
+      "ID": "g364", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 12.46759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "72" // 文本
+    },
+    {
+      "ID": "g367", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 13.73759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD12" // 文本
+    },
+    {
+      "ID": "g369", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 15.00759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "73" // 文本
+    },
+    {
+      "ID": "g372", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 16.27759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD13" // 文本
+    },
+    {
+      "ID": "g374", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 17.54759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "74" // 文本
+    },
+    {
+      "ID": "g377", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 18.81759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD14" // 文本
+    },
+    {
+      "ID": "g379", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 20.08759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "75" // 文本
+    },
+    {
+      "ID": "g382", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 21.35759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD15" // 文本
+    },
+    {
+      "ID": "g384", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 22.62759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "76" // 文本
+    },
+    {
+      "ID": "g387", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 23.897595080000002}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD16" // 文本
+    },
+    {
+      "ID": "g389", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 25.16759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "77" // 文本
+    },
+    {
+      "ID": "g392", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 26.43759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD17" // 文本
+    },
+    {
+      "ID": "g394", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 27.70759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "78" // 文本
+    },
+    {
+      "ID": "g397", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 28.97759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD18" // 文本
+    },
+    {
+      "ID": "g399", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 30.24759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "79" // 文本
+    },
+    {
+      "ID": "g402", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 31.51759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD19" // 文本
+    },
+    {
+      "ID": "g404", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 32.787595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "80" // 文本
+    },
+    {
+      "ID": "g407", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 34.05759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VDD-SYS4" // 文本
+    },
+    {
+      "ID": "g409", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 35.327595079999995}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "81" // 文本
+    },
+    {
+      "ID": "g412", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 36.59759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD22" // 文本
+    },
+    {
+      "ID": "g414", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 37.867595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "82" // 文本
+    },
+    {
+      "ID": "g417", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 39.13759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "PD23" // 文本
+    },
+    {
+      "ID": "g419", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 40.40759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "83" // 文本
+    },
+    {
+      "ID": "g422", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 41.677595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC15-TX" // 文本
+    },
+    {
+      "ID": "g424", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 42.94759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "84" // 文本
+    },
+    {
+      "ID": "g427", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 44.217595079999995}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC33-RF" // 文本
+    },
+    {
+      "ID": "g429", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 45.48759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "85" // 文本
+    },
+    {
+      "ID": "g432", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 46.757595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "ANT" // 文本
+    },
+    {
+      "ID": "g434", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 48.02759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "86" // 文本
+    },
+    {
+      "ID": "g437", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 49.297595079999994}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC15-ANA" // 文本
+    },
+    {
+      "ID": "g439", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 50.56759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "87" // 文本
+    },
+    {
+      "ID": "g442", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 33.3502, "Y": 51.83759508}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "VCC-DCXO" // 文本
+    },
+    {
+      "ID": "g444", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 34.417, "Y": 53.107595079999996}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "88" // 文本
+    },
+    {
+      "ID": "g447", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0.762, "Y": 54.885595079999995}, // 原点
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Text": "EP" // 文本
+    },
+    {
+      "ID": "g449", // 编号
+      "FontDefinition": "g5",
+      "FontSize": 2.032, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": -0.254, "Y": 55.39359508}, // 原点
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Text": "89" // 文本
+    },
+    {
+      "ID": "g453", // 编号
+      "FontDefinition": "g452",
+      "FontSize": 0.43548, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Symbol": [
+    {
+      "ID": "g472", // 编号
+      "IsHomogeneous": false,
+      "Name": "V821L2-WXX", // 名称
+      "Purpose": "Component", // 用途 - 元件
+      "SubPart": [ // 子件
+        {
+          "Name": "V821L2-WXX.1", // 名称
+          "Shapes": [
+            "g2",
+            "g4",
+            "g11",
+            "g16",
+            "g21",
+            "g26",
+            "g31",
+            "g36",
+            "g41",
+            "g46",
+            "g51",
+            "g56",
+            "g61",
+            "g66",
+            "g71",
+            "g76",
+            "g81",
+            "g86",
+            "g91",
+            "g96",
+            "g101",
+            "g106",
+            "g111",
+            "g116",
+            "g121",
+            "g126",
+            "g131",
+            "g136",
+            "g141",
+            "g146",
+            "g151",
+            "g156",
+            "g161",
+            "g166",
+            "g171",
+            "g176",
+            "g181",
+            "g186",
+            "g191",
+            "g196",
+            "g201",
+            "g206",
+            "g211",
+            "g216",
+            "g221",
+            "g226",
+            "g231",
+            "g236",
+            "g241",
+            "g246",
+            "g251",
+            "g256",
+            "g261",
+            "g266",
+            "g271",
+            "g276",
+            "g281",
+            "g286",
+            "g291",
+            "g296",
+            "g301",
+            "g306",
+            "g311",
+            "g316",
+            "g321",
+            "g326",
+            "g331",
+            "g336",
+            "g341",
+            "g346",
+            "g351",
+            "g356",
+            "g361",
+            "g366",
+            "g371",
+            "g376",
+            "g381",
+            "g386",
+            "g391",
+            "g396",
+            "g401",
+            "g406",
+            "g411",
+            "g416",
+            "g421",
+            "g426",
+            "g431",
+            "g436",
+            "g441",
+            "g446",
+            "g451",
+            "g454",
+            "g455",
+            "g456",
+            "g457",
+            "g458",
+            "g459",
+            "g460",
+            "g461",
+            "g462",
+            "g463",
+            "g464",
+            "g465",
+            "g466",
+            "g467",
+            "g468",
+            "g469",
+            "g470",
+            "g471"
+          ]
+        }
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "SymbolAttribute": [
+    {
+      "ID": "g7", // 编号
+      "Depth": 4, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g6", // 文本
+      "Value": "DXIN", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g10", // 编号
+      "Depth": 5, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g13", // 编号
+      "Depth": 7, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "DXOUT", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g15", // 编号
+      "Depth": 8, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g14", // 文本
+      "Value": "2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g18", // 编号
+      "Depth": 10, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g17", // 文本
+      "Value": "PL7", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g20", // 编号
+      "Depth": 11, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g19", // 文本
+      "Value": "3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g23", // 编号
+      "Depth": 13, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g22", // 文本
+      "Value": "TEST/PL6", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g25", // 编号
+      "Depth": 14, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g24", // 文本
+      "Value": "4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g28", // 编号
+      "Depth": 16, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g27", // 文本
+      "Value": "X32KOUT/PL5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g30", // 编号
+      "Depth": 17, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g29", // 文本
+      "Value": "5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g33", // 编号
+      "Depth": 19, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g32", // 文本
+      "Value": "X32KIN/PL4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g35", // 编号
+      "Depth": 20, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g34", // 文本
+      "Value": "6", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g38", // 编号
+      "Depth": 22, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g37", // 文本
+      "Value": "PL3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g40", // 编号
+      "Depth": 23, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g39", // 文本
+      "Value": "7", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g43", // 编号
+      "Depth": 25, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g42", // 文本
+      "Value": "PMC-EN2/PL2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g45", // 编号
+      "Depth": 26, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g44", // 文本
+      "Value": "8", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g48", // 编号
+      "Depth": 28, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g47", // 文本
+      "Value": "PMC-EN1/PL1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g50", // 编号
+      "Depth": 29, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g49", // 文本
+      "Value": "9", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g53", // 编号
+      "Depth": 31, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g52", // 文本
+      "Value": "PMC-EN0/PL0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g55", // 编号
+      "Depth": 32, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g54", // 文本
+      "Value": "10", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g58", // 编号
+      "Depth": 34, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g57", // 文本
+      "Value": "VCC18-RTC", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g60", // 编号
+      "Depth": 35, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g59", // 文本
+      "Value": "11", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g63", // 编号
+      "Depth": 37, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g62", // 文本
+      "Value": "VCC18-LDO", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g65", // 编号
+      "Depth": 38, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g64", // 文本
+      "Value": "12", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g68", // 编号
+      "Depth": 40, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g67", // 文本
+      "Value": "VBAT-RTC", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g70", // 编号
+      "Depth": 41, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g69", // 文本
+      "Value": "13", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g73", // 编号
+      "Depth": 43, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "VCC33-PMU&VCC33-PC", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g75", // 编号
+      "Depth": 44, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g74", // 文本
+      "Value": "14", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g78", // 编号
+      "Depth": 46, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g77", // 文本
+      "Value": "VDD-SYS0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g80", // 编号
+      "Depth": 47, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g79", // 文本
+      "Value": "15", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g83", // 编号
+      "Depth": 49, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g82", // 文本
+      "Value": "PC0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g85", // 编号
+      "Depth": 50, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g84", // 文本
+      "Value": "16", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g88", // 编号
+      "Depth": 52, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g87", // 文本
+      "Value": "PC1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g90", // 编号
+      "Depth": 53, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g89", // 文本
+      "Value": "17", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g93", // 编号
+      "Depth": 55, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g92", // 文本
+      "Value": "PC2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g95", // 编号
+      "Depth": 56, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g94", // 文本
+      "Value": "18", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g98", // 编号
+      "Depth": 58, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g97", // 文本
+      "Value": "PC3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g100", // 编号
+      "Depth": 59, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g99", // 文本
+      "Value": "19", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g103", // 编号
+      "Depth": 61, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g102", // 文本
+      "Value": "PC4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g105", // 编号
+      "Depth": 62, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g104", // 文本
+      "Value": "20", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g108", // 编号
+      "Depth": 64, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g107", // 文本
+      "Value": "PC5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g110", // 编号
+      "Depth": 65, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g109", // 文本
+      "Value": "21", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g113", // 编号
+      "Depth": 67, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g112", // 文本
+      "Value": "PC6", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g115", // 编号
+      "Depth": 68, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g114", // 文本
+      "Value": "22", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g118", // 编号
+      "Depth": 70, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g117", // 文本
+      "Value": "PC7", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g120", // 编号
+      "Depth": 71, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g119", // 文本
+      "Value": "23", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g123", // 编号
+      "Depth": 73, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g122", // 文本
+      "Value": "PC8", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g125", // 编号
+      "Depth": 74, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g124", // 文本
+      "Value": "24", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g128", // 编号
+      "Depth": 76, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g127", // 文本
+      "Value": "PC9", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g130", // 编号
+      "Depth": 77, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g129", // 文本
+      "Value": "25", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g133", // 编号
+      "Depth": 79, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g132", // 文本
+      "Value": "PC10", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g135", // 编号
+      "Depth": 80, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g134", // 文本
+      "Value": "26", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g138", // 编号
+      "Depth": 82, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g137", // 文本
+      "Value": "PC11", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g140", // 编号
+      "Depth": 83, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g139", // 文本
+      "Value": "27", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g143", // 编号
+      "Depth": 85, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g142", // 文本
+      "Value": "PC15", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g145", // 编号
+      "Depth": 86, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g144", // 文本
+      "Value": "28", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g148", // 编号
+      "Depth": 88, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g147", // 文本
+      "Value": "FEL/PC16", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g150", // 编号
+      "Depth": 89, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g149", // 文本
+      "Value": "29", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g153", // 编号
+      "Depth": 91, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g152", // 文本
+      "Value": "VDD-SYS1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g155", // 编号
+      "Depth": 92, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g154", // 文本
+      "Value": "30", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g158", // 编号
+      "Depth": 94, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g157", // 文本
+      "Value": "VCC-DRAM0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g160", // 编号
+      "Depth": 95, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g159", // 文本
+      "Value": "31", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g163", // 编号
+      "Depth": 97, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g162", // 文本
+      "Value": "VCC-DRAM1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g165", // 编号
+      "Depth": 98, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g164", // 文本
+      "Value": "32", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g168", // 编号
+      "Depth": 100, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g167", // 文本
+      "Value": "VDD-SYS2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g170", // 编号
+      "Depth": 101, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g169", // 文本
+      "Value": "33", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g173", // 编号
+      "Depth": 103, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g172", // 文本
+      "Value": "VCC18-MCSI&VCC-PA", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g175", // 编号
+      "Depth": 104, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g174", // 文本
+      "Value": "34", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g178", // 编号
+      "Depth": 106, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g177", // 文本
+      "Value": "GPADC0-2/PA0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g180", // 编号
+      "Depth": 107, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g179", // 文本
+      "Value": "35", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g183", // 编号
+      "Depth": 109, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g182", // 文本
+      "Value": "PA1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g185", // 编号
+      "Depth": 110, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g184", // 文本
+      "Value": "36", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g188", // 编号
+      "Depth": 112, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g187", // 文本
+      "Value": "PA2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g190", // 编号
+      "Depth": 113, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g189", // 文本
+      "Value": "37", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g193", // 编号
+      "Depth": 115, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g192", // 文本
+      "Value": "GPADC0-3/PA3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g195", // 编号
+      "Depth": 116, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g194", // 文本
+      "Value": "38", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g198", // 编号
+      "Depth": 118, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g197", // 文本
+      "Value": "PA4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g200", // 编号
+      "Depth": 119, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g199", // 文本
+      "Value": "39", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g203", // 编号
+      "Depth": 121, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g202", // 文本
+      "Value": "PA5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g205", // 编号
+      "Depth": 122, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g204", // 文本
+      "Value": "40", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g208", // 编号
+      "Depth": 124, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g207", // 文本
+      "Value": "PA6", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g210", // 编号
+      "Depth": 125, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g209", // 文本
+      "Value": "41", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g213", // 编号
+      "Depth": 127, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g212", // 文本
+      "Value": "PA7", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g215", // 编号
+      "Depth": 128, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g214", // 文本
+      "Value": "42", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g218", // 编号
+      "Depth": 130, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g217", // 文本
+      "Value": "PA8", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g220", // 编号
+      "Depth": 131, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g219", // 文本
+      "Value": "43", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g223", // 编号
+      "Depth": 133, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g222", // 文本
+      "Value": "PA9", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g225", // 编号
+      "Depth": 134, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g224", // 文本
+      "Value": "44", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g228", // 编号
+      "Depth": 136, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g227", // 文本
+      "Value": "PA10", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g230", // 编号
+      "Depth": 137, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g229", // 文本
+      "Value": "45", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g233", // 编号
+      "Depth": 139, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g232", // 文本
+      "Value": "PA11", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g235", // 编号
+      "Depth": 140, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g234", // 文本
+      "Value": "46", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g238", // 编号
+      "Depth": 142, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g237", // 文本
+      "Value": "PA12", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g240", // 编号
+      "Depth": 143, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g239", // 文本
+      "Value": "47", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g243", // 编号
+      "Depth": 145, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g242", // 文本
+      "Value": "GPADC0-0", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g245", // 编号
+      "Depth": 146, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g244", // 文本
+      "Value": "48", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g248", // 编号
+      "Depth": 148, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g247", // 文本
+      "Value": "MICINP", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g250", // 编号
+      "Depth": 149, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g249", // 文本
+      "Value": "49", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g253", // 编号
+      "Depth": 151, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g252", // 文本
+      "Value": "MICINN", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g255", // 编号
+      "Depth": 152, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g254", // 文本
+      "Value": "50", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g258", // 编号
+      "Depth": 154, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g257", // 文本
+      "Value": "AGND", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g260", // 编号
+      "Depth": 155, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g259", // 文本
+      "Value": "51", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g263", // 编号
+      "Depth": 157, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g262", // 文本
+      "Value": "VRA1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g265", // 编号
+      "Depth": 158, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g264", // 文本
+      "Value": "52", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g268", // 编号
+      "Depth": 160, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g267", // 文本
+      "Value": "LINEOUTP", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g270", // 编号
+      "Depth": 161, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g269", // 文本
+      "Value": "53", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g273", // 编号
+      "Depth": 163, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g272", // 文本
+      "Value": "LINEOUTN", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g275", // 编号
+      "Depth": 164, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g274", // 文本
+      "Value": "54", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g278", // 编号
+      "Depth": 166, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g277", // 文本
+      "Value": "AVCC", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g280", // 编号
+      "Depth": 167, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g279", // 文本
+      "Value": "55", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g283", // 编号
+      "Depth": 169, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g282", // 文本
+      "Value": "VCC28-LDO", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g285", // 编号
+      "Depth": 170, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g284", // 文本
+      "Value": "56", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g288", // 编号
+      "Depth": 172, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g287", // 文本
+      "Value": "VCC33-USB&VCC33-AUD", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g290", // 编号
+      "Depth": 173, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g289", // 文本
+      "Value": "57", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g293", // 编号
+      "Depth": 175, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g292", // 文本
+      "Value": "USB0-DM", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g295", // 编号
+      "Depth": 176, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g294", // 文本
+      "Value": "58", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g298", // 编号
+      "Depth": 178, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g297", // 文本
+      "Value": "USB0-DP", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g300", // 编号
+      "Depth": 179, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g299", // 文本
+      "Value": "59", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g303", // 编号
+      "Depth": 181, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g302", // 文本
+      "Value": "VDD-SYS3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g305", // 编号
+      "Depth": 182, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g304", // 文本
+      "Value": "60", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g308", // 编号
+      "Depth": 184, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g307", // 文本
+      "Value": "PD1", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g310", // 编号
+      "Depth": 185, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g309", // 文本
+      "Value": "61", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g313", // 编号
+      "Depth": 187, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g312", // 文本
+      "Value": "PD2", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g315", // 编号
+      "Depth": 188, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g314", // 文本
+      "Value": "62", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g318", // 编号
+      "Depth": 190, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g317", // 文本
+      "Value": "PD3", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g320", // 编号
+      "Depth": 191, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g319", // 文本
+      "Value": "63", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g323", // 编号
+      "Depth": 193, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g322", // 文本
+      "Value": "PD4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g325", // 编号
+      "Depth": 194, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g324", // 文本
+      "Value": "64", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g328", // 编号
+      "Depth": 196, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g327", // 文本
+      "Value": "PD5", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g330", // 编号
+      "Depth": 197, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g329", // 文本
+      "Value": "65", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g333", // 编号
+      "Depth": 199, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g332", // 文本
+      "Value": "PD6", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g335", // 编号
+      "Depth": 200, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g334", // 文本
+      "Value": "66", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g338", // 编号
+      "Depth": 202, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g337", // 文本
+      "Value": "PD7", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g340", // 编号
+      "Depth": 203, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g339", // 文本
+      "Value": "67", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g343", // 编号
+      "Depth": 205, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g342", // 文本
+      "Value": "PD8", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g345", // 编号
+      "Depth": 206, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g344", // 文本
+      "Value": "68", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g348", // 编号
+      "Depth": 208, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g347", // 文本
+      "Value": "PD9", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g350", // 编号
+      "Depth": 209, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g349", // 文本
+      "Value": "69", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g353", // 编号
+      "Depth": 211, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g352", // 文本
+      "Value": "PD10", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g355", // 编号
+      "Depth": 212, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g354", // 文本
+      "Value": "70", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g358", // 编号
+      "Depth": 214, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g357", // 文本
+      "Value": "VCC33-PD", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g360", // 编号
+      "Depth": 215, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g359", // 文本
+      "Value": "71", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g363", // 编号
+      "Depth": 217, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g362", // 文本
+      "Value": "PD11", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g365", // 编号
+      "Depth": 218, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g364", // 文本
+      "Value": "72", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g368", // 编号
+      "Depth": 220, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g367", // 文本
+      "Value": "PD12", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g370", // 编号
+      "Depth": 221, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g369", // 文本
+      "Value": "73", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g373", // 编号
+      "Depth": 223, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g372", // 文本
+      "Value": "PD13", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g375", // 编号
+      "Depth": 224, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g374", // 文本
+      "Value": "74", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g378", // 编号
+      "Depth": 226, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g377", // 文本
+      "Value": "PD14", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g380", // 编号
+      "Depth": 227, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g379", // 文本
+      "Value": "75", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g383", // 编号
+      "Depth": 229, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g382", // 文本
+      "Value": "PD15", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g385", // 编号
+      "Depth": 230, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g384", // 文本
+      "Value": "76", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g388", // 编号
+      "Depth": 232, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g387", // 文本
+      "Value": "PD16", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g390", // 编号
+      "Depth": 233, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g389", // 文本
+      "Value": "77", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g393", // 编号
+      "Depth": 235, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g392", // 文本
+      "Value": "PD17", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g395", // 编号
+      "Depth": 236, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g394", // 文本
+      "Value": "78", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g398", // 编号
+      "Depth": 238, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g397", // 文本
+      "Value": "PD18", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g400", // 编号
+      "Depth": 239, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g399", // 文本
+      "Value": "79", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g403", // 编号
+      "Depth": 241, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g402", // 文本
+      "Value": "PD19", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g405", // 编号
+      "Depth": 242, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g404", // 文本
+      "Value": "80", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g408", // 编号
+      "Depth": 244, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g407", // 文本
+      "Value": "VDD-SYS4", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g410", // 编号
+      "Depth": 245, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g409", // 文本
+      "Value": "81", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g413", // 编号
+      "Depth": 247, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g412", // 文本
+      "Value": "PD22", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g415", // 编号
+      "Depth": 248, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g414", // 文本
+      "Value": "82", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g418", // 编号
+      "Depth": 250, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g417", // 文本
+      "Value": "PD23", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g420", // 编号
+      "Depth": 251, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g419", // 文本
+      "Value": "83", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g423", // 编号
+      "Depth": 253, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g422", // 文本
+      "Value": "VCC15-TX", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g425", // 编号
+      "Depth": 254, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g424", // 文本
+      "Value": "84", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g428", // 编号
+      "Depth": 256, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g427", // 文本
+      "Value": "VCC33-RF", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g430", // 编号
+      "Depth": 257, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g429", // 文本
+      "Value": "85", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g433", // 编号
+      "Depth": 259, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g432", // 文本
+      "Value": "ANT", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g435", // 编号
+      "Depth": 260, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g434", // 文本
+      "Value": "86", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g438", // 编号
+      "Depth": 262, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g437", // 文本
+      "Value": "VCC15-ANA", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g440", // 编号
+      "Depth": 263, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g439", // 文本
+      "Value": "87", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g443", // 编号
+      "Depth": 265, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g442", // 文本
+      "Value": "VCC-DCXO", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g445", // 编号
+      "Depth": 266, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g444", // 文本
+      "Value": "88", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g448", // 编号
+      "Depth": 268, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g447", // 文本
+      "Value": "EP", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g450", // 编号
+      "Depth": 269, // 深度
+      "FillColor": "000000FF", // 填充颜色
+      "Key": "Pin Number", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g449", // 文本
+      "Value": "89", // 值
+      "ValueVisible": true // 是否显示值
+    },
+    {
+      "ID": "g454", // 编号
+      "Depth": 270, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "V821L2-WXX", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g455", // 编号
+      "Depth": 271, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "C48888410", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g456", // 编号
+      "Depth": 272, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g457", // 编号
+      "Depth": 273, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "V821L2-WXX", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g458", // 编号
+      "Depth": 274, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "QFN-88_9x9mm", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g459", // 编号
+      "Depth": 275, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "Extended Part", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g460", // 编号
+      "Depth": 276, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g461", // 编号
+      "Depth": 277, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g462", // 编号
+      "Depth": 278, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g463", // 编号
+      "Depth": 279, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g464", // 编号
+      "Depth": 280, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "V821L2-WXX", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g465", // 编号
+      "Depth": 281, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g466", // 编号
+      "Depth": 282, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "QFN-88_L9.0-W9.0-P0.35-TL-EP6.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g467", // 编号
+      "Depth": 283, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "579e76addc87418a9d50eab47bf0309d|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g468", // 编号
+      "Depth": 284, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "QFN-88_L9.0-W9.0-P0.35-TL-EP6.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g469", // 编号
+      "Depth": 285, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "354.40874,354.40874,0,0,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g470", // 编号
+      "Depth": 286, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "={ManufacturerPart}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g471", // 编号
+      "Depth": 287, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g453", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "SymbolShape": [
+    {
+      "ID": "g2", // 编号
+      "Depth": 1, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g1" // 几何形状
+    },
+    {
+      "ID": "g4", // 编号
+      "Depth": 2, // 深度
+      "FillColor": "00000000", // 填充颜色
+      "FillLineWidth": 1, // 填充线线宽
+      "FillStyle": "Solid", // 填充样式 - 实心
+      "FillVisible": false, // 是否填充
+      "LineColor": "000000FF", // 线颜色
+      "LineStyle": "Solid", // 线样式 - 实心
+      "LineVisible": false, // 线显示
+      "LineWidth": 0.254, // 线宽
+      "Mirror": false, // 镜像
+      "Shape": "g3" // 几何形状
+    }
+  ],
+  "Pin": [ // 引脚
+    {
+      "ID": "g11", // 编号
+      "Depth": 3, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 53.34}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g7",
+      "PinNumber": "g10",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g16", // 编号
+      "Depth": 6, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 50.8}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g13",
+      "PinNumber": "g15",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 9, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 48.26}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g18",
+      "PinNumber": "g20",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g26", // 编号
+      "Depth": 12, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 45.72}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g23",
+      "PinNumber": "g25",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g31", // 编号
+      "Depth": 15, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 43.18}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g28",
+      "PinNumber": "g30",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g36", // 编号
+      "Depth": 18, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 40.64}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g33",
+      "PinNumber": "g35",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g41", // 编号
+      "Depth": 21, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 38.1}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g38",
+      "PinNumber": "g40",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g46", // 编号
+      "Depth": 24, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 35.56}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g43",
+      "PinNumber": "g45",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g51", // 编号
+      "Depth": 27, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 33.02}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g48",
+      "PinNumber": "g50",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g56", // 编号
+      "Depth": 30, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 30.48}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g53",
+      "PinNumber": "g55",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g61", // 编号
+      "Depth": 33, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 27.94}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g58",
+      "PinNumber": "g60",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g66", // 编号
+      "Depth": 36, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 25.4}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g63",
+      "PinNumber": "g65",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g71", // 编号
+      "Depth": 39, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 22.86}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g68",
+      "PinNumber": "g70",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g76", // 编号
+      "Depth": 42, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 20.32}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g73",
+      "PinNumber": "g75",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g81", // 编号
+      "Depth": 45, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 17.78}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g78",
+      "PinNumber": "g80",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g86", // 编号
+      "Depth": 48, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 15.24}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g83",
+      "PinNumber": "g85",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g91", // 编号
+      "Depth": 51, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 12.7}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g88",
+      "PinNumber": "g90",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g96", // 编号
+      "Depth": 54, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 10.16}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g93",
+      "PinNumber": "g95",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g101", // 编号
+      "Depth": 57, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 7.62}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g98",
+      "PinNumber": "g100",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g106", // 编号
+      "Depth": 60, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 5.08}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g103",
+      "PinNumber": "g105",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g111", // 编号
+      "Depth": 63, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 2.54}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g108",
+      "PinNumber": "g110",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g116", // 编号
+      "Depth": 66, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": 0}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g113",
+      "PinNumber": "g115",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g121", // 编号
+      "Depth": 69, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -2.54}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g118",
+      "PinNumber": "g120",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g126", // 编号
+      "Depth": 72, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -5.08}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g123",
+      "PinNumber": "g125",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g131", // 编号
+      "Depth": 75, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -7.62}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g128",
+      "PinNumber": "g130",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g136", // 编号
+      "Depth": 78, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -10.16}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g133",
+      "PinNumber": "g135",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g141", // 编号
+      "Depth": 81, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -12.7}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g138",
+      "PinNumber": "g140",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g146", // 编号
+      "Depth": 84, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -15.24}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g143",
+      "PinNumber": "g145",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g151", // 编号
+      "Depth": 87, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -17.78}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g148",
+      "PinNumber": "g150",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g156", // 编号
+      "Depth": 90, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -20.32}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g153",
+      "PinNumber": "g155",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g161", // 编号
+      "Depth": 93, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -22.86}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g158",
+      "PinNumber": "g160",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g166", // 编号
+      "Depth": 96, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -25.4}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g163",
+      "PinNumber": "g165",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g171", // 编号
+      "Depth": 99, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -27.94}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g168",
+      "PinNumber": "g170",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g176", // 编号
+      "Depth": 102, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -30.48}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g173",
+      "PinNumber": "g175",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g181", // 编号
+      "Depth": 105, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -33.02}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g178",
+      "PinNumber": "g180",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g186", // 编号
+      "Depth": 108, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -35.56}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g183",
+      "PinNumber": "g185",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g191", // 编号
+      "Depth": 111, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -38.1}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g188",
+      "PinNumber": "g190",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g196", // 编号
+      "Depth": 114, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -40.64}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g193",
+      "PinNumber": "g195",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g201", // 编号
+      "Depth": 117, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -43.18}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g198",
+      "PinNumber": "g200",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g206", // 编号
+      "Depth": 120, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -45.72}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g203",
+      "PinNumber": "g205",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g211", // 编号
+      "Depth": 123, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -48.26}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g208",
+      "PinNumber": "g210",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g216", // 编号
+      "Depth": 126, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -50.8}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g213",
+      "PinNumber": "g215",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g221", // 编号
+      "Depth": 129, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -53.34}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g218",
+      "PinNumber": "g220",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g226", // 编号
+      "Depth": 132, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": -36.83, "Y": -55.88}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g223",
+      "PinNumber": "g225",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g231", // 编号
+      "Depth": 135, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -55.88}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g228",
+      "PinNumber": "g230",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g236", // 编号
+      "Depth": 138, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -53.34}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g233",
+      "PinNumber": "g235",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g241", // 编号
+      "Depth": 141, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -50.8}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g238",
+      "PinNumber": "g240",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g246", // 编号
+      "Depth": 144, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -48.26}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g243",
+      "PinNumber": "g245",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g251", // 编号
+      "Depth": 147, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -45.72}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g248",
+      "PinNumber": "g250",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g256", // 编号
+      "Depth": 150, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -43.18}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g253",
+      "PinNumber": "g255",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g261", // 编号
+      "Depth": 153, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -40.64}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g258",
+      "PinNumber": "g260",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g266", // 编号
+      "Depth": 156, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -38.1}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g263",
+      "PinNumber": "g265",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g271", // 编号
+      "Depth": 159, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -35.56}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g268",
+      "PinNumber": "g270",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g276", // 编号
+      "Depth": 162, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -33.02}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g273",
+      "PinNumber": "g275",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g281", // 编号
+      "Depth": 165, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -30.48}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g278",
+      "PinNumber": "g280",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g286", // 编号
+      "Depth": 168, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -27.94}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g283",
+      "PinNumber": "g285",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g291", // 编号
+      "Depth": 171, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -25.4}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g288",
+      "PinNumber": "g290",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g296", // 编号
+      "Depth": 174, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -22.86}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g293",
+      "PinNumber": "g295",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g301", // 编号
+      "Depth": 177, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -20.32}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g298",
+      "PinNumber": "g300",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g306", // 编号
+      "Depth": 180, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -17.78}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g303",
+      "PinNumber": "g305",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g311", // 编号
+      "Depth": 183, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -15.24}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g308",
+      "PinNumber": "g310",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g316", // 编号
+      "Depth": 186, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -12.7}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g313",
+      "PinNumber": "g315",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g321", // 编号
+      "Depth": 189, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -10.16}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g318",
+      "PinNumber": "g320",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g326", // 编号
+      "Depth": 192, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -7.62}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g323",
+      "PinNumber": "g325",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g331", // 编号
+      "Depth": 195, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -5.08}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g328",
+      "PinNumber": "g330",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g336", // 编号
+      "Depth": 198, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": -2.54}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g333",
+      "PinNumber": "g335",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g341", // 编号
+      "Depth": 201, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 0}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g338",
+      "PinNumber": "g340",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g346", // 编号
+      "Depth": 204, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 2.54}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g343",
+      "PinNumber": "g345",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g351", // 编号
+      "Depth": 207, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 5.08}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g348",
+      "PinNumber": "g350",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g356", // 编号
+      "Depth": 210, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 7.62}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g353",
+      "PinNumber": "g355",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g361", // 编号
+      "Depth": 213, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 10.16}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g358",
+      "PinNumber": "g360",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g366", // 编号
+      "Depth": 216, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 12.7}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g363",
+      "PinNumber": "g365",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g371", // 编号
+      "Depth": 219, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 15.24}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g368",
+      "PinNumber": "g370",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g376", // 编号
+      "Depth": 222, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 17.78}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g373",
+      "PinNumber": "g375",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g381", // 编号
+      "Depth": 225, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 20.32}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g378",
+      "PinNumber": "g380",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g386", // 编号
+      "Depth": 228, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 22.86}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g383",
+      "PinNumber": "g385",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g391", // 编号
+      "Depth": 231, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 25.4}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g388",
+      "PinNumber": "g390",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g396", // 编号
+      "Depth": 234, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 27.94}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g393",
+      "PinNumber": "g395",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g401", // 编号
+      "Depth": 237, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 30.48}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g398",
+      "PinNumber": "g400",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g406", // 编号
+      "Depth": 240, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 33.02}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g403",
+      "PinNumber": "g405",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g411", // 编号
+      "Depth": 243, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 35.56}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g408",
+      "PinNumber": "g410",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g416", // 编号
+      "Depth": 246, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 38.1}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g413",
+      "PinNumber": "g415",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g421", // 编号
+      "Depth": 249, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 40.64}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g418",
+      "PinNumber": "g420",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g426", // 编号
+      "Depth": 252, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 43.18}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g423",
+      "PinNumber": "g425",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g431", // 编号
+      "Depth": 255, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 45.72}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g428",
+      "PinNumber": "g430",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g436", // 编号
+      "Depth": 258, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 48.26}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g433",
+      "PinNumber": "g435",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g441", // 编号
+      "Depth": 261, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 50.8}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g438",
+      "PinNumber": "g440",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g446", // 编号
+      "Depth": 264, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 36.83, "Y": 53.34}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g443",
+      "PinNumber": "g445",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 3.141592653589793 // 旋转弧度
+    },
+    {
+      "ID": "g451", // 编号
+      "Depth": 267, // 深度
+      "Attribute": [], // 属性
+      "ElectricalType": "Undefined", // 电气类型
+      "Location": {"X": 0, "Y": 58.42}, // 位置
+      "PinColor": "000000FF", // 引脚颜色
+      "PinLength": 2.54, // 引脚长度
+      "PinName": "g448",
+      "PinNumber": "g450",
+      "PinVisible": true, // 引脚可见
+      "Rotation": 4.71238898038469 // 旋转弧度
+    }
+  ]
+}

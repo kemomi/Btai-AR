@@ -1,0 +1,502 @@
+{
+  "LineSegment2D": [ // 二维线段
+    {
+      "ID": "g4", // 编号
+      "EndPoint": {"X": 0.29999939999999997, "Y": 0.39999919999999994}, // 结束点
+      "StartPoint": {"X": 0.29999939999999997, "Y": -0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g5", // 编号
+      "EndPoint": {"X": 0.6999986, "Y": 0.39999919999999994}, // 结束点
+      "StartPoint": {"X": 0.29999939999999997, "Y": 0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g6", // 编号
+      "EndPoint": {"X": 0.6999986, "Y": -0.39999919999999994}, // 结束点
+      "StartPoint": {"X": 0.6999986, "Y": 0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g7", // 编号
+      "EndPoint": {"X": 0.29999939999999997, "Y": -0.39999919999999994}, // 结束点
+      "StartPoint": {"X": 0.6999986, "Y": -0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g11", // 编号
+      "EndPoint": {"X": -0.29999939999999997, "Y": 0.39999919999999994}, // 结束点
+      "StartPoint": {"X": -0.29999939999999997, "Y": -0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g12", // 编号
+      "EndPoint": {"X": -0.6999986, "Y": 0.39999919999999994}, // 结束点
+      "StartPoint": {"X": -0.29999939999999997, "Y": 0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g13", // 编号
+      "EndPoint": {"X": -0.6999986, "Y": -0.39999919999999994}, // 结束点
+      "StartPoint": {"X": -0.6999986, "Y": 0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g14", // 编号
+      "EndPoint": {"X": -0.29999939999999997, "Y": -0.39999919999999994}, // 结束点
+      "StartPoint": {"X": -0.6999986, "Y": -0.39999919999999994} // 起始点
+    },
+    {
+      "ID": "g18", // 编号
+      "EndPoint": {"X": -0.7999983999999999, "Y": 0.49999899999999997}, // 结束点
+      "StartPoint": {"X": -0.7999983999999999, "Y": -0.49999899999999997} // 起始点
+    },
+    {
+      "ID": "g19", // 编号
+      "EndPoint": {"X": 0.7999983999999999, "Y": 0.49999899999999997}, // 结束点
+      "StartPoint": {"X": -0.7999983999999999, "Y": 0.49999899999999997} // 起始点
+    },
+    {
+      "ID": "g20", // 编号
+      "EndPoint": {"X": 0.7999983999999999, "Y": -0.49999899999999997}, // 结束点
+      "StartPoint": {"X": 0.7999983999999999, "Y": 0.49999899999999997} // 起始点
+    },
+    {
+      "ID": "g21", // 编号
+      "EndPoint": {"X": -0.7999983999999999, "Y": -0.49999899999999997}, // 结束点
+      "StartPoint": {"X": 0.7999983999999999, "Y": -0.49999899999999997} // 起始点
+    }
+  ],
+  "Polycurve2D": [ // 二维折线
+    {"ID": "g8", "Curve": ["g4", "g5", "g6", "g7"]}, // 编号 - 曲线
+    {"ID": "g15", "Curve": ["g11", "g12", "g13", "g14"]}, // 编号 - 曲线
+    {"ID": "g22", "Curve": ["g18", "g19", "g20", "g21"]} // 编号 - 曲线
+  ],
+  "Circle2D": [
+    {
+      "ID": "g1", // 编号
+      "CenterPoint": {"X": -0.8000999999999999, "Y": -0.500126}, // 圆心
+      "Radius": 0.059969400000000006 // 半径
+    }
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g24", // 编号
+      "Height": 0.9999979999999999, // 高
+      "Position": {"X": -0.39999919999999994, "Y": 0.49999899999999997}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 0.7999983999999999 // 宽
+    }
+  ],
+  "Polygon2D": [
+    {"ID": "g2", "Hole": [], "Outline": "g1"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g9", "Hole": [], "Outline": "g8"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g16", "Hole": [], "Outline": "g15"} // 编号 - 内洞 - 轮廓
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g29", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.1524, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g40", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.00387, // 宽
+      "Weight": 0 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g30", // 编号
+      "FontDefinition": "g29",
+      "FontSize": 1.7145, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g33", // 编号
+      "FontDefinition": "g29",
+      "FontSize": 1.143, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g41", // 编号
+      "FontDefinition": "g40",
+      "FontSize": 0.04355, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Footprint": [
+    {
+      "ID": "g59", // 编号
+      "Name": "CRYSTAL-SMD_L1.6-W1.0", // 名称
+      "Pad": ["g27", "g28"], // 焊盘
+      "Purpose": "Component", // 用途 - 元件
+      "Shapes": [
+        "g3",
+        "g10",
+        "g17",
+        "g23",
+        "g31",
+        "g32",
+        "g34",
+        "g35",
+        "g36",
+        "g37",
+        "g38",
+        "g39",
+        "g42",
+        "g43",
+        "g44",
+        "g45",
+        "g46",
+        "g47",
+        "g48",
+        "g49",
+        "g50",
+        "g51",
+        "g52",
+        "g53",
+        "g54",
+        "g55",
+        "g56",
+        "g57",
+        "g58"
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "FootprintRegion": [
+    {
+      "ID": "g3", // 编号
+      "Depth": 1, // 深度
+      "Layer": "ComponentBodyLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g2" // 几何形状
+    },
+    {
+      "ID": "g10", // 编号
+      "Depth": 2, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g9" // 几何形状
+    },
+    {
+      "ID": "g17", // 编号
+      "Depth": 3, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g16" // 几何形状
+    }
+  ],
+  "FootprintAttribute": [
+    {
+      "ID": "g31", // 编号
+      "Depth": 5, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g30", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g32", // 编号
+      "Depth": 6, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g30", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g34", // 编号
+      "Depth": 7, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model Title", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g35", // 编号
+      "Depth": 8, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "73e0fee31eea460988c3e45cb4d9768c|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g36", // 编号
+      "Depth": 9, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g30", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g37", // 编号
+      "Depth": 10, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g30", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g38", // 编号
+      "Depth": 11, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model Title", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g39", // 编号
+      "Depth": 12, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g33", // 文本
+      "Value": "73e0fee31eea460988c3e45cb4d9768c|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g42", // 编号
+      "Depth": 13, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "TY:1.6*1.0*0.5 GD:4 FO:32.768 CL:7 CI:90 FT:20 OP:-40TO+85", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g43", // 编号
+      "Depth": 14, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "C5203623", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g44", // 编号
+      "Depth": 15, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "TXC(晶技)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g45", // 编号
+      "Depth": 16, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "9H03200083", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g46", // 编号
+      "Depth": 17, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "SMD1610-2P", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g47", // 编号
+      "Depth": 18, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "Extended Part", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g48", // 编号
+      "Depth": 19, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "https://atta.szlcsc.com/upload/public/pdf/source/20250210/BACCEA555E0317980622AA712D2A08AD.pdf", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g49", // 编号
+      "Depth": 20, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g50", // 编号
+      "Depth": 21, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g51", // 编号
+      "Depth": 22, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g52", // 编号
+      "Depth": 23, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "9H03200083", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g53", // 编号
+      "Depth": 24, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g54", // 编号
+      "Depth": 25, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "73e0fee31eea460988c3e45cb4d9768c|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g55", // 编号
+      "Depth": 26, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "CRYSTAL-SMD_L1.6-W1.0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g56", // 编号
+      "Depth": 27, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "62.992,39.37,0,0,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g57", // 编号
+      "Depth": 28, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "={ManufacturerPart}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g58", // 编号
+      "Depth": 29, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g41", // 文本
+      "Value": "", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "FootprintLine": [
+    {
+      "ID": "g23", // 编号
+      "Depth": 4, // 深度
+      "Layer": "ComponentOutlineLayer", // 层
+      "LineWidth": 0.0508, // 线宽
+      "Shape": "g22" // 几何形状
+    }
+  ],
+  "Pad": [ // 焊盘
+    {
+      "ID": "g27", // 编号
+      "Location": {"X": 0.599948, "Y": 0}, // 位置
+      "PadNumber": "2", // 焊盘编号
+      "PadStack": "g26", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g28", // 编号
+      "Location": {"X": -0.599948, "Y": 0}, // 位置
+      "PadNumber": "1", // 焊盘编号
+      "PadStack": "g26", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    }
+  ],
+  "PadStack": [ // 焊盘堆栈
+    {
+      "ID": "g26", // 编号
+      "LayerPadShape": [{"Layer": "TopLayer", "RegularPad": "g25"}], // 层 - 常规焊盘
+      "Name": "", // 名称
+      "PadStackType": "SMDPad" // 焊盘堆栈类型 - 贴片焊盘
+    }
+  ],
+  "PadShape": [{"ID": "g25", "Shape": ["g24"]}] // 编号 - 几何形状
+}

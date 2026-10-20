@@ -1,0 +1,5454 @@
+<?xml version="1.0"?>
+<root xmlns="http://disa.org.cn/ECAD/STD/2024/XMLSchema/SymbolPackage">
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g463</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.5000672</X>
+      <Y>3.7499035999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.6110672</X>
+      <Y>3.7499035999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g464</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.5000672</X>
+      <Y>2.8609036</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.5000672</X>
+      <Y>3.7499035999999997</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g465</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-3.6110672</X>
+      <Y>3.7499035999999997</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.5000672</X>
+      <Y>2.8609036</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g469</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.500118</X>
+      <Y>3.7499797999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.500118</X>
+      <Y>-3.7500052</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g470</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>4.499864</X>
+      <Y>3.7499797999999998</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.500118</X>
+      <Y>3.7499797999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g471</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>4.499864</X>
+      <Y>-3.7500052</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>4.499864</X>
+      <Y>3.7499797999999998</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g472</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.500118</X>
+      <Y>-3.7500052</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>4.499864</X>
+      <Y>-3.7500052</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g475</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.699127</X>
+      <Y>3.9369238</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-3.5561269999999996</X>
+      <Y>3.9369238</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <LineSegment2D> <!-- 二维线段 -->
+    <ID>g478</ID> <!-- 编号 -->
+    <EndPoint> <!-- 结束点 -->
+      <X>-4.699127</X>
+      <Y>3.0479238</Y>
+    </EndPoint>
+    <StartPoint> <!-- 起始点 -->
+      <X>-4.699127</X>
+      <Y>3.9369238</Y>
+    </StartPoint>
+  </LineSegment2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g466</ID> <!-- 编号 -->
+    <Curve>g463</Curve> <!-- 曲线 -->
+    <Curve>g464</Curve> <!-- 曲线 -->
+    <Curve>g465</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g473</ID> <!-- 编号 -->
+    <Curve>g469</Curve> <!-- 曲线 -->
+    <Curve>g470</Curve> <!-- 曲线 -->
+    <Curve>g471</Curve> <!-- 曲线 -->
+    <Curve>g472</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g476</ID> <!-- 编号 -->
+    <Curve>g475</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g479</ID> <!-- 编号 -->
+    <Curve>g478</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Polycurve2D> <!-- 二维折线 -->
+    <ID>g482</ID> <!-- 编号 -->
+    <Curve>g481</Curve> <!-- 曲线 -->
+  </Polycurve2D>
+  <Circle2D>
+    <ID>g1</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-4.499991</X>
+      <Y>3.7499289999999994</Y>
+    </CenterPoint>
+    <Radius>0.059969400000000006</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g4</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g7</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g10</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g13</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g16</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g19</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g22</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g25</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g28</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g31</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g34</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g37</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g40</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g43</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g46</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g49</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g52</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g55</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g58</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g61</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g64</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g67</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g70</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g73</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g76</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g79</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g82</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g85</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g88</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g91</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g94</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g97</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g100</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g103</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g106</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g109</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g112</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g115</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g118</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g121</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g124</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g127</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g130</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g133</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g136</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g139</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g142</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g145</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g148</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g151</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g154</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g157</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g160</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g163</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g166</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g169</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g172</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g175</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g178</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g181</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g184</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g187</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g190</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g193</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g196</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g199</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g202</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g205</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g208</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g211</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g214</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g217</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g220</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g223</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g226</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g229</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>-0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g232</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g235</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g238</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g241</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g244</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g247</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g250</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g253</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>0.250063</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g256</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g259</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g262</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g265</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g268</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g271</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g274</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g277</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>0.7499349999999999</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g280</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g283</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g286</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g289</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g292</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g295</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g298</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g301</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g304</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g307</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g310</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g313</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>1.250061</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g316</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g319</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g322</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g325</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g328</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g331</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g334</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>1.7499329999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g337</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g340</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g343</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g346</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g349</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g352</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g355</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g358</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g361</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g364</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g367</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g370</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g373</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g376</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>2.250059</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g379</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g382</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g385</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g388</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g391</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g394</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g397</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g400</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g403</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g406</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g409</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g412</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g415</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g418</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>2.7499309999999997</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g421</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>3.250057</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g424</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.7499309999999997</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g427</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>2.250059</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g430</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.7499329999999997</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g433</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>1.250061</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g436</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.7499349999999999</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g439</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0.250063</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g442</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.250063</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g445</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-0.7499349999999999</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g448</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.250061</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g451</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-1.7499329999999997</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g454</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.250059</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g457</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-2.7499309999999997</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g460</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.250057</X>
+      <Y>3.250057</Y>
+    </CenterPoint>
+    <Radius>0.1499362</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g484</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-4.826127</X>
+      <Y>2.666873</Y>
+    </CenterPoint>
+    <Radius>0.100076</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g486</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>-3.5561269999999996</X>
+      <Y>3.301873</Y>
+    </CenterPoint>
+    <Radius>0.100076</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Circle2D>
+    <ID>g488</ID> <!-- 编号 -->
+    <CenterPoint> <!-- 圆心 -->
+      <X>0</X>
+      <Y>0</Y>
+    </CenterPoint>
+    <Radius>0.12800330000000001</Radius> <!-- 半径 -->
+  </Circle2D>
+  <Rectangle> <!-- 矩形 -->
+    <ID>g481</ID> <!-- 编号 -->
+    <Height>7.500111999999999</Height> <!-- 高 -->
+    <Position> <!-- 位置 -->
+      <X>-4.499991</X>
+      <Y>3.7499289999999994</Y>
+    </Position>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Width>8.999982</Width> <!-- 宽 -->
+  </Rectangle>
+  <Polygon2D>
+    <ID>g2</ID> <!-- 编号 -->
+    <Outline>g1</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g5</ID> <!-- 编号 -->
+    <Outline>g4</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g8</ID> <!-- 编号 -->
+    <Outline>g7</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g11</ID> <!-- 编号 -->
+    <Outline>g10</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g14</ID> <!-- 编号 -->
+    <Outline>g13</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g17</ID> <!-- 编号 -->
+    <Outline>g16</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g20</ID> <!-- 编号 -->
+    <Outline>g19</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g23</ID> <!-- 编号 -->
+    <Outline>g22</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g26</ID> <!-- 编号 -->
+    <Outline>g25</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g29</ID> <!-- 编号 -->
+    <Outline>g28</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g32</ID> <!-- 编号 -->
+    <Outline>g31</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g35</ID> <!-- 编号 -->
+    <Outline>g34</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g38</ID> <!-- 编号 -->
+    <Outline>g37</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g41</ID> <!-- 编号 -->
+    <Outline>g40</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g44</ID> <!-- 编号 -->
+    <Outline>g43</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g47</ID> <!-- 编号 -->
+    <Outline>g46</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g50</ID> <!-- 编号 -->
+    <Outline>g49</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g53</ID> <!-- 编号 -->
+    <Outline>g52</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g56</ID> <!-- 编号 -->
+    <Outline>g55</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g59</ID> <!-- 编号 -->
+    <Outline>g58</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g62</ID> <!-- 编号 -->
+    <Outline>g61</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g65</ID> <!-- 编号 -->
+    <Outline>g64</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g68</ID> <!-- 编号 -->
+    <Outline>g67</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g71</ID> <!-- 编号 -->
+    <Outline>g70</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g74</ID> <!-- 编号 -->
+    <Outline>g73</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g77</ID> <!-- 编号 -->
+    <Outline>g76</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g80</ID> <!-- 编号 -->
+    <Outline>g79</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g83</ID> <!-- 编号 -->
+    <Outline>g82</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g86</ID> <!-- 编号 -->
+    <Outline>g85</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g89</ID> <!-- 编号 -->
+    <Outline>g88</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g92</ID> <!-- 编号 -->
+    <Outline>g91</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g95</ID> <!-- 编号 -->
+    <Outline>g94</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g98</ID> <!-- 编号 -->
+    <Outline>g97</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g101</ID> <!-- 编号 -->
+    <Outline>g100</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g104</ID> <!-- 编号 -->
+    <Outline>g103</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g107</ID> <!-- 编号 -->
+    <Outline>g106</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g110</ID> <!-- 编号 -->
+    <Outline>g109</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g113</ID> <!-- 编号 -->
+    <Outline>g112</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g116</ID> <!-- 编号 -->
+    <Outline>g115</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g119</ID> <!-- 编号 -->
+    <Outline>g118</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g122</ID> <!-- 编号 -->
+    <Outline>g121</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g125</ID> <!-- 编号 -->
+    <Outline>g124</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g128</ID> <!-- 编号 -->
+    <Outline>g127</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g131</ID> <!-- 编号 -->
+    <Outline>g130</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g134</ID> <!-- 编号 -->
+    <Outline>g133</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g137</ID> <!-- 编号 -->
+    <Outline>g136</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g140</ID> <!-- 编号 -->
+    <Outline>g139</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g143</ID> <!-- 编号 -->
+    <Outline>g142</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g146</ID> <!-- 编号 -->
+    <Outline>g145</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g149</ID> <!-- 编号 -->
+    <Outline>g148</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g152</ID> <!-- 编号 -->
+    <Outline>g151</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g155</ID> <!-- 编号 -->
+    <Outline>g154</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g158</ID> <!-- 编号 -->
+    <Outline>g157</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g161</ID> <!-- 编号 -->
+    <Outline>g160</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g164</ID> <!-- 编号 -->
+    <Outline>g163</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g167</ID> <!-- 编号 -->
+    <Outline>g166</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g170</ID> <!-- 编号 -->
+    <Outline>g169</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g173</ID> <!-- 编号 -->
+    <Outline>g172</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g176</ID> <!-- 编号 -->
+    <Outline>g175</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g179</ID> <!-- 编号 -->
+    <Outline>g178</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g182</ID> <!-- 编号 -->
+    <Outline>g181</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g185</ID> <!-- 编号 -->
+    <Outline>g184</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g188</ID> <!-- 编号 -->
+    <Outline>g187</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g191</ID> <!-- 编号 -->
+    <Outline>g190</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g194</ID> <!-- 编号 -->
+    <Outline>g193</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g197</ID> <!-- 编号 -->
+    <Outline>g196</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g200</ID> <!-- 编号 -->
+    <Outline>g199</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g203</ID> <!-- 编号 -->
+    <Outline>g202</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g206</ID> <!-- 编号 -->
+    <Outline>g205</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g209</ID> <!-- 编号 -->
+    <Outline>g208</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g212</ID> <!-- 编号 -->
+    <Outline>g211</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g215</ID> <!-- 编号 -->
+    <Outline>g214</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g218</ID> <!-- 编号 -->
+    <Outline>g217</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g221</ID> <!-- 编号 -->
+    <Outline>g220</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g224</ID> <!-- 编号 -->
+    <Outline>g223</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g227</ID> <!-- 编号 -->
+    <Outline>g226</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g230</ID> <!-- 编号 -->
+    <Outline>g229</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g233</ID> <!-- 编号 -->
+    <Outline>g232</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g236</ID> <!-- 编号 -->
+    <Outline>g235</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g239</ID> <!-- 编号 -->
+    <Outline>g238</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g242</ID> <!-- 编号 -->
+    <Outline>g241</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g245</ID> <!-- 编号 -->
+    <Outline>g244</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g248</ID> <!-- 编号 -->
+    <Outline>g247</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g251</ID> <!-- 编号 -->
+    <Outline>g250</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g254</ID> <!-- 编号 -->
+    <Outline>g253</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g257</ID> <!-- 编号 -->
+    <Outline>g256</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g260</ID> <!-- 编号 -->
+    <Outline>g259</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g263</ID> <!-- 编号 -->
+    <Outline>g262</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g266</ID> <!-- 编号 -->
+    <Outline>g265</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g269</ID> <!-- 编号 -->
+    <Outline>g268</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g272</ID> <!-- 编号 -->
+    <Outline>g271</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g275</ID> <!-- 编号 -->
+    <Outline>g274</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g278</ID> <!-- 编号 -->
+    <Outline>g277</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g281</ID> <!-- 编号 -->
+    <Outline>g280</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g284</ID> <!-- 编号 -->
+    <Outline>g283</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g287</ID> <!-- 编号 -->
+    <Outline>g286</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g290</ID> <!-- 编号 -->
+    <Outline>g289</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g293</ID> <!-- 编号 -->
+    <Outline>g292</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g296</ID> <!-- 编号 -->
+    <Outline>g295</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g299</ID> <!-- 编号 -->
+    <Outline>g298</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g302</ID> <!-- 编号 -->
+    <Outline>g301</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g305</ID> <!-- 编号 -->
+    <Outline>g304</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g308</ID> <!-- 编号 -->
+    <Outline>g307</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g311</ID> <!-- 编号 -->
+    <Outline>g310</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g314</ID> <!-- 编号 -->
+    <Outline>g313</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g317</ID> <!-- 编号 -->
+    <Outline>g316</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g320</ID> <!-- 编号 -->
+    <Outline>g319</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g323</ID> <!-- 编号 -->
+    <Outline>g322</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g326</ID> <!-- 编号 -->
+    <Outline>g325</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g329</ID> <!-- 编号 -->
+    <Outline>g328</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g332</ID> <!-- 编号 -->
+    <Outline>g331</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g335</ID> <!-- 编号 -->
+    <Outline>g334</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g338</ID> <!-- 编号 -->
+    <Outline>g337</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g341</ID> <!-- 编号 -->
+    <Outline>g340</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g344</ID> <!-- 编号 -->
+    <Outline>g343</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g347</ID> <!-- 编号 -->
+    <Outline>g346</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g350</ID> <!-- 编号 -->
+    <Outline>g349</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g353</ID> <!-- 编号 -->
+    <Outline>g352</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g356</ID> <!-- 编号 -->
+    <Outline>g355</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g359</ID> <!-- 编号 -->
+    <Outline>g358</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g362</ID> <!-- 编号 -->
+    <Outline>g361</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g365</ID> <!-- 编号 -->
+    <Outline>g364</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g368</ID> <!-- 编号 -->
+    <Outline>g367</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g371</ID> <!-- 编号 -->
+    <Outline>g370</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g374</ID> <!-- 编号 -->
+    <Outline>g373</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g377</ID> <!-- 编号 -->
+    <Outline>g376</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g380</ID> <!-- 编号 -->
+    <Outline>g379</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g383</ID> <!-- 编号 -->
+    <Outline>g382</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g386</ID> <!-- 编号 -->
+    <Outline>g385</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g389</ID> <!-- 编号 -->
+    <Outline>g388</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g392</ID> <!-- 编号 -->
+    <Outline>g391</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g395</ID> <!-- 编号 -->
+    <Outline>g394</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g398</ID> <!-- 编号 -->
+    <Outline>g397</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g401</ID> <!-- 编号 -->
+    <Outline>g400</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g404</ID> <!-- 编号 -->
+    <Outline>g403</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g407</ID> <!-- 编号 -->
+    <Outline>g406</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g410</ID> <!-- 编号 -->
+    <Outline>g409</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g413</ID> <!-- 编号 -->
+    <Outline>g412</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g416</ID> <!-- 编号 -->
+    <Outline>g415</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g419</ID> <!-- 编号 -->
+    <Outline>g418</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g422</ID> <!-- 编号 -->
+    <Outline>g421</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g425</ID> <!-- 编号 -->
+    <Outline>g424</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g428</ID> <!-- 编号 -->
+    <Outline>g427</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g431</ID> <!-- 编号 -->
+    <Outline>g430</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g434</ID> <!-- 编号 -->
+    <Outline>g433</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g437</ID> <!-- 编号 -->
+    <Outline>g436</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g440</ID> <!-- 编号 -->
+    <Outline>g439</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g443</ID> <!-- 编号 -->
+    <Outline>g442</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g446</ID> <!-- 编号 -->
+    <Outline>g445</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g449</ID> <!-- 编号 -->
+    <Outline>g448</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g452</ID> <!-- 编号 -->
+    <Outline>g451</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g455</ID> <!-- 编号 -->
+    <Outline>g454</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g458</ID> <!-- 编号 -->
+    <Outline>g457</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g461</ID> <!-- 编号 -->
+    <Outline>g460</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <Polygon2D>
+    <ID>g467</ID> <!-- 编号 -->
+    <Outline>g466</Outline> <!-- 轮廓 -->
+  </Polygon2D>
+  <FontDefinition>
+    <ID>g644</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.1524</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <FontDefinition>
+    <ID>g655</ID> <!-- 编号 -->
+    <Align>BottomLeft</Align> <!-- 对齐方式 -->
+    <CharSpace>0</CharSpace>
+    <FontFamily>default</FontFamily> <!-- 字体名称 -->
+    <Italic>false</Italic> <!-- 斜体 -->
+    <LineSpace>0</LineSpace>
+    <Overline>false</Overline> <!-- 上划线 -->
+    <Strikenout>false</Strikenout> <!-- 删除线 -->
+    <Underline>false</Underline> <!-- 下划线 -->
+    <Width>0.00387</Width> <!-- 宽 -->
+    <Weight>0</Weight> <!-- 字重 -->
+  </FontDefinition>
+  <Text2D>
+    <ID>g645</ID> <!-- 编号 -->
+    <FontDefinition>g644</FontDefinition>
+    <FontSize>1.7145</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g648</ID> <!-- 编号 -->
+    <FontDefinition>g644</FontDefinition>
+    <FontSize>1.143</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Text2D>
+    <ID>g656</ID> <!-- 编号 -->
+    <FontDefinition>g655</FontDefinition>
+    <FontSize>0.04355</FontSize> <!-- 字体大小 -->
+    <Mirror>false</Mirror> <!-- 镜像 -->
+    <OriginPoint> <!-- 原点 -->
+      <X>0</X>
+      <Y>0</Y>
+    </OriginPoint>
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+    <Text/>
+  </Text2D>
+  <Footprint>
+    <ID>g684</ID> <!-- 编号 -->
+    <Name>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Name> <!-- 名称 -->
+    <Pad>g491</Pad> <!-- 焊盘 -->
+    <Pad>g492</Pad> <!-- 焊盘 -->
+    <Pad>g493</Pad> <!-- 焊盘 -->
+    <Pad>g494</Pad> <!-- 焊盘 -->
+    <Pad>g495</Pad> <!-- 焊盘 -->
+    <Pad>g496</Pad> <!-- 焊盘 -->
+    <Pad>g497</Pad> <!-- 焊盘 -->
+    <Pad>g498</Pad> <!-- 焊盘 -->
+    <Pad>g499</Pad> <!-- 焊盘 -->
+    <Pad>g500</Pad> <!-- 焊盘 -->
+    <Pad>g501</Pad> <!-- 焊盘 -->
+    <Pad>g502</Pad> <!-- 焊盘 -->
+    <Pad>g503</Pad> <!-- 焊盘 -->
+    <Pad>g504</Pad> <!-- 焊盘 -->
+    <Pad>g505</Pad> <!-- 焊盘 -->
+    <Pad>g506</Pad> <!-- 焊盘 -->
+    <Pad>g507</Pad> <!-- 焊盘 -->
+    <Pad>g508</Pad> <!-- 焊盘 -->
+    <Pad>g509</Pad> <!-- 焊盘 -->
+    <Pad>g510</Pad> <!-- 焊盘 -->
+    <Pad>g511</Pad> <!-- 焊盘 -->
+    <Pad>g512</Pad> <!-- 焊盘 -->
+    <Pad>g513</Pad> <!-- 焊盘 -->
+    <Pad>g514</Pad> <!-- 焊盘 -->
+    <Pad>g515</Pad> <!-- 焊盘 -->
+    <Pad>g516</Pad> <!-- 焊盘 -->
+    <Pad>g517</Pad> <!-- 焊盘 -->
+    <Pad>g518</Pad> <!-- 焊盘 -->
+    <Pad>g519</Pad> <!-- 焊盘 -->
+    <Pad>g520</Pad> <!-- 焊盘 -->
+    <Pad>g521</Pad> <!-- 焊盘 -->
+    <Pad>g522</Pad> <!-- 焊盘 -->
+    <Pad>g523</Pad> <!-- 焊盘 -->
+    <Pad>g524</Pad> <!-- 焊盘 -->
+    <Pad>g525</Pad> <!-- 焊盘 -->
+    <Pad>g526</Pad> <!-- 焊盘 -->
+    <Pad>g527</Pad> <!-- 焊盘 -->
+    <Pad>g528</Pad> <!-- 焊盘 -->
+    <Pad>g529</Pad> <!-- 焊盘 -->
+    <Pad>g530</Pad> <!-- 焊盘 -->
+    <Pad>g531</Pad> <!-- 焊盘 -->
+    <Pad>g532</Pad> <!-- 焊盘 -->
+    <Pad>g533</Pad> <!-- 焊盘 -->
+    <Pad>g534</Pad> <!-- 焊盘 -->
+    <Pad>g535</Pad> <!-- 焊盘 -->
+    <Pad>g536</Pad> <!-- 焊盘 -->
+    <Pad>g537</Pad> <!-- 焊盘 -->
+    <Pad>g538</Pad> <!-- 焊盘 -->
+    <Pad>g539</Pad> <!-- 焊盘 -->
+    <Pad>g540</Pad> <!-- 焊盘 -->
+    <Pad>g541</Pad> <!-- 焊盘 -->
+    <Pad>g542</Pad> <!-- 焊盘 -->
+    <Pad>g543</Pad> <!-- 焊盘 -->
+    <Pad>g544</Pad> <!-- 焊盘 -->
+    <Pad>g545</Pad> <!-- 焊盘 -->
+    <Pad>g546</Pad> <!-- 焊盘 -->
+    <Pad>g547</Pad> <!-- 焊盘 -->
+    <Pad>g548</Pad> <!-- 焊盘 -->
+    <Pad>g549</Pad> <!-- 焊盘 -->
+    <Pad>g550</Pad> <!-- 焊盘 -->
+    <Pad>g551</Pad> <!-- 焊盘 -->
+    <Pad>g552</Pad> <!-- 焊盘 -->
+    <Pad>g553</Pad> <!-- 焊盘 -->
+    <Pad>g554</Pad> <!-- 焊盘 -->
+    <Pad>g555</Pad> <!-- 焊盘 -->
+    <Pad>g556</Pad> <!-- 焊盘 -->
+    <Pad>g557</Pad> <!-- 焊盘 -->
+    <Pad>g558</Pad> <!-- 焊盘 -->
+    <Pad>g559</Pad> <!-- 焊盘 -->
+    <Pad>g560</Pad> <!-- 焊盘 -->
+    <Pad>g561</Pad> <!-- 焊盘 -->
+    <Pad>g562</Pad> <!-- 焊盘 -->
+    <Pad>g563</Pad> <!-- 焊盘 -->
+    <Pad>g564</Pad> <!-- 焊盘 -->
+    <Pad>g565</Pad> <!-- 焊盘 -->
+    <Pad>g566</Pad> <!-- 焊盘 -->
+    <Pad>g567</Pad> <!-- 焊盘 -->
+    <Pad>g568</Pad> <!-- 焊盘 -->
+    <Pad>g569</Pad> <!-- 焊盘 -->
+    <Pad>g570</Pad> <!-- 焊盘 -->
+    <Pad>g571</Pad> <!-- 焊盘 -->
+    <Pad>g572</Pad> <!-- 焊盘 -->
+    <Pad>g573</Pad> <!-- 焊盘 -->
+    <Pad>g574</Pad> <!-- 焊盘 -->
+    <Pad>g575</Pad> <!-- 焊盘 -->
+    <Pad>g576</Pad> <!-- 焊盘 -->
+    <Pad>g577</Pad> <!-- 焊盘 -->
+    <Pad>g578</Pad> <!-- 焊盘 -->
+    <Pad>g579</Pad> <!-- 焊盘 -->
+    <Pad>g580</Pad> <!-- 焊盘 -->
+    <Pad>g581</Pad> <!-- 焊盘 -->
+    <Pad>g582</Pad> <!-- 焊盘 -->
+    <Pad>g583</Pad> <!-- 焊盘 -->
+    <Pad>g584</Pad> <!-- 焊盘 -->
+    <Pad>g585</Pad> <!-- 焊盘 -->
+    <Pad>g586</Pad> <!-- 焊盘 -->
+    <Pad>g587</Pad> <!-- 焊盘 -->
+    <Pad>g588</Pad> <!-- 焊盘 -->
+    <Pad>g589</Pad> <!-- 焊盘 -->
+    <Pad>g590</Pad> <!-- 焊盘 -->
+    <Pad>g591</Pad> <!-- 焊盘 -->
+    <Pad>g592</Pad> <!-- 焊盘 -->
+    <Pad>g593</Pad> <!-- 焊盘 -->
+    <Pad>g594</Pad> <!-- 焊盘 -->
+    <Pad>g595</Pad> <!-- 焊盘 -->
+    <Pad>g596</Pad> <!-- 焊盘 -->
+    <Pad>g597</Pad> <!-- 焊盘 -->
+    <Pad>g598</Pad> <!-- 焊盘 -->
+    <Pad>g599</Pad> <!-- 焊盘 -->
+    <Pad>g600</Pad> <!-- 焊盘 -->
+    <Pad>g601</Pad> <!-- 焊盘 -->
+    <Pad>g602</Pad> <!-- 焊盘 -->
+    <Pad>g603</Pad> <!-- 焊盘 -->
+    <Pad>g604</Pad> <!-- 焊盘 -->
+    <Pad>g605</Pad> <!-- 焊盘 -->
+    <Pad>g606</Pad> <!-- 焊盘 -->
+    <Pad>g607</Pad> <!-- 焊盘 -->
+    <Pad>g608</Pad> <!-- 焊盘 -->
+    <Pad>g609</Pad> <!-- 焊盘 -->
+    <Pad>g610</Pad> <!-- 焊盘 -->
+    <Pad>g611</Pad> <!-- 焊盘 -->
+    <Pad>g612</Pad> <!-- 焊盘 -->
+    <Pad>g613</Pad> <!-- 焊盘 -->
+    <Pad>g614</Pad> <!-- 焊盘 -->
+    <Pad>g615</Pad> <!-- 焊盘 -->
+    <Pad>g616</Pad> <!-- 焊盘 -->
+    <Pad>g617</Pad> <!-- 焊盘 -->
+    <Pad>g618</Pad> <!-- 焊盘 -->
+    <Pad>g619</Pad> <!-- 焊盘 -->
+    <Pad>g620</Pad> <!-- 焊盘 -->
+    <Pad>g621</Pad> <!-- 焊盘 -->
+    <Pad>g622</Pad> <!-- 焊盘 -->
+    <Pad>g623</Pad> <!-- 焊盘 -->
+    <Pad>g624</Pad> <!-- 焊盘 -->
+    <Pad>g625</Pad> <!-- 焊盘 -->
+    <Pad>g626</Pad> <!-- 焊盘 -->
+    <Pad>g627</Pad> <!-- 焊盘 -->
+    <Pad>g628</Pad> <!-- 焊盘 -->
+    <Pad>g629</Pad> <!-- 焊盘 -->
+    <Pad>g630</Pad> <!-- 焊盘 -->
+    <Pad>g631</Pad> <!-- 焊盘 -->
+    <Pad>g632</Pad> <!-- 焊盘 -->
+    <Pad>g633</Pad> <!-- 焊盘 -->
+    <Pad>g634</Pad> <!-- 焊盘 -->
+    <Pad>g635</Pad> <!-- 焊盘 -->
+    <Pad>g636</Pad> <!-- 焊盘 -->
+    <Pad>g637</Pad> <!-- 焊盘 -->
+    <Pad>g638</Pad> <!-- 焊盘 -->
+    <Pad>g639</Pad> <!-- 焊盘 -->
+    <Pad>g640</Pad> <!-- 焊盘 -->
+    <Pad>g641</Pad> <!-- 焊盘 -->
+    <Pad>g642</Pad> <!-- 焊盘 -->
+    <Pad>g643</Pad> <!-- 焊盘 -->
+    <Purpose>Component</Purpose> <!-- 用途 -->
+    <Shapes>g3</Shapes>
+    <Shapes>g6</Shapes>
+    <Shapes>g9</Shapes>
+    <Shapes>g12</Shapes>
+    <Shapes>g15</Shapes>
+    <Shapes>g18</Shapes>
+    <Shapes>g21</Shapes>
+    <Shapes>g24</Shapes>
+    <Shapes>g27</Shapes>
+    <Shapes>g30</Shapes>
+    <Shapes>g33</Shapes>
+    <Shapes>g36</Shapes>
+    <Shapes>g39</Shapes>
+    <Shapes>g42</Shapes>
+    <Shapes>g45</Shapes>
+    <Shapes>g48</Shapes>
+    <Shapes>g51</Shapes>
+    <Shapes>g54</Shapes>
+    <Shapes>g57</Shapes>
+    <Shapes>g60</Shapes>
+    <Shapes>g63</Shapes>
+    <Shapes>g66</Shapes>
+    <Shapes>g69</Shapes>
+    <Shapes>g72</Shapes>
+    <Shapes>g75</Shapes>
+    <Shapes>g78</Shapes>
+    <Shapes>g81</Shapes>
+    <Shapes>g84</Shapes>
+    <Shapes>g87</Shapes>
+    <Shapes>g90</Shapes>
+    <Shapes>g93</Shapes>
+    <Shapes>g96</Shapes>
+    <Shapes>g99</Shapes>
+    <Shapes>g102</Shapes>
+    <Shapes>g105</Shapes>
+    <Shapes>g108</Shapes>
+    <Shapes>g111</Shapes>
+    <Shapes>g114</Shapes>
+    <Shapes>g117</Shapes>
+    <Shapes>g120</Shapes>
+    <Shapes>g123</Shapes>
+    <Shapes>g126</Shapes>
+    <Shapes>g129</Shapes>
+    <Shapes>g132</Shapes>
+    <Shapes>g135</Shapes>
+    <Shapes>g138</Shapes>
+    <Shapes>g141</Shapes>
+    <Shapes>g144</Shapes>
+    <Shapes>g147</Shapes>
+    <Shapes>g150</Shapes>
+    <Shapes>g153</Shapes>
+    <Shapes>g156</Shapes>
+    <Shapes>g159</Shapes>
+    <Shapes>g162</Shapes>
+    <Shapes>g165</Shapes>
+    <Shapes>g168</Shapes>
+    <Shapes>g171</Shapes>
+    <Shapes>g174</Shapes>
+    <Shapes>g177</Shapes>
+    <Shapes>g180</Shapes>
+    <Shapes>g183</Shapes>
+    <Shapes>g186</Shapes>
+    <Shapes>g189</Shapes>
+    <Shapes>g192</Shapes>
+    <Shapes>g195</Shapes>
+    <Shapes>g198</Shapes>
+    <Shapes>g201</Shapes>
+    <Shapes>g204</Shapes>
+    <Shapes>g207</Shapes>
+    <Shapes>g210</Shapes>
+    <Shapes>g213</Shapes>
+    <Shapes>g216</Shapes>
+    <Shapes>g219</Shapes>
+    <Shapes>g222</Shapes>
+    <Shapes>g225</Shapes>
+    <Shapes>g228</Shapes>
+    <Shapes>g231</Shapes>
+    <Shapes>g234</Shapes>
+    <Shapes>g237</Shapes>
+    <Shapes>g240</Shapes>
+    <Shapes>g243</Shapes>
+    <Shapes>g246</Shapes>
+    <Shapes>g249</Shapes>
+    <Shapes>g252</Shapes>
+    <Shapes>g255</Shapes>
+    <Shapes>g258</Shapes>
+    <Shapes>g261</Shapes>
+    <Shapes>g264</Shapes>
+    <Shapes>g267</Shapes>
+    <Shapes>g270</Shapes>
+    <Shapes>g273</Shapes>
+    <Shapes>g276</Shapes>
+    <Shapes>g279</Shapes>
+    <Shapes>g282</Shapes>
+    <Shapes>g285</Shapes>
+    <Shapes>g288</Shapes>
+    <Shapes>g291</Shapes>
+    <Shapes>g294</Shapes>
+    <Shapes>g297</Shapes>
+    <Shapes>g300</Shapes>
+    <Shapes>g303</Shapes>
+    <Shapes>g306</Shapes>
+    <Shapes>g309</Shapes>
+    <Shapes>g312</Shapes>
+    <Shapes>g315</Shapes>
+    <Shapes>g318</Shapes>
+    <Shapes>g321</Shapes>
+    <Shapes>g324</Shapes>
+    <Shapes>g327</Shapes>
+    <Shapes>g330</Shapes>
+    <Shapes>g333</Shapes>
+    <Shapes>g336</Shapes>
+    <Shapes>g339</Shapes>
+    <Shapes>g342</Shapes>
+    <Shapes>g345</Shapes>
+    <Shapes>g348</Shapes>
+    <Shapes>g351</Shapes>
+    <Shapes>g354</Shapes>
+    <Shapes>g357</Shapes>
+    <Shapes>g360</Shapes>
+    <Shapes>g363</Shapes>
+    <Shapes>g366</Shapes>
+    <Shapes>g369</Shapes>
+    <Shapes>g372</Shapes>
+    <Shapes>g375</Shapes>
+    <Shapes>g378</Shapes>
+    <Shapes>g381</Shapes>
+    <Shapes>g384</Shapes>
+    <Shapes>g387</Shapes>
+    <Shapes>g390</Shapes>
+    <Shapes>g393</Shapes>
+    <Shapes>g396</Shapes>
+    <Shapes>g399</Shapes>
+    <Shapes>g402</Shapes>
+    <Shapes>g405</Shapes>
+    <Shapes>g408</Shapes>
+    <Shapes>g411</Shapes>
+    <Shapes>g414</Shapes>
+    <Shapes>g417</Shapes>
+    <Shapes>g420</Shapes>
+    <Shapes>g423</Shapes>
+    <Shapes>g426</Shapes>
+    <Shapes>g429</Shapes>
+    <Shapes>g432</Shapes>
+    <Shapes>g435</Shapes>
+    <Shapes>g438</Shapes>
+    <Shapes>g441</Shapes>
+    <Shapes>g444</Shapes>
+    <Shapes>g447</Shapes>
+    <Shapes>g450</Shapes>
+    <Shapes>g453</Shapes>
+    <Shapes>g456</Shapes>
+    <Shapes>g459</Shapes>
+    <Shapes>g462</Shapes>
+    <Shapes>g468</Shapes>
+    <Shapes>g474</Shapes>
+    <Shapes>g477</Shapes>
+    <Shapes>g480</Shapes>
+    <Shapes>g483</Shapes>
+    <Shapes>g485</Shapes>
+    <Shapes>g487</Shapes>
+    <Shapes>g646</Shapes>
+    <Shapes>g647</Shapes>
+    <Shapes>g649</Shapes>
+    <Shapes>g650</Shapes>
+    <Shapes>g651</Shapes>
+    <Shapes>g652</Shapes>
+    <Shapes>g653</Shapes>
+    <Shapes>g654</Shapes>
+    <Shapes>g657</Shapes>
+    <Shapes>g658</Shapes>
+    <Shapes>g659</Shapes>
+    <Shapes>g660</Shapes>
+    <Shapes>g661</Shapes>
+    <Shapes>g662</Shapes>
+    <Shapes>g663</Shapes>
+    <Shapes>g664</Shapes>
+    <Shapes>g665</Shapes>
+    <Shapes>g666</Shapes>
+    <Shapes>g667</Shapes>
+    <Shapes>g668</Shapes>
+    <Shapes>g669</Shapes>
+    <Shapes>g670</Shapes>
+    <Shapes>g671</Shapes>
+    <Shapes>g672</Shapes>
+    <Shapes>g673</Shapes>
+    <Shapes>g674</Shapes>
+    <Shapes>g675</Shapes>
+    <Shapes>g676</Shapes>
+    <Shapes>g677</Shapes>
+    <Shapes>g678</Shapes>
+    <Shapes>g679</Shapes>
+    <Shapes>g680</Shapes>
+    <Shapes>g681</Shapes>
+    <Shapes>g682</Shapes>
+    <Shapes>g683</Shapes>
+    <Tolerance>
+      <IsZero>true</IsZero> <!-- 是否为零 -->
+      <LimitsValue>1e-8</LimitsValue> <!-- 容差范围限定 -->
+      <ToleranceType>DistanceTolerance</ToleranceType> <!-- 容差类型 -->
+    </Tolerance>
+  </Footprint>
+  <FootprintRegion>
+    <ID>g3</ID> <!-- 编号 -->
+    <Depth>1</Depth> <!-- 深度 -->
+    <Layer>ComponentBodyLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g2</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g6</ID> <!-- 编号 -->
+    <Depth>2</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g5</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g9</ID> <!-- 编号 -->
+    <Depth>3</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g8</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g12</ID> <!-- 编号 -->
+    <Depth>4</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g11</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g15</ID> <!-- 编号 -->
+    <Depth>5</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g14</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g18</ID> <!-- 编号 -->
+    <Depth>6</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g17</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g21</ID> <!-- 编号 -->
+    <Depth>7</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g20</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g24</ID> <!-- 编号 -->
+    <Depth>8</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g23</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g27</ID> <!-- 编号 -->
+    <Depth>9</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g26</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g30</ID> <!-- 编号 -->
+    <Depth>10</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g29</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g33</ID> <!-- 编号 -->
+    <Depth>11</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g32</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g36</ID> <!-- 编号 -->
+    <Depth>12</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g35</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g39</ID> <!-- 编号 -->
+    <Depth>13</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g38</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g42</ID> <!-- 编号 -->
+    <Depth>14</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g41</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g45</ID> <!-- 编号 -->
+    <Depth>15</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g44</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g48</ID> <!-- 编号 -->
+    <Depth>16</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g47</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g51</ID> <!-- 编号 -->
+    <Depth>17</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g50</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g54</ID> <!-- 编号 -->
+    <Depth>18</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g53</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g57</ID> <!-- 编号 -->
+    <Depth>19</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g56</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g60</ID> <!-- 编号 -->
+    <Depth>20</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g59</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g63</ID> <!-- 编号 -->
+    <Depth>21</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g62</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g66</ID> <!-- 编号 -->
+    <Depth>22</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g65</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g69</ID> <!-- 编号 -->
+    <Depth>23</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g68</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g72</ID> <!-- 编号 -->
+    <Depth>24</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g71</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g75</ID> <!-- 编号 -->
+    <Depth>25</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g74</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g78</ID> <!-- 编号 -->
+    <Depth>26</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g77</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g81</ID> <!-- 编号 -->
+    <Depth>27</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g80</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g84</ID> <!-- 编号 -->
+    <Depth>28</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g83</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g87</ID> <!-- 编号 -->
+    <Depth>29</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g86</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g90</ID> <!-- 编号 -->
+    <Depth>30</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g89</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g93</ID> <!-- 编号 -->
+    <Depth>31</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g92</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g96</ID> <!-- 编号 -->
+    <Depth>32</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g95</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g99</ID> <!-- 编号 -->
+    <Depth>33</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g98</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g102</ID> <!-- 编号 -->
+    <Depth>34</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g101</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g105</ID> <!-- 编号 -->
+    <Depth>35</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g104</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g108</ID> <!-- 编号 -->
+    <Depth>36</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g107</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g111</ID> <!-- 编号 -->
+    <Depth>37</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g110</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g114</ID> <!-- 编号 -->
+    <Depth>38</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g113</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g117</ID> <!-- 编号 -->
+    <Depth>39</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g116</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g120</ID> <!-- 编号 -->
+    <Depth>40</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g119</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g123</ID> <!-- 编号 -->
+    <Depth>41</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g122</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g126</ID> <!-- 编号 -->
+    <Depth>42</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g125</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g129</ID> <!-- 编号 -->
+    <Depth>43</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g128</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g132</ID> <!-- 编号 -->
+    <Depth>44</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g131</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g135</ID> <!-- 编号 -->
+    <Depth>45</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g134</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g138</ID> <!-- 编号 -->
+    <Depth>46</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g137</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g141</ID> <!-- 编号 -->
+    <Depth>47</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g140</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g144</ID> <!-- 编号 -->
+    <Depth>48</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g143</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g147</ID> <!-- 编号 -->
+    <Depth>49</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g146</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g150</ID> <!-- 编号 -->
+    <Depth>50</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g149</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g153</ID> <!-- 编号 -->
+    <Depth>51</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g152</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g156</ID> <!-- 编号 -->
+    <Depth>52</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g155</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g159</ID> <!-- 编号 -->
+    <Depth>53</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g158</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g162</ID> <!-- 编号 -->
+    <Depth>54</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g161</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g165</ID> <!-- 编号 -->
+    <Depth>55</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g164</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g168</ID> <!-- 编号 -->
+    <Depth>56</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g167</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g171</ID> <!-- 编号 -->
+    <Depth>57</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g170</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g174</ID> <!-- 编号 -->
+    <Depth>58</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g173</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g177</ID> <!-- 编号 -->
+    <Depth>59</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g176</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g180</ID> <!-- 编号 -->
+    <Depth>60</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g179</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g183</ID> <!-- 编号 -->
+    <Depth>61</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g182</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g186</ID> <!-- 编号 -->
+    <Depth>62</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g185</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g189</ID> <!-- 编号 -->
+    <Depth>63</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g188</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g192</ID> <!-- 编号 -->
+    <Depth>64</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g191</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g195</ID> <!-- 编号 -->
+    <Depth>65</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g194</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g198</ID> <!-- 编号 -->
+    <Depth>66</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g197</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g201</ID> <!-- 编号 -->
+    <Depth>67</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g200</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g204</ID> <!-- 编号 -->
+    <Depth>68</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g203</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g207</ID> <!-- 编号 -->
+    <Depth>69</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g206</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g210</ID> <!-- 编号 -->
+    <Depth>70</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g209</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g213</ID> <!-- 编号 -->
+    <Depth>71</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g212</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g216</ID> <!-- 编号 -->
+    <Depth>72</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g215</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g219</ID> <!-- 编号 -->
+    <Depth>73</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g218</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g222</ID> <!-- 编号 -->
+    <Depth>74</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g221</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g225</ID> <!-- 编号 -->
+    <Depth>75</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g224</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g228</ID> <!-- 编号 -->
+    <Depth>76</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g227</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g231</ID> <!-- 编号 -->
+    <Depth>77</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g230</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g234</ID> <!-- 编号 -->
+    <Depth>78</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g233</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g237</ID> <!-- 编号 -->
+    <Depth>79</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g236</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g240</ID> <!-- 编号 -->
+    <Depth>80</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g239</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g243</ID> <!-- 编号 -->
+    <Depth>81</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g242</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g246</ID> <!-- 编号 -->
+    <Depth>82</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g245</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g249</ID> <!-- 编号 -->
+    <Depth>83</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g248</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g252</ID> <!-- 编号 -->
+    <Depth>84</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g251</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g255</ID> <!-- 编号 -->
+    <Depth>85</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g254</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g258</ID> <!-- 编号 -->
+    <Depth>86</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g257</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g261</ID> <!-- 编号 -->
+    <Depth>87</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g260</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g264</ID> <!-- 编号 -->
+    <Depth>88</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g263</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g267</ID> <!-- 编号 -->
+    <Depth>89</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g266</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g270</ID> <!-- 编号 -->
+    <Depth>90</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g269</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g273</ID> <!-- 编号 -->
+    <Depth>91</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g272</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g276</ID> <!-- 编号 -->
+    <Depth>92</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g275</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g279</ID> <!-- 编号 -->
+    <Depth>93</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g278</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g282</ID> <!-- 编号 -->
+    <Depth>94</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g281</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g285</ID> <!-- 编号 -->
+    <Depth>95</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g284</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g288</ID> <!-- 编号 -->
+    <Depth>96</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g287</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g291</ID> <!-- 编号 -->
+    <Depth>97</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g290</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g294</ID> <!-- 编号 -->
+    <Depth>98</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g293</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g297</ID> <!-- 编号 -->
+    <Depth>99</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g296</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g300</ID> <!-- 编号 -->
+    <Depth>100</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g299</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g303</ID> <!-- 编号 -->
+    <Depth>101</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g302</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g306</ID> <!-- 编号 -->
+    <Depth>102</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g305</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g309</ID> <!-- 编号 -->
+    <Depth>103</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g308</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g312</ID> <!-- 编号 -->
+    <Depth>104</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g311</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g315</ID> <!-- 编号 -->
+    <Depth>105</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g314</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g318</ID> <!-- 编号 -->
+    <Depth>106</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g317</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g321</ID> <!-- 编号 -->
+    <Depth>107</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g320</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g324</ID> <!-- 编号 -->
+    <Depth>108</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g323</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g327</ID> <!-- 编号 -->
+    <Depth>109</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g326</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g330</ID> <!-- 编号 -->
+    <Depth>110</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g329</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g333</ID> <!-- 编号 -->
+    <Depth>111</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g332</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g336</ID> <!-- 编号 -->
+    <Depth>112</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g335</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g339</ID> <!-- 编号 -->
+    <Depth>113</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g338</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g342</ID> <!-- 编号 -->
+    <Depth>114</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g341</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g345</ID> <!-- 编号 -->
+    <Depth>115</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g344</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g348</ID> <!-- 编号 -->
+    <Depth>116</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g347</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g351</ID> <!-- 编号 -->
+    <Depth>117</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g350</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g354</ID> <!-- 编号 -->
+    <Depth>118</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g353</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g357</ID> <!-- 编号 -->
+    <Depth>119</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g356</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g360</ID> <!-- 编号 -->
+    <Depth>120</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g359</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g363</ID> <!-- 编号 -->
+    <Depth>121</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g362</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g366</ID> <!-- 编号 -->
+    <Depth>122</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g365</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g369</ID> <!-- 编号 -->
+    <Depth>123</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g368</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g372</ID> <!-- 编号 -->
+    <Depth>124</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g371</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g375</ID> <!-- 编号 -->
+    <Depth>125</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g374</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g378</ID> <!-- 编号 -->
+    <Depth>126</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g377</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g381</ID> <!-- 编号 -->
+    <Depth>127</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g380</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g384</ID> <!-- 编号 -->
+    <Depth>128</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g383</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g387</ID> <!-- 编号 -->
+    <Depth>129</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g386</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g390</ID> <!-- 编号 -->
+    <Depth>130</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g389</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g393</ID> <!-- 编号 -->
+    <Depth>131</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g392</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g396</ID> <!-- 编号 -->
+    <Depth>132</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g395</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g399</ID> <!-- 编号 -->
+    <Depth>133</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g398</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g402</ID> <!-- 编号 -->
+    <Depth>134</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g401</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g405</ID> <!-- 编号 -->
+    <Depth>135</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g404</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g408</ID> <!-- 编号 -->
+    <Depth>136</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g407</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g411</ID> <!-- 编号 -->
+    <Depth>137</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g410</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g414</ID> <!-- 编号 -->
+    <Depth>138</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g413</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g417</ID> <!-- 编号 -->
+    <Depth>139</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g416</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g420</ID> <!-- 编号 -->
+    <Depth>140</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g419</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g423</ID> <!-- 编号 -->
+    <Depth>141</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g422</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g426</ID> <!-- 编号 -->
+    <Depth>142</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g425</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g429</ID> <!-- 编号 -->
+    <Depth>143</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g428</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g432</ID> <!-- 编号 -->
+    <Depth>144</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g431</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g435</ID> <!-- 编号 -->
+    <Depth>145</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g434</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g438</ID> <!-- 编号 -->
+    <Depth>146</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g437</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g441</ID> <!-- 编号 -->
+    <Depth>147</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g440</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g444</ID> <!-- 编号 -->
+    <Depth>148</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g443</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g447</ID> <!-- 编号 -->
+    <Depth>149</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g446</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g450</ID> <!-- 编号 -->
+    <Depth>150</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g449</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g453</ID> <!-- 编号 -->
+    <Depth>151</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g452</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g456</ID> <!-- 编号 -->
+    <Depth>152</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g455</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g459</ID> <!-- 编号 -->
+    <Depth>153</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g458</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g462</ID> <!-- 编号 -->
+    <Depth>154</Depth> <!-- 深度 -->
+    <Layer>PinSolderingLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g461</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintRegion>
+    <ID>g468</ID> <!-- 编号 -->
+    <Depth>155</Depth> <!-- 深度 -->
+    <Layer>DocumentLayer</Layer> <!-- 层 -->
+    <RegionType>Fill</RegionType> <!-- 区域类型 -->
+    <Shape>g467</Shape> <!-- 几何形状 -->
+  </FootprintRegion>
+  <FootprintAttribute>
+    <ID>g646</ID> <!-- 编号 -->
+    <Depth>162</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g645</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g647</ID> <!-- 编号 -->
+    <Depth>163</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g645</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g649</ID> <!-- 编号 -->
+    <Depth>164</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model Title</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g648</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g650</ID> <!-- 编号 -->
+    <Depth>165</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g648</Text> <!-- 文本 -->
+    <Value>ebbfd5c5b7e8404c9e11c79d288c84f3|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g651</ID> <!-- 编号 -->
+    <Depth>166</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g645</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g652</ID> <!-- 编号 -->
+    <Depth>167</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Designator</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g645</Text> <!-- 文本 -->
+    <Value>U?</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g653</ID> <!-- 编号 -->
+    <Depth>168</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model Title</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g648</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g654</ID> <!-- 编号 -->
+    <Depth>169</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>3D Model</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g648</Text> <!-- 文本 -->
+    <Value>ebbfd5c5b7e8404c9e11c79d288c84f3|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g657</ID> <!-- 编号 -->
+    <Depth>170</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>LCSC Part Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>小尺寸 8GB eMMC 7.5x9mm 停产</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g658</ID> <!-- 编号 -->
+    <Depth>171</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SupplierPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>C6152614</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g659</ID> <!-- 编号 -->
+    <Depth>172</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Manufacturer</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>MK(米客方德)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g660</ID> <!-- 编号 -->
+    <Depth>173</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ManufacturerPart</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>MKEMC008GT2M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g661</ID> <!-- 编号 -->
+    <Depth>174</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier Footprint</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>BGA-153(7.5x9)</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g662</ID> <!-- 编号 -->
+    <Depth>175</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>JLCPCB Part Class</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>Extended Part</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g663</ID> <!-- 编号 -->
+    <Depth>176</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Datasheet</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>https://item.szlcsc.com/datasheet/MKEMC008GT2M-C/7096501.html</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g664</ID> <!-- 编号 -->
+    <Depth>177</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Supplier</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>LCSC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g665</ID> <!-- 编号 -->
+    <Depth>178</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>AddInBom</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g666</ID> <!-- 编号 -->
+    <Depth>179</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ConvertToPcb</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>yes</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g667</ID> <!-- 编号 -->
+    <Depth>180</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>SymbolName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>MKEMC008GT2M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g668</ID> <!-- 编号 -->
+    <Depth>181</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>FootprintName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g669</ID> <!-- 编号 -->
+    <Depth>182</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelId</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>ebbfd5c5b7e8404c9e11c79d288c84f3|0819f05c4eef4c71ace90d822a990e87</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g670</ID> <!-- 编号 -->
+    <Depth>183</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelName</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>FBGA-153_L9.0-W7.5-P0.50_MKEMC004GT1M-C</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g671</ID> <!-- 编号 -->
+    <Depth>184</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>ModelTransform</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>354.33,295.275,0,0,0,0,0,0,0</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g672</ID> <!-- 编号 -->
+    <Depth>185</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>configuration</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>MLC</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g673</ID> <!-- 编号 -->
+    <Depth>186</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Interface</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>eMMC 5.1</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g674</ID> <!-- 编号 -->
+    <Depth>187</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Memory Size</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>8GB</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g675</ID> <!-- 编号 -->
+    <Depth>188</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Operating Temperature</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>-25℃~+85℃</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g676</ID> <!-- 编号 -->
+    <Depth>189</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Reading Speed in Sequence</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>260MB/S</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g677</ID> <!-- 编号 -->
+    <Depth>190</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Writing Speed in Sequence</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>120MB/S</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g678</ID> <!-- 编号 -->
+    <Depth>191</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>NAND Operating Voltage (VCCF)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>2.7V~3.6V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g679</ID> <!-- 编号 -->
+    <Depth>192</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Controller Operating Voltage (VCCQ)</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>2.7V~3.6V；1.7V~1.95V</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g680</ID> <!-- 编号 -->
+    <Depth>193</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>NAND Stand-By Current</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>-</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g681</ID> <!-- 编号 -->
+    <Depth>194</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Controller Stand-By Current</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>160uA</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g682</ID> <!-- 编号 -->
+    <Depth>195</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Name</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>={ManufacturerPart}</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintAttribute>
+    <ID>g683</ID> <!-- 编号 -->
+    <Depth>196</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <Key>Description</Key> <!-- 键 -->
+    <KeyVisible>false</KeyVisible> <!-- 是否显示键 -->
+    <Text>g656</Text> <!-- 文本 -->
+    <Value>配置:MLC;接口类型:eMMC 5.1;存储容量:8GB;</Value> <!-- 值 -->
+    <ValueVisible>false</ValueVisible> <!-- 是否显示值 -->
+  </FootprintAttribute>
+  <FootprintLine>
+    <ID>g474</ID> <!-- 编号 -->
+    <Depth>156</Depth> <!-- 深度 -->
+    <Layer>ComponentOutlineLayer</Layer> <!-- 层 -->
+    <LineWidth>0.0508</LineWidth> <!-- 线宽 -->
+    <Shape>g473</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g477</ID> <!-- 编号 -->
+    <Depth>157</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g476</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g480</ID> <!-- 编号 -->
+    <Depth>158</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g479</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g483</ID> <!-- 编号 -->
+    <Depth>159</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.151999696</LineWidth> <!-- 线宽 -->
+    <Shape>g482</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g485</ID> <!-- 编号 -->
+    <Depth>160</Depth> <!-- 深度 -->
+    <Layer>TopSilkscreenLayer</Layer> <!-- 层 -->
+    <LineWidth>0.19999959999999997</LineWidth> <!-- 线宽 -->
+    <Shape>g484</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <FootprintLine>
+    <ID>g487</ID> <!-- 编号 -->
+    <Depth>161</Depth> <!-- 深度 -->
+    <Layer>DocumentLayer</Layer> <!-- 层 -->
+    <LineWidth>0.19999959999999997</LineWidth> <!-- 线宽 -->
+    <Shape>g486</Shape> <!-- 几何形状 -->
+  </FootprintLine>
+  <Pad> <!-- 焊盘 -->
+    <ID>g491</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g492</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g493</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g494</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g495</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g496</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g497</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g498</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g499</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g500</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g501</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g502</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g503</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g504</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>3.250057</Y>
+    </Location>
+    <PadNumber>A14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g505</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g506</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g507</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g508</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g509</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g510</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g511</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g512</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g513</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g514</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g515</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g516</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g517</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g518</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>2.7499309999999997</Y>
+    </Location>
+    <PadNumber>B14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g519</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g520</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g521</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g522</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g523</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g524</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g525</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g526</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g527</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g528</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g529</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g530</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g531</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g532</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>2.250059</Y>
+    </Location>
+    <PadNumber>C14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g533</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g534</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g535</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g536</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g537</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g538</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g539</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>1.7499329999999997</Y>
+    </Location>
+    <PadNumber>D14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g540</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g541</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g542</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g543</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g544</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g545</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g546</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g547</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g548</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g549</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g550</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g551</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>1.250061</Y>
+    </Location>
+    <PadNumber>E14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g552</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g553</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g554</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g555</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g556</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g557</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g558</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g559</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>0.7499349999999999</Y>
+    </Location>
+    <PadNumber>F14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g560</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g561</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g562</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g563</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g564</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g565</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g566</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g567</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>0.250063</Y>
+    </Location>
+    <PadNumber>G14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g568</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g569</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g570</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g571</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g572</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g573</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g574</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g575</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-0.250063</Y>
+    </Location>
+    <PadNumber>H14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g576</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g577</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g578</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g579</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g580</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g581</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g582</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g583</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-0.7499349999999999</Y>
+    </Location>
+    <PadNumber>J14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g584</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g585</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g586</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g587</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g588</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g589</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g590</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g591</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g592</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g593</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g594</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g595</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-1.250061</Y>
+    </Location>
+    <PadNumber>K14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g596</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g597</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g598</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g599</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g600</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g601</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-1.7499329999999997</Y>
+    </Location>
+    <PadNumber>L14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g602</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g603</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g604</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g605</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g606</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g607</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g608</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g609</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g610</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g611</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g612</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g613</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g614</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g615</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-2.250059</Y>
+    </Location>
+    <PadNumber>M14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g616</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g617</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g618</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g619</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g620</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g621</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g622</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g623</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g624</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g625</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g626</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g627</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g628</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g629</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-2.7499309999999997</Y>
+    </Location>
+    <PadNumber>N14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g630</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-3.250057</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P1</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g631</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.7499309999999997</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P2</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g632</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-2.250059</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P3</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g633</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.7499329999999997</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P4</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g634</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-1.250061</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P5</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g635</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.7499349999999999</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P6</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g636</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>-0.250063</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P7</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g637</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.250063</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P8</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g638</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>0.7499349999999999</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P9</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g639</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.250061</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P10</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g640</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>1.7499329999999997</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P11</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g641</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.250059</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P12</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g642</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>2.7499309999999997</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P13</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <Pad> <!-- 焊盘 -->
+    <ID>g643</ID> <!-- 编号 -->
+    <Location> <!-- 位置 -->
+      <X>3.250057</X>
+      <Y>-3.250057</Y>
+    </Location>
+    <PadNumber>P14</PadNumber> <!-- 焊盘编号 -->
+    <PadStack>g490</PadStack> <!-- 焊盘堆栈 -->
+    <Rotation>0</Rotation> <!-- 旋转弧度 -->
+  </Pad>
+  <PadStack> <!-- 焊盘堆栈 -->
+    <ID>g490</ID> <!-- 编号 -->
+    <LayerPadShape>
+      <Layer>TopLayer</Layer> <!-- 层 -->
+      <RegularPad>g489</RegularPad> <!-- 常规焊盘 -->
+    </LayerPadShape>
+    <Name/>
+    <PadStackType>SMDPad</PadStackType> <!-- 焊盘堆栈类型 -->
+  </PadStack>
+  <PadShape>
+    <ID>g489</ID> <!-- 编号 -->
+    <Shape>g488</Shape> <!-- 几何形状 -->
+  </PadShape>
+</root>

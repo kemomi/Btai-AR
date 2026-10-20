@@ -1,0 +1,708 @@
+{
+  "LineSegment2D": [ // 二维线段
+    {
+      "ID": "g33", // 编号
+      "EndPoint": {"X": 0.7500112, "Y": 0.7500112}, // 结束点
+      "StartPoint": {"X": -0.7500112, "Y": 0.7500112} // 起始点
+    },
+    {
+      "ID": "g34", // 编号
+      "EndPoint": {"X": 0.7500112, "Y": -0.7500112}, // 结束点
+      "StartPoint": {"X": 0.7500112, "Y": 0.7500112} // 起始点
+    },
+    {
+      "ID": "g35", // 编号
+      "EndPoint": {"X": -0.7500112, "Y": -0.7500112}, // 结束点
+      "StartPoint": {"X": 0.7500112, "Y": -0.7500112} // 起始点
+    },
+    {
+      "ID": "g36", // 编号
+      "EndPoint": {"X": -0.7500112, "Y": 0.7500112}, // 结束点
+      "StartPoint": {"X": -0.7500112, "Y": -0.7500112} // 起始点
+    },
+    {
+      "ID": "g39", // 编号
+      "EndPoint": {"X": 0.762, "Y": 0.762}, // 结束点
+      "StartPoint": {"X": -0.762, "Y": 0.762} // 起始点
+    },
+    {
+      "ID": "g42", // 编号
+      "EndPoint": {"X": 0.762, "Y": -0.762}, // 结束点
+      "StartPoint": {"X": 0.762, "Y": 0.762} // 起始点
+    },
+    {
+      "ID": "g45", // 编号
+      "EndPoint": {"X": -0.762, "Y": -0.762}, // 结束点
+      "StartPoint": {"X": 0.762, "Y": -0.762} // 起始点
+    },
+    {
+      "ID": "g48", // 编号
+      "EndPoint": {"X": -0.762, "Y": 0.762}, // 结束点
+      "StartPoint": {"X": -0.762, "Y": -0.762} // 起始点
+    }
+  ],
+  "Polycurve2D": [ // 二维折线
+    {"ID": "g37", "Curve": ["g33", "g34", "g35", "g36"]}, // 编号 - 曲线
+    {"ID": "g40", "Curve": ["g39"]}, // 编号 - 曲线
+    {"ID": "g43", "Curve": ["g42"]}, // 编号 - 曲线
+    {"ID": "g46", "Curve": ["g45"]}, // 编号 - 曲线
+    {"ID": "g49", "Curve": ["g48"]} // 编号 - 曲线
+  ],
+  "Circle2D": [
+    {
+      "ID": "g1", // 编号
+      "CenterPoint": {"X": -0.750062, "Y": -0.750062}, // 圆心
+      "Radius": 0.059969400000000006 // 半径
+    },
+    {
+      "ID": "g4", // 编号
+      "CenterPoint": {"X": -0.508, "Y": -0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g7", // 编号
+      "CenterPoint": {"X": -0.508, "Y": 0}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g10", // 编号
+      "CenterPoint": {"X": -0.508, "Y": 0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g13", // 编号
+      "CenterPoint": {"X": 0, "Y": -0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g16", // 编号
+      "CenterPoint": {"X": 0, "Y": 0}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g19", // 编号
+      "CenterPoint": {"X": 0, "Y": 0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g22", // 编号
+      "CenterPoint": {"X": 0.508, "Y": -0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g25", // 编号
+      "CenterPoint": {"X": 0.508, "Y": 0}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g28", // 编号
+      "CenterPoint": {"X": 0.508, "Y": 0.508}, // 圆心
+      "Radius": 0.12498069999999999 // 半径
+    },
+    {
+      "ID": "g31", // 编号
+      "CenterPoint": {"X": -0.599948, "Y": -0.9999979999999999}, // 圆心
+      "Radius": 0.07493 // 半径
+    },
+    {
+      "ID": "g51", // 编号
+      "CenterPoint": {"X": -0.599948, "Y": -0.9999979999999999}, // 圆心
+      "Radius": 0.050038 // 半径
+    },
+    {
+      "ID": "g53", // 编号
+      "CenterPoint": {"X": 0, "Y": 0}, // 圆心
+      "Radius": 0.10400029999999999 // 半径
+    }
+  ],
+  "Polygon2D": [
+    {"ID": "g2", "Hole": [], "Outline": "g1"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g5", "Hole": [], "Outline": "g4"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g8", "Hole": [], "Outline": "g7"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g11", "Hole": [], "Outline": "g10"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g14", "Hole": [], "Outline": "g13"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g17", "Hole": [], "Outline": "g16"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g20", "Hole": [], "Outline": "g19"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g23", "Hole": [], "Outline": "g22"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g26", "Hole": [], "Outline": "g25"}, // 编号 - 内洞 - 轮廓
+    {"ID": "g29", "Hole": [], "Outline": "g28"} // 编号 - 内洞 - 轮廓
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g65", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.1524, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g71", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.00387, // 宽
+      "Weight": 0 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g66", // 编号
+      "FontDefinition": "g65",
+      "FontSize": 1.7145, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g72", // 编号
+      "FontDefinition": "g71",
+      "FontSize": 0.04355, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Footprint": [
+    {
+      "ID": "g96", // 编号
+      "Name": "FC-9_L1.5-W1.5-R3-C3-P0.50-BL", // 名称
+      "Pad": ["g56", "g57", "g58", "g59", "g60", "g61", "g62", "g63", "g64"], // 焊盘
+      "Purpose": "Component", // 用途 - 元件
+      "Shapes": [
+        "g3",
+        "g6",
+        "g9",
+        "g12",
+        "g15",
+        "g18",
+        "g21",
+        "g24",
+        "g27",
+        "g30",
+        "g32",
+        "g38",
+        "g41",
+        "g44",
+        "g47",
+        "g50",
+        "g52",
+        "g67",
+        "g68",
+        "g69",
+        "g70",
+        "g73",
+        "g74",
+        "g75",
+        "g76",
+        "g77",
+        "g78",
+        "g79",
+        "g80",
+        "g81",
+        "g82",
+        "g83",
+        "g84",
+        "g85",
+        "g86",
+        "g87",
+        "g88",
+        "g89",
+        "g90",
+        "g91",
+        "g92",
+        "g93",
+        "g94",
+        "g95"
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "FootprintRegion": [
+    {
+      "ID": "g3", // 编号
+      "Depth": 1, // 深度
+      "Layer": "ComponentBodyLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g2" // 几何形状
+    },
+    {
+      "ID": "g6", // 编号
+      "Depth": 2, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g5" // 几何形状
+    },
+    {
+      "ID": "g9", // 编号
+      "Depth": 3, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g8" // 几何形状
+    },
+    {
+      "ID": "g12", // 编号
+      "Depth": 4, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g11" // 几何形状
+    },
+    {
+      "ID": "g15", // 编号
+      "Depth": 5, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g14" // 几何形状
+    },
+    {
+      "ID": "g18", // 编号
+      "Depth": 6, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g17" // 几何形状
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 7, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g20" // 几何形状
+    },
+    {
+      "ID": "g24", // 编号
+      "Depth": 8, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g23" // 几何形状
+    },
+    {
+      "ID": "g27", // 编号
+      "Depth": 9, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g26" // 几何形状
+    },
+    {
+      "ID": "g30", // 编号
+      "Depth": 10, // 深度
+      "Layer": "PinSolderingLayer", // 层
+      "RegionType": "Fill", // 区域类型
+      "Shape": "g29" // 几何形状
+    }
+  ],
+  "FootprintAttribute": [
+    {
+      "ID": "g67", // 编号
+      "Depth": 18, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g66", // 文本
+      "Value": "FC-9_L1.5-W1.5-R3-C3-P0.50-BL", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g68", // 编号
+      "Depth": 19, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g66", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g69", // 编号
+      "Depth": 20, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g66", // 文本
+      "Value": "FC-9_L1.5-W1.5-R3-C3-P0.50-BL", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g70", // 编号
+      "Depth": 21, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g66", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g73", // 编号
+      "Depth": 22, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "1.15W单声道D类音频功率放大器", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g74", // 编号
+      "Depth": 23, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "C164085", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g75", // 编号
+      "Depth": 24, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "AWINIC(艾为)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g76", // 编号
+      "Depth": 25, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "AW8010AFCR", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g77", // 编号
+      "Depth": 26, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "FC-9", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g78", // 编号
+      "Depth": 27, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "扩展库", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g79", // 编号
+      "Depth": 28, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "https://item.szlcsc.com/datasheet/AW8010AFCR/175467.html", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g80", // 编号
+      "Depth": 29, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g81", // 编号
+      "Depth": 30, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g82", // 编号
+      "Depth": 31, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g83", // 编号
+      "Depth": 32, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "AW8010AFCR", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g84", // 编号
+      "Depth": 33, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "FC-9_L1.5-W1.5-R3-C3-P0.50-BL", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g85", // 编号
+      "Depth": 34, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "994c4392e0be40a8ada0f56a493e6c5a|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g86", // 编号
+      "Depth": 35, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "FC-9_L1.5-W1.5-H0.55-R3-C3-P0.51-BL", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g87", // 编号
+      "Depth": 36, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "59.055,59.055,0,0,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g88", // 编号
+      "Depth": 37, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "D类功放", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g89", // 编号
+      "Depth": 38, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Speaker Channels", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "单声道", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g90", // 编号
+      "Depth": 39, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Output Power", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "1.15Wx1@8Ω", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g91", // 编号
+      "Depth": 40, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Voltage - Supply", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g92", // 编号
+      "Depth": 41, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Quiescent Current", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g93", // 编号
+      "Depth": 42, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Operating Temperature", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g94", // 编号
+      "Depth": 43, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "={ManufacturerPart}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g95", // 编号
+      "Depth": 44, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g72", // 文本
+      "Value": "功放类型:D类功放;扬声器通道数:单声道;输出功率:1.15Wx1@8Ω;静态电流(Iq):-;", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "FootprintLine": [
+    {
+      "ID": "g32", // 编号
+      "Depth": 11, // 深度
+      "Layer": "DocumentLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g31" // 几何形状
+    },
+    {
+      "ID": "g38", // 编号
+      "Depth": 12, // 深度
+      "Layer": "ComponentOutlineLayer", // 层
+      "LineWidth": 0.0508, // 线宽
+      "Shape": "g37" // 几何形状
+    },
+    {
+      "ID": "g41", // 编号
+      "Depth": 13, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g40" // 几何形状
+    },
+    {
+      "ID": "g44", // 编号
+      "Depth": 14, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g43" // 几何形状
+    },
+    {
+      "ID": "g47", // 编号
+      "Depth": 15, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g46" // 几何形状
+    },
+    {
+      "ID": "g50", // 编号
+      "Depth": 16, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g49" // 几何形状
+    },
+    {
+      "ID": "g52", // 编号
+      "Depth": 17, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.150114, // 线宽
+      "Shape": "g51" // 几何形状
+    }
+  ],
+  "Pad": [ // 焊盘
+    {
+      "ID": "g56", // 编号
+      "Location": {"X": -0.508, "Y": -0.508}, // 位置
+      "PadNumber": "A1", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g57", // 编号
+      "Location": {"X": -0.508, "Y": 0}, // 位置
+      "PadNumber": "A2", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g58", // 编号
+      "Location": {"X": -0.508, "Y": 0.508}, // 位置
+      "PadNumber": "A3", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g59", // 编号
+      "Location": {"X": 0, "Y": -0.508}, // 位置
+      "PadNumber": "B1", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g60", // 编号
+      "Location": {"X": 0, "Y": 0}, // 位置
+      "PadNumber": "B2", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g61", // 编号
+      "Location": {"X": 0, "Y": 0.508}, // 位置
+      "PadNumber": "B3", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g62", // 编号
+      "Location": {"X": 0.508, "Y": -0.508}, // 位置
+      "PadNumber": "C1", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g63", // 编号
+      "Location": {"X": 0.508, "Y": 0}, // 位置
+      "PadNumber": "C2", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    },
+    {
+      "ID": "g64", // 编号
+      "Location": {"X": 0.508, "Y": 0.508}, // 位置
+      "PadNumber": "C3", // 焊盘编号
+      "PadStack": "g55", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    }
+  ],
+  "PadStack": [ // 焊盘堆栈
+    {
+      "ID": "g55", // 编号
+      "LayerPadShape": [{"Layer": "TopLayer", "RegularPad": "g54"}], // 层 - 常规焊盘
+      "Name": "", // 名称
+      "PadStackType": "SMDPad" // 焊盘堆栈类型 - 贴片焊盘
+    }
+  ],
+  "PadShape": [{"ID": "g54", "Shape": ["g53"]}] // 编号 - 几何形状
+}

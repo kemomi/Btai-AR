@@ -1,0 +1,412 @@
+{
+  "Circle2D": [
+    {"ID": "g6", "CenterPoint": {"X": 0, "Y": 0}, "Radius": 1.0820501599999999} // 编号 - 圆心 - 半径
+  ],
+  "Rectangle": [ // 矩形
+    {
+      "ID": "g1", // 编号
+      "ChamferX": 0.7999996699999999, // 水平倒角尺寸
+      "ChamferY": 0.7999996699999999, // 垂直倒角尺寸
+      "Height": 1.5999993399999999, // 高
+      "Position": {"X": -0.7999996699999999, "Y": 0.7999996699999999}, // 位置
+      "Rotation": 0, // 旋转弧度
+      "Width": 1.5999993399999999 // 宽
+    },
+    {
+      "ID": "g3", // 编号
+      "ChamferX": 0.45000037000000004, // 水平倒角尺寸
+      "ChamferY": 0.45000037000000004, // 垂直倒角尺寸
+      "Height": 0.9000007400000001, // 高
+      "Position": {"X": -0.45000037000000004, "Y": 0.45000037000000004}, // 位置
+      "Rotation": 1.5707963267948966, // 旋转弧度
+      "Width": 0.9000007400000001 // 宽
+    }
+  ],
+  "FontDefinition": [
+    {
+      "ID": "g8", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.1524, // 宽
+      "Weight": 0 // 字重
+    },
+    {
+      "ID": "g19", // 编号
+      "Align": "BottomLeft", // 对齐方式
+      "CharSpace": 0,
+      "FontFamily": "default", // 字体名称
+      "Italic": false, // 斜体
+      "LineSpace": 0,
+      "Overline": false, // 上划线
+      "Strikenout": false, // 删除线
+      "Underline": false, // 下划线
+      "Width": 0.00387, // 宽
+      "Weight": 0 // 字重
+    }
+  ],
+  "Text2D": [
+    {
+      "ID": "g9", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 1.7145, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g12", // 编号
+      "FontDefinition": "g8",
+      "FontSize": 1.143, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    },
+    {
+      "ID": "g20", // 编号
+      "FontDefinition": "g19",
+      "FontSize": 0.04355, // 字体大小
+      "Mirror": false, // 镜像
+      "OriginPoint": {"X": 0, "Y": 0}, // 原点
+      "Rotation": 0, // 旋转弧度
+      "Text": "" // 文本
+    }
+  ],
+  "Footprint": [
+    {
+      "ID": "g38", // 编号
+      "Name": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 名称
+      "Pad": ["g5"], // 焊盘
+      "Purpose": "Component", // 用途 - 元件
+      "Shapes": [
+        "g7",
+        "g10",
+        "g11",
+        "g13",
+        "g14",
+        "g15",
+        "g16",
+        "g17",
+        "g18",
+        "g21",
+        "g22",
+        "g23",
+        "g24",
+        "g25",
+        "g26",
+        "g27",
+        "g28",
+        "g29",
+        "g30",
+        "g31",
+        "g32",
+        "g33",
+        "g34",
+        "g35",
+        "g36",
+        "g37"
+      ],
+      "Tolerance": [
+        {
+          "IsZero": true, // 是否为零
+          "LimitsValue": 1e-8, // 容差范围限定
+          "ToleranceType": "DistanceTolerance" // 容差类型
+        }
+      ]
+    }
+  ],
+  "FootprintAttribute": [
+    {
+      "ID": "g10", // 编号
+      "Depth": 2, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g11", // 编号
+      "Depth": 3, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g13", // 编号
+      "Depth": 4, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model Title", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g14", // 编号
+      "Depth": 5, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "7eb7295bea53437cacf5a38897fed9b2|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g15", // 编号
+      "Depth": 6, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g16", // 编号
+      "Depth": 7, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Designator", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g9", // 文本
+      "Value": "U?", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g17", // 编号
+      "Depth": 8, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model Title", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g18", // 编号
+      "Depth": 9, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "3D Model", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g12", // 文本
+      "Value": "7eb7295bea53437cacf5a38897fed9b2|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g21", // 编号
+      "Depth": 10, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "LCSC Part Name", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "天线顶针", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g22", // 编号
+      "Depth": 11, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SupplierPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "C2826549", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g23", // 编号
+      "Depth": 12, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Manufacturer", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "BAT WIRELESS(蝙蝠无线)", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g24", // 编号
+      "Depth": 13, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ManufacturerPart", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g25", // 编号
+      "Depth": 14, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier Footprint", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "-", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g26", // 编号
+      "Depth": 15, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "JLCPCB Part Class", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "Extended Part", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g27", // 编号
+      "Depth": 16, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Datasheet", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "https://atta.szlcsc.com/upload/public/pdf/source/20210416/C2826549_AFE8D68941B02645C9C3BE17D86096B9.pdf", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g28", // 编号
+      "Depth": 17, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Supplier", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "LCSC", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g29", // 编号
+      "Depth": 18, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "AddInBom", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g30", // 编号
+      "Depth": 19, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ConvertToPcb", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "yes", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g31", // 编号
+      "Depth": 20, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "SymbolName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g32", // 编号
+      "Depth": 21, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "FootprintName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g33", // 编号
+      "Depth": 22, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelId", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "7eb7295bea53437cacf5a38897fed9b2|0819f05c4eef4c71ace90d822a990e87", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g34", // 编号
+      "Depth": 23, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelName", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "CONN-SMD_BWCD-L5.0W2.0H2.5", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g35", // 编号
+      "Depth": 24, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "ModelTransform", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "78.74,78.4711,0,0,0,0,0,0,0", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g36", // 编号
+      "Depth": 25, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Name", // 键 - 名称
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "={ManufacturerPart}", // 值
+      "ValueVisible": false // 是否显示值
+    },
+    {
+      "ID": "g37", // 编号
+      "Depth": 26, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "Key": "Description", // 键
+      "KeyVisible": false, // 是否显示键
+      "Text": "g20", // 文本
+      "Value": "单头顶针 BWCD-L5.0W2.0H2.5 长5.0mm宽2.0mm高2.5mm", // 值
+      "ValueVisible": false // 是否显示值
+    }
+  ],
+  "FootprintLine": [
+    {
+      "ID": "g7", // 编号
+      "Depth": 1, // 深度
+      "Layer": "TopSilkscreenLayer", // 层
+      "LineWidth": 0.254, // 线宽
+      "Shape": "g6" // 几何形状
+    }
+  ],
+  "Pad": [ // 焊盘
+    {
+      "ID": "g5", // 编号
+      "Location": {"X": 0, "Y": 0}, // 位置
+      "PadNumber": "1", // 焊盘编号
+      "PadStack": "g4", // 焊盘堆栈
+      "Rotation": 0 // 旋转弧度
+    }
+  ],
+  "PadStack": [ // 焊盘堆栈
+    {
+      "ID": "g4", // 编号
+      "Drill": {
+        "DrillArray": [{"X": -0.0000762, "Y": 0.0000254}], // 钻孔阵列
+        "HoleShape": "g3", // 孔形状
+        "Plated": true // 电镀
+      },
+      "LayerPadShape": [
+        {"Layer": "TopLayer", "RegularPad": "g2"}, // 层 - 常规焊盘
+        {"Layer": "BottomLayer", "RegularPad": "g2"} // 层 - 常规焊盘
+      ],
+      "Name": "", // 名称
+      "PadStackType": "ThroughPad" // 焊盘堆栈类型 - 通孔
+    }
+  ],
+  "PadShape": [{"ID": "g2", "Shape": ["g1"]}] // 编号 - 几何形状
+}
